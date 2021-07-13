@@ -50,7 +50,7 @@ permalink: "/author"
       </div> -->
 
       {% for authorcategory in site.authorcategories %}
-      <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ authorcategory[1].name }}</span></h3>
+      <h3 class="font-weight-bold title text-uppercase mb-4 brand-color page-subheading"><span>{{ authorcategory[1].name }}</span></h3>
       <div class="row gap-y listrecent listauthor">
         {% for author in site.data.authors %}
           {% if author[1].category == authorcategory[0] %}
