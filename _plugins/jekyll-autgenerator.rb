@@ -5,16 +5,24 @@ module Jekyll
     safe true
 
     def generate(site)
-      site.categories.each do |author|
+      site.data["authors"].each do |author|
         build_subpages(site, "author", author)
       end
     end
 
-    def build_subpages(site, type, posts)
-      posts[1] = posts[1].sort_by { |p| -p.date.to_f }
-      atomize(site, type, posts)
-      paginate(site, type, posts)
-    end
+    def build_subpages(site, type, author)
+      # puts author[0]
+      posts = []
+      site.posts.docs.each do |post|
+        if author[0] == post["author"] || (post["authors"] && post["authors"].include?(author[0]))
+          posts.append(post)
+        end
+      end
+      _posts = [author[0], posts.reverse()]
+      # posts[1] = posts[1].sort_by { |p| -p.date.to_f }
+      atomize(site, type, _posts)
+      paginate(site, type, _posts)
+    end 
 
     def atomize(site, type, posts)
       path = "/author/#{posts[0]}"

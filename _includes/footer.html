@@ -1,0 +1,98 @@
+<!-- Footer -->
+<footer class="bg-dark text-center text-white">
+    <!-- Grid container -->
+    <div class="container p-4">
+      <!-- Section: Subscribe -->
+      <section id="subscribe">
+        <!-- Begin Mailchimp Signup Form -->
+            <div class="row d-flex justify-content-center">
+                <!--Grid column-->
+                    <strong style="font-size: 2.5rem; margin: 5px 0">Subscribe to the Newsletter</strong>
+                <!--Grid column-->
+            </div>
+            <form action="https://gmail.us4.list-manage.com/subscribe/post?u=1c43ace496ccffe53f6755bf0&amp;id=f0850829d5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div class="form-group row justify-content-center">
+                    <div class="col-md-6">
+                        <input class="form-control" style="font-size: 1.8rem;" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mail Address" required>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c43ace496ccffe53f6755bf0_f0850829d5" tabindex="-1" value=""></div>
+                    </div>
+                    <div class="col-auto">
+                        <input class="form-control btn btn-info" style="font-size: 1.8rem; text-align:center;" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                    </div>
+                </div>    
+            </form>
+        <!--End mc_embed_signup-->
+      </section>
+      <hr style="margin: 1.5em;">
+      <!-- Section: Subscribe -->
+
+      <!-- Section: Form -->
+      <section id="contact">
+        <form action="https://formspree.io/{{site.email}}" method="POST">    
+          <!--Grid row-->
+          <div class="row d-flex justify-content-center">
+            <!--Grid column-->
+                <strong style="font-size: 2.5rem; margin: 5px 0">Contact Us</strong>
+            <!--Grid column-->
+            </div>
+
+            <div class="row d-flex justify-content-center" style="margin-bottom: 5px;">
+                Please send your message to {{site.name}}. We will reply as soon as possible!
+            </div>
+  
+            <!--Grid column-->
+            <div class="form-group row">
+              <!-- Email input -->
+              <div class="col-xl-12">
+                <textarea style="max-width: unset; width: 100%; font-size: 1.8rem;" rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>  
+              </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-md-6">
+                <input class="form-control" style="font-size: 1.8rem;" type="text" name="name" placeholder="Name*" required>
+                </div>
+                <div class="col-md-6">
+                <input class="form-control" style="font-size: 1.8rem;" type="email" name="_replyto" placeholder="E-mail Address*" required>
+                </div>
+            </div>
+            <!--Grid column-->
+  
+            <!--Grid column-->
+            <div class="col-auto">
+              <!-- Submit button -->
+              <input class="btn btn-brand-color btn-primary" style="font-size: 1.8rem;" type="submit" value="Send">
+            </div>
+            <!--Grid column-->
+          <!--Grid row-->
+        </form>
+      </section>
+      <!-- Section: Form -->
+    
+    
+    </div>
+    <!-- Grid container -->
+    <br>
+    <!-- Section: Social media -->
+    <section class="mb-4">
+        <!-- Facebook -->
+        <a target="_blank" rel="noopener" href="https://www.facebook.com/lselawreview/"><img class="icon" alt="facebook" src="{{ site.url }}{{ site.baseurl }}assets/images/facebook.png" /></span></a>
+
+        <!-- Twitter -->
+        <a target="_blank" rel="noopener" href="https://twitter.com/lselawreview"><img class="icon" alt="twitter" src="{{ site.url }}{{ site.baseurl }}assets/images/twitter.png" /></span></a>
+  
+        <!-- Instagram -->
+        <a target="_blank" rel="noopener" href="https://www.instagram.com/lselawreview/"><img class="icon" alt="instagram" src="{{ site.url }}{{ site.baseurl }}assets/images/instagram.png" /></span></a>
+
+        <!-- LinkedIn -->
+        <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/lse-law-review/"><img class="icon" alt="linkedin" src="{{ site.url }}{{ site.baseurl }}assets/images/linkedin.svg" /></span></a>
+  
+      </section>
+  
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+        <a href="{{ site.baseurl }}" style="color: white;">Copyright </a> &copy; {{  site.time | date: '%Y' }} {{ site.name }}. 
+    </div>
+    <!-- Copyright -->
+    
+  </footer>
+  <!-- Footer -->

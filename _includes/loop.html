@@ -17,21 +17,27 @@
     {% for post in paginator.posts %}
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | remove: '/' }}">{{ post.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | slice: 1, post.url.size }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | remove: '/' }}">&raquo;</a></p>
+            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | slice: 1, post.url.size }}">&raquo;</a></p>
         </section>
         <footer class="post-meta">
+            <span>
             {% for author in site.data.authors %}
-                {% if author[1].username == post.author %}
+                {% if author[1].name == post.author %}
 
-                {% if author[1].assets %}<img class="author-thumb" src="{{ site.baseurl }}{{ author[1].assets }}" alt="Author image" nopin="nopin" />{% endif %}
+                {% if author[1].avatar %}<img class="author-thumb" src="{{ site.baseurl }}{{ author[1].avatar }}" alt="Author image" nopin="nopin" />{% endif %}
                 <!-- author -->
                 <a href='{{ site.baseurl }}author/{{ post.author }}'>{{ author[1].name }}</a>
 
                 {% endif %}
+                {% if post.authors contains author[1].name %}
+                    <a class="multiple" href='{{ site.baseurl }}author/{{ author[1].name }}'>{{ author[1].name }}</a>
+                    <span class="sep">&</span>
+                {% endif %}
             {% endfor %}
+            </span>
 
             <!-- [[tags prefix=" on "]] -->
             {% if post.tags.size > 0 %}
@@ -58,6 +64,8 @@
         {% include author_pagination.html %}
     {% elsif page.class == 'tag-template' %}
         {% include tag_pagination.html %}
+    {% elsif page.class == 'category-template' %}
+        {% include category_pagination.html %}
     {% else %}
         {% include post_pagination.html %}
     {% endif %}

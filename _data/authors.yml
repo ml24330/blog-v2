@@ -1,40 +1,221 @@
-casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
-  assets: assets/images/casper.png
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  assets: assets/images/lewis.jpeg
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: I was the 16th president of the USA until I was assassinated in April of 1963. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  assets: assets/images/abraham.jpg
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  assets: assets/images/edgar.gif
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  assets: assets/images/martin.jpg
+---
+Austin Chan:
+  name:           "Austin Chan"
+  avatar:         assets/images/austinchan.jpg
+  bio:            "LLB (LSE) '20 and Notes Editor of the LSE Law Review 2019-2020"
+  email:          h.chan21@lse.ac.uk
+  category:       editor
+  
+Ann-Marie Sous:
+  name:           "Ann-Marie Sous"      
+  bio:            "LLB (LSE) '20 and Criminal Law Notes Editor at the LSE Law Review 2019-2020"
+  category:       editor
+
+Claudia Tam:
+  name:           "Claudia Tam"
+  bio:            "LLB (HKU) '19, LLM (LSE) 20' and Seminars Officer of the LSE Law Review 2019-20"
+  category:       contributor
+
+Ching Suen:
+  name:           "Ching Suen"
+  bio:            "LLB (LSE) '21 and Private Law Notes Editor of the LSE Law Review Summer Board 2019"
+  category:       editor
+
+Dr. Floris de Witte:
+  name:           "Dr. Floris de Witte"
+  bio:            "Assistant Professor of Law at the LSE"
+  email:          f.e.de-witte@lse.ac.uk
+  category:       contributor
+
+Gloria Schiavo:
+  name:           "Gloria Schiavo"
+  avatar:         assets/images/gloriaschiavo.jpg
+  bio:            "LLB (LSE) '20 and Editor-in-Chief of the LSE Law Review 2019-2020"
+  email:          g.schiavo@lse.ac.uk
+  category:       editor
+  
+Himmy Lui:
+  name:           "Himmy Lui"
+  bio:            "LLM (LSE) '20 and Notes Editor of the LSE Law Review 2019-2020"
+  category:       editor
+  
+Isabel Hahn:
+  name:           "Isabel Hahn"
+  avatar:         assets/images/isabelhahn.jpg
+  bio:            "LLB (LSE) '20 and Articles Editor of the LSE Law Review Summer Board 2018"
+  email:          i.hahn@lse.ac.uk
+  category:       editor
+
+Jason Lin:
+  name:           "Jason Lin"
+  bio:            "LLB (LSE) '21 and Criminal Law Notes Editor of the LSE Law Review Summer Board 2019"
+  category:       editor
+
+Josiah Senu:
+  name:           "Josiah Senu"
+  bio:            "LLB (LSE) '19 and Articles Editor of the LSE Law Review Summer Board 2018"
+  email:          josiah_senu@yahoo.com
+  category:       editor
+
+Jonathan Fisher QC:
+  name:           "Jonathan Fisher QC"
+  bio:            "Visiting Professor in Practice at the LSE"
+  email:          j.s.fisher@lse.ac.uk
+  category:       contributor
+
+Lora Izvorova:
+  name:           "Lora Izvorova"
+  avatar:         assets/images/loraizvorova.jpg
+  bio:            "LLB (LSE) '18, LLM (Cambridge) '19 and Management Editor at the LSE Law Review 2017-2018"
+  email:          lora.izvorova@gmail.com
+  category:       contributor
+
+Mahmoud Serewel:
+  name:           "Mahmoud Serewel"
+  bio:            "LLB (LSE) '19 and International Law Notes Editor of the LSE Law Review 2018-2019"
+  email:          m.s.serewel@lse.ac.uk
+  category:       editor
+  
+Naina Gupta:
+  name:           "Naina Gupta"
+  bio:            "LLM (Public International Law) (LSE) ‘20"
+  email:          ngupta.nl@gmail.com
+  category:       contributor
+  
+Narjis Khan:
+  name:           "Narjis Khan"
+  bio:            "LLM (Public International Law) (LSE) ‘16"
+  category:       contributor
+
+
+Thomas Yeon:
+  name:           "Thomas Yeon"
+  avatar:         assets/images/thomasyeon.jpg
+  bio:            "LLB (Durham) '18, LLM (LSE) '19, PCLL (HKU)'20 and Public Law Notes Editor of the LSE Law Review Summer Board 2019"
+  email:          yeonky1997@gmail.com
+  category:       editor
+
+Thomas Howard:
+  name:           "Thomas Howard"
+  bio:            "BA Jurisprudence with European Law (Oxford)'20"   
+  category:       contributor
+
+Madeleine Lusted:
+  name:           "Madeleine Lusted"
+  bio:            "LLB (Bristol) '20"
+  category:       contributor
+
+Samantha Goh:
+  name:           "Samantha Goh"
+  bio:            "LLB (LSE), LLM (International Law) (LSE) ‘20 and International Law Notes Editor of LSE Law Review 2019-20"
+  category:       editor
+
+
+Claudia-Skye Lee Xin:
+  name:           "Claudia-Skye Lee Xin"
+  bio:            "LLB (LSE) '23, JD (Columbia) 23' and Criminal Law Notes Editor of LSE Law Review 2020-21"
+  email:          c.lee-xin@lse.ac.uk
+  category:       editor
+
+Simon Witney:
+  name:           "Simon Witney"
+  bio:            "PhD Candidate at the LSE"
+  email:          s.r.witney@lse.ac.uk
+  category:       contributor
+
+William Wong:
+  name:           "William Wong"
+  avatar:         assets/images/williamwong.jpg
+  bio:            "LLB (LSE) '20 and Private Law Notes Editor of the LSE Law Review 2018-2019"
+  email:          williamwuilong@gmail.com
+  category:       editor
+
+Andreas Daum:
+  name:           "Andreas Daum"
+  bio:            "LLM (LSE) '20"
+  email:          Andreas.daum.landsberg@gmail.com
+  category:       contributor
+  
+Mythili Mishra: 
+  name:          "Mythili Mishra"
+  bio:           "LLB (LSE) '21 and Notes Editor of the LSE Law Review Summer Board 2020"
+  email:          m.mishra1@lse.ac.uk
+  category:       editor
+
+Daniel Henderson: 
+  name:               "Daniel Henderson"
+  bio:                "BA Law (Cambridge) 19', LLM (LSE) '20 and Notes Editor of the LSE Law Review Summer Board 2020"
+  email:              d.j.henderson@lse.ac.uk 
+  category:           editor
+
+Julius Chen Ma: 
+  name:               "Julius Chen Ma"
+  bio:                "LLB (LSE) '22 and Notes Editor of the LSE Law Review Summer Board 2020"
+  email:              j.c.ma@lse.ac.uk
+  category:           editor
+
+Mathias Baudena: 
+  name:               "Mathias Baudena"
+  bio:                "LLB (LSE) '21"
+  email:              M.H.Baudena@lse.ac.uk
+  category:           contributor
+
+Karen Viktoria Akerø-Stueland:
+  name:               "Karen Viktoria Akerø-Stueland"
+  bio:                "MSc Human Rights (LSE) '21"
+  email:              viktoria.stueland@gmail.com
+  category:           contributor
+
+Kevin Gerenni:
+  name:               "Kevin Gerenni"
+  bio:                "LLM (Public International Law) (LSE) '21 and Public International Law Notes Editor of the LSE Law Review 2020-2021"
+  email:              K.Y.Gerenni@lse.ac.uk
+  category:           editor
+  
+James Brown:
+  name:               "James Brown"
+  bio:                "LLB (Huddersfield) '20"
+  email:              jamesbrown070699@gmail.com
+  category:           contributor
+
+Osama Shaaban:
+  name:               "Osama Shaaban"
+  bio:                "LLB (Hons.) (Oxford Brookes) '21"
+  email:              osama.shaaban2001@gmail.com
+  category:           contributor
+
+Tevž Sitar:
+  name:               "Tevž Sitar"
+  bio:                "LLB (LSE) '23 and Junior Notes Editor of the LSE Law Review 2020-21"
+  email:              t.sitar@lse.ac.uk 
+  category:           editor
+  
+Allison Wu:
+  name:               "Allison Wu"
+  bio:                "LLB (LSE) '22 and Public Law Notes Editor of the LSE Law Review 2020-21"
+  email:              a.i.wu@lse.ac.uk
+  category:           editor
+
+Tai Shen Wong:
+  name:               "Tai Shen Wong"
+  bio:                "LLB (LSE) '22 and Obligations Law Notes Editor of the LSE Law Review 2020-21"
+  email:              t.s.wong1@lse.ac.uk
+  category:           editor
+
+Vasiliki Poula:
+  name:               "Vasiliki Poula"
+  bio:                "LLB (LSE) '21 and Junior Editor of the LSE Law Review 2018-19"
+  category:           editor
+
+Mahathi Utham Kumar: 
+  name:               "Mahathi Utham Kumar"
+  bio:                "LLB (National University of Advanced Legal Studies in India) '23"
+  email:              mahathi.ukj@gmail.com
+  category:           contributor
+
+Hrishikesh Anand: 
+  name:               "Hrishikesh Anand"
+  bio:                "LLB (National University of Advanced Legal Studies in India) '23"
+  email:              mahathi.ukj@gmail.com
+  category:           contributor
+---

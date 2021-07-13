@@ -1,0 +1,106 @@
+---
+title: "Authors"
+layout: page
+permalink: "/author"
+---
+<br>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-12">
+      <!-- <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1> -->
+
+      <style>
+        .post {
+            max-width: 1000px;
+        }
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            margin-right: -15px;
+            margin-left: -15px;
+        }
+        .row.gap-y>.col, .row.gap-y>[class*="col-"] {
+            padding-top: 15px;
+            padding-bottom: 15px;
+        }
+        @media only screen and (min-width: 992px) {
+            .author-border {
+                min-height: 250px;
+            }
+        }
+        
+      </style>
+<!--       <div class="row gap-y listrecent listrecent listauthor">
+        {% for author in site.authors %}
+        <div class="col-lg-6 mb-1">
+          <div class="p-3 border rounded">
+            <div class="row">
+              <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.baseurl}}/{{ author[1].avatar }}" class="rounded-circle"></div>
+              <div>
+                <a href="{{site.baseurl}}/authors#{{ author[0] | slugify }}">
+                  <h5 class="text-dark mb-0">{{ author[1].name }}</h5>
+                  <small class="d-inline-block mt-1 mb-2 font-weight-normal">All Posts</small>
+                  <div class="excerpt">{{ author[1].bio }}</div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div> -->
+
+      {% for authorcategory in site.authorcategories %}
+      <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>{{ authorcategory[1].name }}</span></h3>
+      <div class="row gap-y listrecent listauthor">
+        {% for author in site.data.authors %}
+          {% if author[1].category == authorcategory[0] %}
+            <div class="col-lg-4 mb-1">
+              <div class="p-3 border rounded author-border">
+                <div class="row">
+                  {% if author[1].avatar %}
+                    <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{ site.url }}{{ site.baseurl }}/{{ author[1].avatar }}" class="rounded-circle" style="display: block; width: 100%; height: auto; max-width: 100px"></div>
+                  {% else %}
+                  <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{ site.url }}{{ site.baseurl }}assets/images/placeholder.png" class="rounded-circle" style="display: block; width: 100%; height: auto; max-width: 100px"></div>
+                  {% endif %}
+                  <div class="col-md-9">
+                    <a href="{{ site.baseurl }}author/{{ author[0] }}">
+                      <h4 class="text-dark mb-0">{{ author[1].name }}</h4>
+                      <small class="d-inline-block mt-1 mb-1 font-weight-normal">View Posts</small>
+                    </a>
+                      <div class="excerpt">{{ author[1].bio }}</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+      <br>
+      {% endfor %}
+
+      <!-- {% for author in site.authors %}
+        <br id="{{ author[0] | slugify }}">
+        <h3 class="font-weight-bold title h6 text-uppercase mb-4 brand-color"><span>Posts by {{ author[1].name }}</span></h3>
+
+        {% assign posts = "" | split: "" %}
+
+        {% for post in site.posts %}
+          {% if post.author == author[0] or post.authors contains author[0] %}
+          {% assign posts = posts | push: post %}
+          {% endif %}
+        {% endfor %}
+
+        {% for post in posts %}
+          {% if post.title != null %}
+            {% if group == null or group == post.group %}
+              {% include main-loop-card.html %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% assign posts = nil %}
+        {% assign group = nil %}
+      {% endfor %} -->
+
+    </div>
+  </div>
+</div>

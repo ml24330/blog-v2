@@ -7,6 +7,23 @@
 
     <!-- Page Meta -->
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}assets/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}{{ site.baseurl }}assets/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}{{ site.baseurl }}assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}assets/images/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}assets/images/favicon-16x16.png"/>
+    <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}assets/images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ site.url }}{{ site.baseurl }}/assets/images/ms-icon-144x144.png">
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
     <!-- Mobile Meta -->
@@ -17,6 +34,7 @@
     <link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.ico" >
 
     <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/main.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/syntax.css" />
@@ -40,11 +58,11 @@
         {{ content }}
 
         <!-- The tiny footer at the very bottom -->
-        <footer class="site-footer clearfix">
-          <section class="copyright"><a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; {{  site.time | date: '%Y' }}</section>
-          <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> using <a href="https://github.com/jekyllt/jasper">Jasper</a></section>
-        </footer>
+        <!-- <footer class="site-footer clearfix">  
+        </footer> -->
     </div>
+
+    {% include footer.html %}
     <!-- highlight.js -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>

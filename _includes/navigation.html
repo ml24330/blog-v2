@@ -4,17 +4,52 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
-        <li class="nav-fables {% if page.url contains 'fables' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fables">Fables</a></li>
-        <li class="nav-speeches {% if page.url contains 'speeches' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/speeches">Speeches</a></li>
-        <li class="nav-fiction {% if page.url contains 'fiction' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fiction">Fiction</a></li>
-        <li class="nav-author {% if page.url contains 'casper' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/casper">Casper</a></li>
-        <li class="nav-author {% if page.url contains 'edgar' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/edgar">Edgar</a></li>
-        <li class="nav-author {% if page.url contains 'abraham' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/abraham">Abraham</a></li>
-        <li class="nav-author {% if page.url contains 'martin' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/martin">Martin</a></li>
-        <li class="nav-author {% if page.url contains 'lewis' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/lewis">Lewis</a></li>
+        <div class="nav-parent">
+            <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}"><strong>Home</strong></a></li>
+        </div>
+        <div class="nav-parent">
+            <li class="nav-about {% if 'about,sponsor,partner' contains page.current %} nav-current{% endif %}" role="presentation"><a href="#"><strong>About</strong></a></li>
+            <li class="nav-child nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About Us</a></li>
+            <li class="nav-child nav-about" role="presentation"><a href="https://lawreview.lse.ac.uk/about/editorialteam/" target="_blank" rel="noopener">Editorial Team</a></li>
+            <li class="nav-child nav-about {% if page.current == 'sponsor' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}sponsors">Sponsors</a></li>
+            <li class="nav-child nav-about {% if page.current == 'partner' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}partners">Partners</a></li>
+        </div>
+        <div class="nav-parent">
+            <li class="nav-about {% if 'author,prize' contains page.current %} nav-current{% endif %}" role="presentation"><a href="#"><strong>Authors</strong></a></li>
+            <li class="nav-child nav-about {% if page.current == 'author' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author">All Authors</a></li>
+            <li class="nav-child nav-about {% if page.current == 'prize' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}prizewinners">Prize Winners</a></li>
+        </div>
+        <div class="nav-parent">
+            <li class="nav-about {% if 'criminal,international,private,public' contains page.current %} nav-current{% endif %}" role="presentation"><a href="#"><strong>Article by Categories</strong></a></li>
+            <li class="nav-child nav-about {% if page.current == 'criminal' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}category/Criminal Law">Criminal Law</a></li>
+            <li class="nav-child nav-about {% if page.current == 'international' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}category/International Law">International Law</a></li>
+            <li class="nav-child nav-about {% if page.current == 'private' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}category/Private Law">Private Law</a></li>
+            <li class="nav-child nav-about {% if page.current == 'public' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}category/Public Law">Public Law</a></li>
+        </div>
+        <div class="nav-parent">
+            <li class="nav-about {% if page.current == 'submission' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}submission"><strong>Submission Guideline</strong></a></li>
+        </div>
+        <div class="nav-parent">
+            <li class="nav-about" role="presentation"><a href="https://lselawreview.com" target="_blank" rel="noopener"><strong>Main Journal Site</strong></a></li>
+        </div>
     </ul>
     <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
+<script>
+    const elements = document.getElementsByClassName('nav-parent')
+    const handler = (idx) => {
+        return () => {
+            if(elements[idx].classList.contains('nav-show')) {
+                elements[idx].classList.remove('nav-show')
+                elements[idx].classList.add('nav-hidden')
+            } else {
+                elements[idx].classList.add('nav-show')
+                elements[idx].classList.remove('nav-hidden')
+            }
+        }
+    }
+    for(let i=0;i<elements.length;i++) {
+        elements[i].addEventListener('click', handler(i))
+    }
+</script>

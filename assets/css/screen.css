@@ -27,7 +27,7 @@
    ========================================================================== */
 
 html {
-    font-family: sans-serif;
+    font-family: Libre Baskerville, Arial, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -211,7 +211,7 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     margin: 0 0 0.4em 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: Libre Baskerville, Arial, sans-serif;
     text-rendering: geometricPrecision;
 }
 
@@ -433,6 +433,10 @@ table tbody > tr:nth-child(odd) > th {
 table.plain tbody > tr:nth-child(odd) > td,
 table.plain tbody > tr:nth-child(odd) > th {
    background: transparent;
+}
+
+table tbody > tr:first-child > th {
+    background-color: unset;
 }
 
 iframe, .fluid-width-video-wrapper {
@@ -710,7 +714,7 @@ body.nav-opened .nav {
     counter-reset: item;
 }
 
-.nav li:before {
+.nav li:first-child:before {
     display: block;
     float: right;
     padding-right: 4%;
@@ -735,12 +739,12 @@ body.nav-opened .nav {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
-.nav li a:after {
+/* .nav li a:after {
     display: inline-block;
     content: " .......................................................";
     color: rgba(255,255,255,0.2);
     margin-left: 5px;
-}
+} */
 .nav .nav-current:before {
     color: #fff;
 }
@@ -851,13 +855,14 @@ body.nav-opened .nav {
 }
 
 .blog-logo img {
+    opacity:0.8;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 38px;
+    height: auto;
     padding: 1px 0 5px 0;
-    width: auto;
+    width: 85px;
 }
 
 .menu-button {
@@ -949,7 +954,7 @@ body.nav-opened .nav {
     font-size: 5rem;
     letter-spacing: -1px;
     font-weight: 700;
-    font-family: "Open Sans", sans-serif;
+    font-family: Libre Baskerville, Arial, sans-serif;
     color: #fff;
 }
 
@@ -995,7 +1000,7 @@ body.nav-opened .nav {
 .post {
     position: relative;
     width: 80%;
-    max-width: 710px;
+    max-width: 800px;
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
@@ -1936,7 +1941,8 @@ body.page-template .post-title {
     }
 
     .blog-logo img {
-        height: 30px;
+        width:70px;
+        height:auto;
     }
 
     .menu-button {

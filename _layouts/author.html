@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Author
-cover: 'assets/images/cover4.jpg'
+cover: 'assets/images/banner2.png'
 class: 'author-template'
 navigation: True
 label: Author
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/logo.png'
 current: author
 ---
 <!-- < default}} -->
@@ -15,21 +15,20 @@ current: author
 
 <!-- Everything inside the #author tags pulls data from the author -->
 <!-- #author  -->
-    <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
+    <header class="main-header author-head {% if page.cover %}" style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}; background-position: 100% 80%;">
         <nav class="main-nav overlay clearfix">
             {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
-            {% if page.navigation %}
-                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-            {% endif %}
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         </nav>
     </header>
+        
 
     <section class="author-profile inner">
         {% for author in site.data.authors %}
-            {% if author[1].username == page.author %}
-                {% if author[1].assets %}
+            {% if author[1].name == page.author %}
+                {% if author[1].avatar %}
                 <figure class="author-image">
-                    <div class="img" style="background-image: url({{ site.baseurl }}{{ author[1].assets }})"><span class="hidden">{{ author[1].name }}'s Picture</span></div>
+                    <div class="img" style="background-image: url({{ site.baseurl }}{{ author[1].avatar }})"><span class="hidden">{{ author[1].name }}'s Picture</span></div>
                 </figure>
                 {% endif %}
                 <h1 class="author-title">{{ author[1].name }}</h1>
@@ -40,7 +39,7 @@ current: author
                 {% endif %}
                 <div class="author-meta">
                     {% if author[1].location %}<span class="author-location icon-location">{{ author[1].location }}</span>{% endif %}
-                    {% if author[1].url %}<span class="author-link icon-link"><a href="{{ author[1].url_full }}">{{ author[1].url }}</a></span>{% endif %}
+                    {% if author[1].email %}<span class="author-link icon-link"><a href="mailto:{{ author[1].email }}">{{ author[1].email }}</a></span>{% endif %}
                     <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
                     <span class="author-stats"><i class="icon-stats"></i>{% if paginator.total_posts == 0 %}No posts{% elsif paginator.total_posts == 1 %}1 post{% else %}{{ paginator.total_posts }} posts{% endif %}</span>
                 </div>
