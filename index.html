@@ -23,13 +23,15 @@ current: home
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">{{ site.description }}</h2>
             <div class="flex-row home-nav">
-                <button class="col-md-4"><a href="#subscribe">Subscribe</a></button>
-                <button class="col-md-4"><a href="#contact">Contact Us</a></button>
+                <a href="{{ site.baseurl }}tag/featured"><button class="col-md-4">Featured posts</button></a>
+                <a href="#contact"><button class="col-md-4">Contact Us</button></a>
             </div>
         </div>
     </div>
     <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
+
+
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">

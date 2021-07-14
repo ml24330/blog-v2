@@ -49,6 +49,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), "categories.html")
       self.data["grouptype"] = type
       self.data[type] = val
+      self.data["title"] = val
     end
   end
 

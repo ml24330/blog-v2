@@ -50,8 +50,17 @@
   margin: 5px 10px;
   height: 50px;
   min-width: 300px;
+}
+
+.home-nav a:first-child button {
   background: transparent;
   border-color: white;
+}
+
+.home-nav a:last-child button {
+  background: white;
+  border-color: white;
+  color: black;
 }
 
 .home-nav a {

@@ -1595,12 +1595,12 @@ body.page-template .post-title {
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: #4a5357;
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #4a5357;
     transition: all 0.2s ease;
 }
 
@@ -1610,7 +1610,7 @@ body.page-template .post-title {
     position: absolute;
     display: inline-block;
     padding: 0 15px;
-    border: #bfc8cd 1px solid;
+    border: #4a5357 1px solid;
     text-decoration: none;
     border-radius: 4px;
     transition: border 0.3s ease;
