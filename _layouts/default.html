@@ -43,6 +43,11 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
 
+    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
+    <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
+    crossorigin="anonymous"></script>
+
     <!-- Ghost outputs important style and meta data with this tag -->
     {% include head.html %}
 
@@ -61,6 +66,7 @@
         <!-- <footer class="site-footer clearfix">  
         </footer> -->
     </div>
+    <img id="scrollBtn" src="{{ site.baseurl }}assets/images/up-arrows.svg" alt="scroll up" />
 
     {% include footer.html %}
     <!-- highlight.js -->

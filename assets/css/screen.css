@@ -854,15 +854,24 @@ body.nav-opened .nav {
     border: none !important; /* Makes sure there is never a border */
 }
 
-.blog-logo img {
+.blog-logo .wide,
+.blog-logo .small {
     opacity:0.8;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    display: block;
     height: auto;
     padding: 1px 0 5px 0;
-    width: 85px;
+    width: 500px;
+}
+
+.blog-logo .small {
+    display: none;
+    width: 100px;
+}
+
+.blog-logo .wide {
+    display: block;
 }
 
 .menu-button {
@@ -1762,6 +1771,15 @@ body.page-template .post-title {
 
 @media only screen and (max-width: 900px) {
 
+    .blog-logo .wide {
+        display: none;
+    }
+
+    .blog-logo .small {
+        display: block;
+        width: 80px;
+    }
+
     blockquote {
         margin-left: 0;
     }
@@ -1940,8 +1958,8 @@ body.page-template .post-title {
         padding: 5px;
     }
 
-    .blog-logo img {
-        width:70px;
+    .blog-logo .small {
+        width: 70px;
         height:auto;
     }
 

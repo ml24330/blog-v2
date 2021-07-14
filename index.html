@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Finding The Way Home
+title: LSE Law Review Blog
 cover: 'assets/images/banner.png'
 class: 'home-template'
 navigation: True
-logo: 'assets/images/logo.png'
 current: home
 ---
 <!-- < default -->
@@ -14,7 +13,7 @@ current: home
 <header class="main-header {% if page.cover %}"
         style="background-image: url({{ site.baseurl }}{{ page.cover }}) {% else %}no-cover{% endif %}">
     <nav class="main-nav overlay clearfix">
-        {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
+        <a class="blog-logo" href="{{ site.baseurl }}"><img class="small" style="display: block;" src="{{ site.baseurl }}assets/images/logo.png" alt="Blog Logo" /></a>
         {% if page.navigation %}
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         {% endif %}

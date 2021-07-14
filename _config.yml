@@ -10,14 +10,14 @@ include: ["_pages"]
 permalink: /:year/:month/:title/
 
 # Website info
-name: LSE Law Review
+name: LSE Law Review Blog
 description: A student-run law journal seeking to provide a platform for high quality legal scholarship.
 
 short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: 'lse-law-review'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/blog-v2/'
+baseurl: '/'
 
 # Permalinks
 # permalink: /author/:username
