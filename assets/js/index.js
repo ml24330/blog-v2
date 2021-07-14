@@ -18,6 +18,11 @@
         $(".menu-button, .nav-cover, .nav-close").on("click", function(e){
             e.preventDefault();
             $("body").toggleClass("nav-opened nav-closed");
+            if(document.querySelector("body").classList.contains("nav-opened")) {
+                document.querySelector("#scrollBtn").style.transform = "translateX(-240px)"
+            } else if (document.querySelector("body").classList.contains("nav-closed")) {
+                document.querySelector("#scrollBtn").style.transform = ""
+            }
         });
 
     });
