@@ -13,7 +13,6 @@ permalink: /:year/:month/:title/
 name: LSE Law Review Blog
 description: A student-run law journal seeking to provide a platform for high quality legal scholarship.
 
-short_url: 'jekyllt.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: 'lse-law-review'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -68,13 +67,8 @@ authorcategories:
 
 safe: false
 lsi: false
-username: jekyllt
-repo: jasper
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://https://ml24330.github.io/blog-v2/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://ml24330.github.io/blog-v2/
 
 exclude:
   - README.md

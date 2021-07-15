@@ -18,6 +18,17 @@
         $(".menu-button, .nav-cover, .nav-close").on("click", function(e){
             e.preventDefault();
             $("body").toggleClass("nav-opened nav-closed");
+            if(document.querySelector("body").classList.contains("nav-opened")) {
+                document.querySelector("#scrollBtn").style.transform = "translateX(-240px)"
+                if(window.innerWidth < 500) {
+                    document.querySelector(".search").style.transform = "translateX(70px)"
+                } else {
+                    document.querySelector(".search").style.transform = "translateX(90px)"
+                }
+            } else if (document.querySelector("body").classList.contains("nav-closed")) {
+                document.querySelector("#scrollBtn").style.transform = ""
+                document.querySelector(".search").style.transform = ""
+            }
         });
 
     });
@@ -27,11 +38,11 @@
     $.fn.arctic_scroll = function (options) {
 
         var defaults = {
-                elem: $(this),
-                speed: 500
-            },
+            elem: $(this),
+            speed: 500
+        },
 
-            allOptions = $.extend(defaults, options);
+        allOptions = $.extend(defaults, options);
 
         allOptions.elem.click(function (event) {
             event.preventDefault();
@@ -54,3 +65,25 @@
 
     };
 })(jQuery);
+
+//Get the button:
+mybutton = document.getElementById("scrollBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+mybutton.addEventListener('click', topFunction);

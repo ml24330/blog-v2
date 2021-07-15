@@ -20,8 +20,14 @@
             $("body").toggleClass("nav-opened nav-closed");
             if(document.querySelector("body").classList.contains("nav-opened")) {
                 document.querySelector("#scrollBtn").style.transform = "translateX(-240px)"
+                if(window.innerWidth < 500) {
+                    document.querySelector(".search").style.transform = "translateX(70px)"
+                } else {
+                    document.querySelector(".search").style.transform = "translateX(90px)"
+                }
             } else if (document.querySelector("body").classList.contains("nav-closed")) {
                 document.querySelector("#scrollBtn").style.transform = ""
+                document.querySelector(".search").style.transform = ""
             }
         });
 
