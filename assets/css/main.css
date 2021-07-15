@@ -107,6 +107,24 @@
   background-color: #555; /* Add a dark-grey background on hover */
 }
 
+.search {
+  color: black;
+  position: absolute;
+  right: 140px;
+  top: 35px;
+  width: 230px;
+}
+
+@media (max-width: 500px) {
+  .search {
+    font-size: 1.2rem;
+    top: 10px;
+    right: 80px;
+    width: 150px;
+    height: 25px;
+  }
+}
+
 @font-face {
   font-family: Libre Baskerville;
   src: url(../fonts/LibreBaskerville-Regular.ttf);
