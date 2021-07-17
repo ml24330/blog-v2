@@ -51,10 +51,12 @@ defaults:
       path: '_posts'
     values:
       subclass: 'post tag-test tag-content'
+      cover: 'assets/images/banner3.jpg'
   - scope:
       path: '_pages'
     values:
       layout: 'page'
+      cover: 'assets/images/banner3.jpg'
 
 authorcategories:
     editor:
