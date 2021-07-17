@@ -20,6 +20,15 @@ class: 'post-template'
     </nav>
 </header>
 
+<script defer>
+    function cb(res) {
+        if(res.value) {
+            document.getElementById('visits').innerText = res.value + " views"
+        }
+    }
+</script>
+<script defer async src="https://api.countapi.xyz/hit/blog.lselawreview.com/{{ page.title | slugify | slice: 0, 50 }}?callback=cb"></script>
+
 <main class="content" role="main">
 
     <article class="{{ page.subclass }}">
@@ -58,6 +67,9 @@ class: 'post-template'
                     <a class="multiple" href='{{ site.baseurl }}category/{{ category }}'>{{ category }}</a>
                     <span class="sep">&</span>
                 {% endfor %}
+            </span>
+            <span class="post-cat">
+                <div id="visits"></div>
             </span>
             </section>
         </header>
