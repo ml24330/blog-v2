@@ -23,7 +23,11 @@ class: 'post-template'
 <script defer>
     function cb(res) {
         if(res.value) {
-            document.getElementById('visits').innerText = res.value + " views"
+            if(res.value == 1){
+                document.getElementById('visits').innerText = res.value + " view"
+            } else {
+                document.getElementById('visits').innerText = res.value + " views"
+            }
         }
     }
 </script>
