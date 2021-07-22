@@ -17,7 +17,7 @@ keylength: 50
 google_analytics: UA-69281367-1
 disqus: 'lse-law-review'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/'
+baseurl: '/blog-v2/'
 
 # Permalinks
 # permalink: /author/:username
