@@ -216,7 +216,7 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     letter-spacing: -2px;
     text-indent: -3px;
 }
@@ -227,7 +227,7 @@ h2 {
 }
 
 h3 {
-    font-size: 3rem;
+    font-size: 2.4rem;
     letter-spacing: -0.6px;
 }
 
@@ -437,11 +437,6 @@ table.plain tbody > tr:nth-child(odd) > th {
 
 table tbody > tr:first-child > th {
     background-color: unset;
-}
-
-iframe, .fluid-width-video-wrapper {
-    display: block;
-    margin: 1.75em 0;
 }
 
 /* When a video is inside the fitvids wrapper, drop the
@@ -1011,8 +1006,8 @@ body.nav-opened .nav {
     position: relative;
     width: 80%;
     max-width: 800px;
-    margin: 4rem auto;
-    padding-bottom: 4rem;
+    margin: 1rem auto;
+    padding-bottom: 2rem;
     border-bottom: #EBF2F6 1px solid;
     word-wrap: break-word;
 }
@@ -1035,7 +1030,7 @@ body.nav-opened .nav {
 }
 
 body:not(.post-template) .post-title {
-    font-size: 3.6rem;
+    font-size: 2.2rem;
 }
 
 body.page-template .post-title {
@@ -1048,7 +1043,7 @@ body.page-template .post-title {
 
 .post-excerpt p {
     margin: 0;
-    font-size: 0.9em;
+    font-size: 1.5rem;
     line-height: 1.7em;
 }
 
@@ -1822,7 +1817,7 @@ body.page-template .post-title {
     }
 
     body:not(.post-template) .post-title {
-        font-size: 3.2rem;
+        font-size: 2.2rem;
     }
 
     body.page-template .post-title {
@@ -1838,7 +1833,7 @@ body.page-template .post-title {
     }
 
     h1 {
-        font-size: 4.5rem;
+        font-size: 3rem;
         text-indent: -2px;
     }
 
@@ -1847,15 +1842,15 @@ body.page-template .post-title {
     }
 
     h3 {
-        font-size: 3.1rem;
+        font-size: 2.4rem;
     }
 
     h4 {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
     }
 
     h5 {
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
 
     h6 {
@@ -2056,7 +2051,7 @@ body.page-template .post-title {
     }
 
     .post-excerpt p {
-        font-size: 0.85em;
+        font-size: 1.25rem;
     }
 
     .page-description {
@@ -2095,7 +2090,7 @@ body.page-template .post-title {
     }
 
     body:not(.post-template) .post-title {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
 
     body.page-template .post-title {

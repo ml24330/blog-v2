@@ -34,7 +34,7 @@
     <link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.ico" >
 
     <!-- Styles'n'Scripts -->
-    <link rel="stylesheet preload" as="style" type="text/css" href="{{ site.baseurl }}assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/main.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/screen.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/css/syntax.css" />
@@ -47,6 +47,9 @@
     <script
     src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
     crossorigin="anonymous"></script>
+    <div id="fb-root"></div>
+
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=404002344270641&autoLogAppEvents=1" nonce="E56q8z3w"></script>
 
     <!-- Ghost outputs important style and meta data with this tag -->
     {% include head.html %}
@@ -54,10 +57,15 @@
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %} nav-closed">
 
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=404002344270641&autoLogAppEvents=1" nonce="E56q8z3w"></script>
+    
     <!-- The blog navigation links -->
     {% include navigation.html %}
 
     <div class="site-wrapper">
+
+        {% include header.html %}
 
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
@@ -88,6 +96,7 @@
     <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
     <!-- The main JavaScript file for Casper -->
     <script type="text/javascript" src="{{ site.baseurl }}assets/js/index.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}assets/js/bootstrap.js"></script>
 
 </body>
 </html>

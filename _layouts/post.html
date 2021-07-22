@@ -10,16 +10,6 @@ class: 'post-template'
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header author-head" style="background-image: url({{ site.baseurl }}assets/images/banner2.png); background-position: 100% 80%;">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="{{ site.baseurl }}"><img class="small" src="{{ site.baseurl }}assets/images/logo.png" alt="Blog Logo" /><img class="wide" src="{{ site.baseurl }}assets/images/logo-wide.png" alt="Blog Logo" /></a>
-        <div>
-            {% include search-lunr.html %}
-        </div>
-        <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-    </nav>
-</header>
-
 <script defer>
     function cb(res) {
         if(res.value) {
@@ -38,22 +28,25 @@ class: 'post-template'
     <article class="{{ page.subclass }}">
 
         <header class="post-header">
+            <section class="post-meta">
+                <span>By </span>
+                <span>
+                    {% for author in site.data.authors %}
+                        {% if author[1].name == page.author %}
+                            <a href='{{ site.baseurl }}author/{{ page.author }}' style="font-size:15px;">{{ author[1].name }}</a>
+                        {% endif %}
+                        {% if page.authors contains author[1].name %}
+                            <a class="multiple" style="font-size:15px;" href='{{ site.baseurl }}author/{{ author[1].name }}'>{{ author[1].name }}</a>
+                            <span class="sep">&</span>
+                        {% endif %}
+                    {% endfor %}
+                </span>
+            </section>
+
             <h1 class="post-title">{{ page.title }}</h1>
             <section class="post-meta">
             <!-- <a href='{{ site.baseurl }}{{ page.about }}'>{{ site.author }}</a> -->
 
-
-            <span>
-            {% for author in site.data.authors %}
-                {% if author[1].name == page.author %}
-                    <a href='{{ site.baseurl }}author/{{ page.author }}'>{{ author[1].name }}</a>
-                {% endif %}
-                {% if page.authors contains author[1].name %}
-                    <a class="multiple" href='{{ site.baseurl }}author/{{ author[1].name }}'>{{ author[1].name }}</a>
-                    <span class="sep">&</span>
-                {% endif %}
-            {% endfor %}
-            </span>
             <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
                 <!-- [[tags prefix=" on "]] -->
                 {% if page.tags.size > 0 %}
@@ -71,6 +64,14 @@ class: 'post-template'
                     <a class="multiple" href='{{ site.baseurl }}category/{{ category }}'>{{ category }}</a>
                     <span class="sep">&</span>
                 {% endfor %}
+            </span>
+            <span class="post-cat">
+                <span id="read-time"></span><span> minutes read</span>
+                {% assign content = content | split: '[1]' %}
+                <script>
+                    var time = Math.ceil("{{ content[0] | markdownify | strip_html | strip_newlines -}}".trim().split(/\s+/).length/250)
+                    document.getElementById("read-time").innerHTML = time
+                </script>
             </span>
             <span class="post-cat">
                 <div id="visits"></div>

@@ -13,10 +13,11 @@ permalink: /:year/:month/:title/
 name: LSE Law Review Blog
 description: A student-run law journal seeking to provide a platform for high quality legal scholarship.
 
+keylength: 50
 google_analytics: UA-69281367-1
 disqus: 'lse-law-review'
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: '/blog-v2/'
+baseurl: '/'
 
 # Permalinks
 # permalink: /author/:username
@@ -50,13 +51,14 @@ defaults:
   - scope: 
       path: '_posts'
     values:
+      class: 'post-template'
       subclass: 'post tag-test tag-content'
-      cover: 'assets/images/banner3.jpg'
+      cover: 'assets/images/banner3.png'
   - scope:
       path: '_pages'
     values:
       layout: 'page'
-      cover: 'assets/images/banner3.jpg'
+      cover: 'assets/images/banner3.png'
 
 authorcategories:
     editor:

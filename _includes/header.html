@@ -1,0 +1,138 @@
+<style>
+  .header-title {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.3rem;
+    margin: 15px 0 5px 0;
+    font-family: 'Libre Baskerville';
+  }
+
+  .dropdown-toggle:after {
+    content: none;
+  }
+
+  .dropdown-item {
+    font-size: 1.5rem;
+  }
+
+  .nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black !important;
+    font-size: 1.7rem;
+    margin: 0 5px;
+    padding-bottom: 0;
+  }
+
+  .navbar {
+    border-bottom: 1px solid lightgray;
+  }
+
+  .header-banner {
+    width: 100vw;
+    height: 200px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    text-align: center;
+    background-color: rgb(10,10,10);
+  }
+
+  li {
+    margin-bottom: 0;
+  }
+
+  .header-banner img {
+    height: 200px;  
+  }
+
+  @media (max-width: 800px) {
+    .header-banner {
+      height: 150px;
+    }
+
+    .header-banner img {
+      height: 150px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .header-banner {
+      height: 120px;
+    }
+
+    .header-banner img {
+      height: 120px;
+    }
+  }
+
+  @media (max-width: 450px) {
+    .header-banner {
+      height: 85px;
+    }
+
+    .header-banner img {
+      height: 85px;
+    }
+  }
+</style>
+
+<a class="header-title">LSE Law Review Blog</a>
+<nav style="position: sticky; top: 0; z-index: 99; background-color:white;" class="navbar navbar-expand-lg navbar-light">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul style="margin: auto;" class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}">Home </a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            About
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{ site.baseurl }}about">About Us</a>
+            <a class="dropdown-item" href="https://lawreview.lse.ac.uk/about/editorialteam/">Editorial Team</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}sponsors">Sponsors</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}partners">Partners</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Authors
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{{ site.baseurl }}author">All Authors</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}prizewinners">Prize Winners</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Article by Categories
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="{{ site.baseurl }}category/Criminal Law">Criminal Law</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}category/International Law">International Law</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}category/Private Law">Private Law</a>
+              <a class="dropdown-item" href="{{ site.baseurl }}category/Public Law">Public Law</a>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}submission">Submission Guidelines</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="https://lawreview.lse.ac.uk/" target="_blank" rel="noopener">Main Journal Site</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link disabled" href="#">Disabled</a>
+        </li> -->
+        <li class="nav-item">
+        {% include search-lunr.html %}
+        </li>
+      </ul>
+  </nav>
+  <div class="header-banner">
+    <img src="{{ site.baseurl }}assets/images/header.png" alt="banner" />
+  </div>
+  

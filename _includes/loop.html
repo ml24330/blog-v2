@@ -1,26 +1,36 @@
     <!-- Previous/next page links - only displayed on page 2+ -->
-    <div class="extra-pagination inner">
-        {% if page.class == 'home-template' %}
-            {% include post_pagination.html %}
-        {% elsif page.class == 'page-template' %}
-            {% include post_pagination.html %}
-        {% elsif page.class == 'author-template' %}
-            {% include author_pagination.html %}
-        {% elsif page.class == 'tag-template' %}
-            {% include tag_pagination.html %}
-        {% else %}
-            {% include post_pagination.html %}
-        {% endif %}
-    </div>
 
     <!-- This is the post loop - each post will be output using this markup -->
+    <div class="d-flex justify-content-center flex-wrap">
+    <div class="{% if page.class == 'home-template' %}home-recent{% else %}recent{% endif %}" id="recent">
+        {% if page.class == 'home-template' %}
+        <div class="post-title" style="    text-align: center;
+        font-size: 3rem;
+        margin-bottom: 40px;
+        font-weight: bold;
+        font-family: 'Libre Baskerville';">Recent Posts</div>
+        {% endif %}
+        <div class="extra-pagination inner">
+            {% if page.class == 'home-template' %}
+                {% include post_pagination.html %}
+            {% elsif page.class == 'page-template' %}
+                {% include post_pagination.html %}
+            {% elsif page.class == 'author-template' %}
+                {% include author_pagination.html %}
+            {% elsif page.class == 'tag-template' %}
+                {% include tag_pagination.html %}
+            {% else %}
+                {% include post_pagination.html %}
+            {% endif %}
+        </div>
+    {% assign count = 0 %}
     {% for post in paginator.posts %}
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url | slice: 1, post.url.size }}">{{ post.title }}</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>{{ post.content | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | slice: 1, post.url.size }}">&raquo;</a></p>
+            <p>{{ post.content | markdownify | strip_html | truncatewords: 26 }} <a class="read-more" href="{{ site.baseurl }}{{ post.url | slice: 1, post.url.size }}">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <span>
@@ -50,12 +60,17 @@
                     {% endif %}
                 {% endfor %}
             {% endif %}
+            {% assign content = post.content | split: '[1]' %}
+            <span class="post-date" id="time-{{ count }}"></span>
             <time class="post-date" datetime="{{ post.date | date:'%Y-%m-%d' }}">{{ post.date | date_to_string }}</time>
+            <script>
+                var time = Math.ceil("{{ content[0] | markdownify | strip_html | strip_newlines -}}".trim().split(/\s+/).length/250)
+                document.getElementById("time-{{ count }}").innerHTML = time + " minutes read"
+            </script>
+            {% assign count = count | plus: 1 %}
         </footer>
     </article>
     {% endfor %}
-
-    <!-- Previous/next page links - displayed on every page -->
     {% if page.class == 'home-template' %}
         {% include post_pagination.html %}
     {% elsif page.class == 'page-template' %}
@@ -69,3 +84,16 @@
     {% else %}
         {% include post_pagination.html %}
     {% endif %}
+    </div>
+    {% if page.class == 'home-template' %}
+    <div class="widgets">
+        <button class="btn-hide"><a href="{{ site.baseurl }}#contact">Contact Us</a></button>
+        <button class="btn-hide"><a href="{{ site.baseurl}}#subscribe">Subscribe</a></button>
+        <button style="margin-bottom: 20px"><a href="{{ site.baseurl }}privacy-policy">Privacy Policy</a></button>
+        <div class="fb-page" data-href="https://www.facebook.com/lselawreview" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/lselawreview" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lselawreview">LSE Law Review</a></blockquote></div>
+    </div>  
+    {% endif %}
+    </div>
+
+    <!-- Previous/next page links - displayed on every page -->
+    
