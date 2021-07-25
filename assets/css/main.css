@@ -99,6 +99,11 @@
   text-align: center;
 }
 
+.home-img {
+  width: 90%;
+  margin: 5px;
+}
+
 @media (max-width: 1150px) {
   .home-recent {
     width: 80%;
@@ -110,7 +115,7 @@
     text-align: center;
   }
 
-  .widgets .btn-hide {
+  .btn-hide, .home-img {
     display: none;
   }
 }
