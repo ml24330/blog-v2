@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title> - Category: Private Law</title>
+   
+   <link></link>
+   <description>A student-run law journal seeking to provide a platform for high quality legal scholarship.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Individualisation in Contractual Interpretation</title>
+	  <link>/blog-v2//2021/05/individualisation-in-contractual-interpretation/</link>
+	  <author></author>
+	  <pubDate>2021-05-29T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2021/05/individualisation-in-contractual-interpretation/</guid>
+	  <description><![CDATA[
+	     <h4 id="introduction">Introduction</h4>
+
+<p>The area of contract interpretation has been heavily discussed in light of the Court’s seemingly conflicting case law on the shift towards the contextual approach. In particular, several commentators have wondered if the courts have taken a step back towards the traditional, textual approach after making giant strides towards contextualism.<a class="inline-reference" id="inline1" href="#1">1</a> This essay shall seek to unify the conflicting case law on contract interpretation under a single, coherent theory of ‘individualisation’. Such a theory will illustrate that the court’s recent judgments have focused on enhancing the ‘freedom’ of the individual in achieving their own particular interpretation of the contract. While this article’s scope does not address how the ‘individualisation’ theory applies to all other doctrines of contract law, individualisation still rests on general liberal principles, which should serve as a good starting point for analysing the other doctrines. The article shall thus narrow its focus to only discuss individualisation within the context of interpretation. </p>
+
+<h4 id="a-grand-theory-of-contract-law">A (Grand) Theory of Contract Law?</h4>
+
+<p>Before the article can proceed with discussion of the recent case law on contract interpretation, it will briefly discuss general theories of contract law. History begins not with a particular theory, but the oft-cited doctrine of ‘freedom of contract’. Central to the idea of freedom of contract was individual autonomy and its promotion through the realm of contract law.<a class="inline-reference" id="inline2" href="#2">2</a> Free from interference by the courts and the government, contract law merely serves as the ‘vehicle’ for the courts to enforce contracts as the parties had intended.<a class="inline-reference" id="inline3" href="#3">3</a> This distinctly liberal concept of contract law continues to pervade English jurisprudence, despite its supposed decline since the early 20^th^ century.<a class="inline-reference" id="inline4" href="#4">4</a> Meanwhile, liberalism became the predominant mode of contract law theories, and in 1981, Charles Fried published his seminal work <em>Contract as Promise</em><a class="inline-reference" id="inline5" href="#5">5</a>in defence of a liberal contract law. Here, Fried’s theory will serve as an excellent starting point for analysis given its preeminent status as a modern defence of liberalism in contract law, and importantly because it couches contract law within the realm of morality. This can be contrasted with other, more practical theories of contract<a class="inline-reference" id="inline6" href="#6">6</a> which may lack sufficient normative strength in justifying the operation of contract law. Given the article’s intention to propose a unifying theory of contract interpretation based on liberal principles, it would also be helpful to examine the value of liberal theories through Fried’s work.</p>
+
+<p>To understand the significance of Fried’s theory, we must first distinguish between ‘foundationalist’ and ‘conventionalist’ theories of contract law. Saprai provides an excellent summary of the key differences: the former “presupposes a deontological moral outlook as a mode of justifying” contract law; while the latter serves “purely epistemic” ends and is more descriptive of contract law so as to make it more “digestible, predictable” and practicable.<a class="inline-reference" id="inline7" href="#7">7</a> Before discussing the advantages and disadvantages of each school, it should be noted that the theory this article proposes will not simply be a descriptive and ‘epistemic’ theory, and instead intends to justify <em>why </em>the courts have chosen to develop the doctrine of interpretation in the manner they did. Regardless, the advantage of foundationalist theories is that they enhance the legitimacy of the operation of contract law doctrines by grounding them within a single principle, while conventionalist theories merely see contract law as an “arbitrary collection of doctrines”.<a class="inline-reference" id="inline8" href="#8">8</a> Foundationalism also brings greater unity, as well as coherence to contract law and can help in predicting future developments of contract law (assuming that the theory is accurate).<a class="inline-reference" id="inline9" href="#9">9</a> Lastly, as a <em>standard of justification </em>for contract law doctrines, it sets clear limits to the powers of the court when furthering the development of contract law.<a class="inline-reference" id="inline10" href="#10">10</a> While conventionalist theories may be more practical insofar as they are able to better account for inconsistencies within the Court’s approach, it is only because they accept developments of the law as matters of fact and do not critically analyse the Court’s jurisprudence. They can thus barely be called ‘theories’ of contract law.</p>
+
+<p>Moving on to Fried, he proposes the idea of ‘promise’ as the foundational concept of contract law. Thus, promise transcends all communitarian understandings of contract law, and contract law <em>ought</em> to affirm promise because it is the basis by which individuals as “free and autonomous agents both serve their own ends and respect the humanity of other free autonomous agents”.<a class="inline-reference" id="inline11" href="#11">11</a> Its key contribution to theories of contract law is therefore its respect of the “liberal ideal”, that any and all action must have some “terms and limits according to which we strive”.<a class="inline-reference" id="inline12" href="#12">12</a> This provides a powerful basis for both justifying, as well as limiting the development of contract law. Given this, how would the theory function in practice? Saprai states that ‘promise’ as a foundationalist theory must operate in one of three ways: (1) as a necessity in any contract law doctrine (necessity); (2) as the primary principle behind doctrines (primacy); or (3) as a presumption of the validity of doctrines (presumptiveness).[<a class="inline-reference" id="inline13" href="#13">13</a> In summary, the first two suggestions can be <em>prima facie</em> rejected due to their incompatibility with modern contract law.<a class="inline-reference" id="inline14" href="#14">14</a> It is clear that not all contract law doctrines are justified based on the sanctity of promises, and to hold so would be to inaccurately describe the justifications behind such doctrines. Presumptiveness however, is more difficult to reject from the outset. It minimally recognises the existence as well as primacy of other principles, but still acts as the central principle justifying contract law.<a class="inline-reference" id="inline15" href="#15">15</a> Yet, even such an accommodating perspective of promise fails to account properly for the actual relevance of other principles such as justice and fairness, which take centre stage in doctrines where promise plays little to no part (such as statutory implied terms). Since presumptions are inherently epistemic, i.e., that all doctrines should converge with the principle unless justified otherwise, it again serves as the first barrier of contract law doctrines when there is no reason to subsume them under promise in the first place.<a class="inline-reference" id="inline16" href="#16">16</a> It is thus doubly undesirable: (1) it is a weaker form of primacy, failing to truly elevate promise as <em>the</em> principle of contract law; and (2) does not accord proper respect to alternative deontic principles of contract law.</p>
+
+<p>Further criticism of Fried’s theory takes the form of practicability and functionality. Kostritsky argues that the promise theory, naturally being deontological, removes itself from the normative aspects of contract law – the purpose and reasons for the system of contracting, and why it is so valued in society.<a class="inline-reference" id="inline17" href="#17">17</a> The theory ultimately fails to account for an “understanding of the [contracting] parties’ goals” and is unable to “craft rules which will work in reality”.<a class="inline-reference" id="inline18" href="#18">18</a> However, given that the theory was not meant to be epistemic in nature, is the exclusion of contract’s functional role justified? As stated above, Fried’s theory is able to transcend communitarian understandings of contract law doctrines, and therefore protects contract law from arbitrariness and the majoritarian will (and <em>abuse</em>) of the community.<a class="inline-reference" id="inline19" href="#19">19</a> Despite this, the theory still lacks normative pull given that <em>other </em>principles of contract law also aim to protect contract law from arbitrariness and majoritarian abuse; failing to recognise the plurality of these other principles also harms its credibility as a theory. Moreover, promise’s weight as a moral justification is arguably lacking – beyond literal <em>pacta sunt servanda</em>, promises hold little moral strength and fall flat in their attempt to justify judicial enforcement (or lack thereof).<a class="inline-reference" id="inline20" href="#20">20</a> As has often been argued, autonomy does not simply mean non-interference, but also extends to the ability to choose freely from amongst many valid choices (including the ability to exit unfavourable circumstances).<a class="inline-reference" id="inline21" href="#21">21</a></p>
+
+<h4 id="promise-theory-an-alternative">Promise Theory: An Alternative?</h4>
+
+<p>Given the above conclusions, are there any competing theories that may bridge the lacunae identified in Fried’s promise theory? How might the significance of foundationalist theories be maintained while accommodating for the functional and pluralist nature of other contract law theories? For this, we look no further than Saprai’s third understanding of promise theory: presumptiveness. While presumptiveness was earlier rejected, it nonetheless has redeeming qualities in its recognition of alternative deontological principles, and thus normative pluralism.<a class="inline-reference" id="inline22" href="#22">22</a> Yet, it is not as simple as proposing a pluralist theory of contract law which recognises all principles equally. After all, much of the work the judiciary does is balancing between multiple competing rights.<a class="inline-reference" id="inline23" href="#23">23</a> One possible solution comes from Saprai, who offers a completely new theory of contract law termed ‘republican contract law’.<a class="inline-reference" id="inline24" href="#24">24</a> It thus emphasises the plurality of presumptiveness through a distinctly Dworkinian approach which creates a law that is essentially by the people, and for the people; through incorporating “popular views” regarding morality, limits, and purpose of the law, into the law itself.<a class="inline-reference" id="inline25" href="#25">25</a> The theory goes beyond conventionalist theories because it is not merely an “epistemic device” which reflects what the law does, but builds the specific communitarian conception of the law into its deontology – making it the very “fabric of law”.<a class="inline-reference" id="inline26" href="#26">26</a> While this open-endedness may lead to uncertainty and indeterminacy of legal standards, such uncertainties are balanced by individuals having a greater understanding of how the law shapes and affects their lives, thereby creating a deeper connection between themselves and the law.<a class="inline-reference" id="inline27" href="#27">27</a></p>
+
+<p>Given the ambitious nature of the theory, there is obviously much room to doubt whether it can actually achieve the lofty goals it has set out to accomplish. In fact, flaws can already be seen through an analysis of the theory’s unique conception of freedom as ‘non-domination’. A comprehensive account of what such freedom entails is provided by Pettit, who describes freedom as the characteristic of not being subject to the arbitrary will of others (as opposed to classical freedom as non-interference).<a class="inline-reference" id="inline28" href="#28">28</a> The true extent of this freedom is its reach – it goes beyond preventing exercises of arbitrary will and attempts to remove the existence of such arbitrariness completely.<a class="inline-reference" id="inline29" href="#29">29</a> Non-domination thus harkens back to the crux of the republican theory – to treat all individuals with equal concern and respect. Saprai states that one particular threat to non-domination is that of <em>dominium</em>, or being subject to the arbitrary will of individuals or individual entities; and that contract law can contribute to the creation of <em>dominium</em>.<a class="inline-reference" id="inline30" href="#30">30</a> Despite his claims that a republican theory can prevent <em>dominium</em>, the self-contradictory nature of the theory is already apparent. While Saprai is confident that his theory “shows equal concern and respect” to individuals,<a class="inline-reference" id="inline31" href="#31">31</a> he seems to forget that any communitarian understanding is made up of both majoritarian and minoritarian components. As a theory that incorporates abstract notions such as morality and justice into the law,<a class="inline-reference" id="inline32" href="#32">32</a> the theory must necessarily incorporate majoritarian understandings of such abstractions if it is to be practicable and coherent. The framework thus facilitates the inequality, subjugation and control that the theory seeks to eliminate. If it were to attempt to generate a more comprehensive understanding by incorporating minoritarian understandings, it would lose its practicability due to the increase in complexity needed to express a fully comprehensive understanding of societal values – it simply is an impossible task to achieve. Indeed, the plurality which the theory achieves is simply a majoritarian plurality which excludes all other possible values; a plurality that is illusory at best.</p>
+
+<p>This article therefore suggests that while the republican theory believes its strength to be its ability to engage greater participation in the shaping and understanding of the law (as mentioned above), its real strength is the value and dignity it accords to individuals.<a class="inline-reference" id="inline33" href="#33">33</a> The true value of liberal theories is not the promotion of one particular conception of freedom, but the ability to freely pursue one’s own conception of liberal values (i.e., self-realised values).<a class="inline-reference" id="inline34" href="#34">34</a> Even something as widely respected as autonomy is valuable insofar as it is “exercised in the pursuit of…valuable activities and relationships”.<a class="inline-reference" id="inline35" href="#35">35</a> This article therefore proposes that a scoping down of the republican theory into an ‘individualisation’ theory achieves this. Individualisation is simply a theory which recognises that the principle behind contract law is that of promoting and upholding the individual’s right to self-realisation. Historically, individualism has been part of liberal contract theories since the very days of classical freedom of contract, and so it is not an unfamiliar concept to contract law.<a class="inline-reference" id="inline36" href="#36">36</a> Moreover, it is the focus on the individual which was the key procedural aspect of Dworkin’s theory.<a class="inline-reference" id="inline37" href="#37">37</a> By removing the need to incorporate popular views about morality, rights and other abstractions, and focusing merely on promotion of individual understandings of such concepts, the plurality of values is retained while removing the framework that necessarily promotes instances of abuse and arbitrariness.</p>
+
+<p>Two points need to be addressed here. Firstly, one might worry that individualisation would lead to instability – after all, if we recognised all individual conceptions as equal, it would lead to endless conflict and unresolvable disputes. However, it is not us, but arbitrators of the law (i.e. the judiciary) who determine which individual conception would take priority over another, <em>assuming</em> that such conceptions are contradictory. In reality, contracting does not always result in conflicting interpretations, but rather compromise and mutual agreement; it is however, pertinent to address worst-case scenarios and problems with competing interpretations (individualisation is ultimately a pluralist theory at heart). What this means in practice is that the specific individual conception that is accepted by the court will only be valid in the specific circumstance in which it was raised, thus preventing one particular conception from defeating all others.<a class="inline-reference" id="inline38" href="#38">38</a> It has little standing nor influence outside of its own unique circumstance, and so each interpretation has limited (but not no) precedential value.<a class="inline-reference" id="inline39" href="#39">39</a> On a related note, a second issue arises: if individual conceptions have no ‘longevity’, who would trust the judicial system, and by extension, the legal order? Arguably, trust is ensured because the deontological role of the individual allows all viewpoints to obtain presumptive equality and value until proven otherwise. What this means is not that every person is essentially ‘correct’ until disproven in a court of law, but that all individuals possess the freedom to argue that their specific conception should be accepted by the majority. The trust is therefore placed in the fact that such freedoms will always be upheld in a court of law. Moreover, any arguments arising from conflicting conceptions will be dealt with <em>objectively </em>by the judiciary, thus preventing <em>arbitrary</em> subjection of the ‘losing’ individual (and it shall be shown that the court indeed has adopted such an approach). This follows a late-Rawlsian approach where “individuals are allowed to determine their own conception of the good”<a class="inline-reference" id="inline40" href="#40">40</a> and where the government and the law remain fairly value-neutral insofar as they do not explicitly incorporate a specific understanding into the legal system.<a class="inline-reference" id="inline41" href="#41">41</a> It is this which allows a departure from the ambitiousness of the republican theory, while retaining the pluralist appeal of modern liberalism.<a class="inline-reference" id="inline42" href="#42">42</a> Individualisation is thus a hybrid-theory that takes advantage of the republican theory’s focus on freedom, while placing the individual, rather than their<em> collective</em> <em>understandings</em>, as the foundation of contract law. While it lacks certainty in application, such uncertainty can be tolerated given the normative value of the theory.<a class="inline-reference" id="inline43" href="#43">43</a></p>
+
+<h4 id="individualisation-in-interpretation">Individualisation in Interpretation</h4>
+
+<p>In applying the individualisation theory to the doctrine of contract interpretation, there can be no better case than <em>Investors Compensation Scheme Ltd. v West Bromwich Building Society</em><a class="inline-reference" id="inline46" href="#46">46</a>(<em>ICS</em>), and the contextual approach set out by Lord Hoffmann. The approach can be summarised below:</p>
+
+<p>Interpretation is the ascertainment of the meaning which the document would convey to a reasonable person having all the background knowledge which would reasonably have been available to the parties in the situation in which they were at the time of the contract.<a class="inline-reference" id="inline45" href="#45">45</a></p>
+
+<p>This distinct departure from the textual approach (for example in <em>Arnold v Britton </em>(<em>Arnold</em>)<a class="inline-reference" id="inline46" href="#46">46</a>) has arguably been the most significant development to the doctrine of interpretation in recent time. <em>ICS</em> should be seen alongside a string of other cases (starting from <em>Prenn v Simmons</em>;<a class="inline-reference" id="inline47" href="#47">47</a> with the most recent example being <em>Wood v Capita Insurance Services Ltd</em><a class="inline-reference" id="inline48" href="#48">48</a>) which fully cemented the position of the contextual approach as the predominant approach towards contract interpretation. The approach taken by Lord Hoffmann contains two limbs, both of which shall be shown to adhere with the individualisation theory: (1) taking into account the “background knowledge which would reasonably have been available to the parties”; (2) the objective meaning of the text.</p>
+
+<p>Beginning first with the background knowledge component, the full contours and limits of the contextual approach must be addressed. The relevant cases are that of <em>BCCI v Ali</em><a class="inline-reference" id="inline49" href="#49">49</a>and <em>Arnold v Britton</em>. In <em>BCCI v Ali</em>, Lord Bingham qualified the contextual approach by saying that it can only be exercised within the limits of the “natural and ordinary meaning” of the contract’s wording.<a class="inline-reference" id="inline50" href="#50">50</a> This echoes the words of Lord Neuberger in <em>Arnold</em>, who emphasised the textual limitation of the contextual approach, stating that “commercial common sense and surrounding circumstances […] should not be invoked to undervalue the importance of the language of the provision”.<a class="inline-reference" id="inline51" href="#51">51</a> In contrast, Lord Hoffmann chose instead to limit the background knowledge to what the “reasonable man would have regarded as <em>relevant</em> [sic]”.<a class="inline-reference" id="inline52" href="#52">52</a> Despite the above cases’ apparent disagreement with <em>ICS</em>, the individualisation theory still reveals itself in both the shift towards the contextual approach, as well as the limitations set on it. This is achieved through two different methods of enhancing individual freedoms. In the shift towards the contextual approach, the understanding and respect of the ‘specific’ individual is enhanced – the Court allowed interpretation to take into account the necessary knowledge needed to situate the individual within his unique circumstance, leading to a deeper level of understanding of that individual’s own conception of liberty. Additionally, the emphasis on the textual limitation, as well as Hoffmann’s ‘reasonable person’ limitation strengthens both the ‘collective’ individual and ‘specific’ individual. Firstly, it sets <em>reasonable </em>limitations to the doctrine of background knowledge – by qualifying the operation of the possibly wide doctrine with the certain existence of the contractual language, the freedom (in the late-Rawlsian sense) of the collective individual is enhanced by preventing arbitrariness. Secondly, it enhances the freedom of the particular parties of the case by limiting interpretation to the exact words they had agreed upon, thus respecting their ‘term freedom’.<a class="inline-reference" id="inline53" href="#53">53</a></p>
+
+<p>Subsequently, the objective understanding of the text (as affirmed by <em>Scottish Power UK Plc v BP Exploration Operating Co Ltd</em><a class="inline-reference" id="inline54" href="#54">54</a>) also complies with the individualisation theory. This is relatively straightforward, and the only aspect that needs to be addressed is the trade-off between enhancing the ‘specific’ or ‘collective’ individual. Given the binary nature of litigation, the objective approach to understanding results in an asymmetric balance between one specific individual’s freedom being narrowed, and one specific individual’s freedom being broadened. However, objectivity as explained above leads to the strengthening of the collective individual – the only question that need be answered then is whether the narrowed freedom of the specific individual can outweigh the enhanced freedom of both the collective, and another specific individual. There can be no definitive answer to this, but it would be reasonable to conclude that consistent application of the objective approach will more likely result in overall enhancement of freedoms, so long as the standard of objectivity is one of reasonableness.</p>
+
+<p>Finally, the elephant in the room shall be addressed – that of the exclusion of pre-contractual negotiations in background knowledge. This exclusion was affirmed by Lord Hoffmann himself in <em>Chartbrook Ltd v Persimmon Homes Ltd</em> (<em>Chartbrook</em>)<a class="inline-reference" id="inline55" href="#55">55</a> where he emphasised the need for certainty and predictability when determining what comprises relevant background knowledge. This is arguably a difficult development to fit within the scope of individualisation. Normatively, pre-contractual negotiations are not more indeterminate than concepts such as “commercial common sense” or what a “reasonable man would have regarded as relevant”.<a class="inline-reference" id="inline56" href="#56">56</a> While Lord Hoffmann did identify that allowing pre-contractual negotiations may pose a risk to third-parties, such evidence was inconclusive to warrant a definitive basis for exclusion.<a class="inline-reference" id="inline57" href="#57">57</a> Nonetheless, even if such a rule did have the effect of contradicting the individualisation theory, its scope was nonetheless narrowed to only apply within the context of interpretation, and could see possible use in other doctrines of contract law.<a class="inline-reference" id="inline58" href="#58">58</a> While this does not fully resolve the problem, Ogilvie contends that doing so would at least weaken the effect of the rule by subsuming it within the principles of interpretation.<a class="inline-reference" id="inline59" href="#59">59</a> Thus, the exclusion of pre-contractual negotiations remains as the unaccounted exception to the general application of the individualisation theory. However, given that courts are at least sceptical of its exclusion, there is a possibility that said exclusion may be removed (or at least revisited) in future cases.</p>
+
+<h4 id="concluding-thoughts">Concluding Thoughts</h4>
+
+<p>Individualisation has been shown to be able to explain the shift from textual to contextual; its further suitability can be seen as even a more nuanced analysis of contract interpretation fits within the theory. Tan argues that the reductionist perspective of distinguishing between textual and contextual should be abandoned for a more iterative  process of “contextual coherence” which can fully account for the “fault lines” which the above approaches are unable to adequately address<a class="inline-reference" id="inline60" href="#60">60</a> Yet even his suggested theory of interpretation seems to agree with individualisation, as the process does enhance both specific and collective individual freedoms through objective and rational selections of the most “coherent” text from multiple competing interpretations.<a class="inline-reference" id="inline61" href="#61">61</a>) Consequently, individualisation does present itself as an attractive and, most importantly, reasonable principle behind the development of contract interpretation. The only problem faced by the theory is difficulties in proving its foundational aspect; all the evidence that has been presented merely demonstrates that the case law fits within the scope of the theory, thus fulfilling the conventionalist aspect. To confirm the deontological aspect of the theory will require an explicit mention by the judiciary that individualisation has been its guiding principle. Unfortunately, no amount of analysis will bring us to such an answer.</p>
+
+<hr />
+
+<p><a class="reference" id="1" href="#inline1">[1]</a> David McLauchlan, ‘Continuity, not change, in contract interpretation?’ (2017) 133 LQR 546; cf Havelock, ‘Return to Tradition in Contractual Interpretation’ (2016) 27 King’s Law Journal 188</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a> Simon Whittaker, ‘The Optional Instrument of European Contract Law and Freedom of Contract’ (2011) 3 European Review of Contract Law 372</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a> <em>Printing and Numerical Registering Co v Sampson </em>(1875) 19 Eq 462, 465</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a> PS Atiyah, <em>The Rise and Fall of Freedom of Contract </em>(OUP 1985)</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a> Charles Fried, <em>Contract as Promise: A Theory of Contractual Obligation</em> (2nd edn, OUP 2015)</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a> For a good discussion of such theories, as well as an example of such a theory itself, see RE Barnett, ‘A Consent Theory of Contract’ (1986) 86 Columbia Law Review 269.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a> Prince Saprai, <em>Contract Law Without Foundations: Toward a Republican Theory of Contract Law</em> (OUP 2019) 15-16</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a> ibid 16</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a> JM Lipshaw, ‘Contract as Meaning: An Introduction to Contract as Promise at 30’ (2012) 45 Suffolk University Law Review 601, 605 </p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a> This is an extension of theories of constitutional interpretation, on which see J Wilkinson, <em>Cosmic Constitutional Theory: Why Americans are Losing Their Inalienable Right to Self-Governance </em>(OUP 2012) 6. While this may seem inappropriate, foundationalist theories do share similarities with constitutional interpretation theories, they share similarities in their methodology. Thus, I felt the extension was appropriate.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a> Lipshaw (n 9) 612</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a> Fried (n 5) 7-8</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a> Saprai (n 7) 18-20</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a> ibid 22-33</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a> ibid 20</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a> ibid 34</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a> JP Kostritsky ‘The Promise Principle and Contract Interpretation’ (2012) 45 Suffolk University Law Review 843</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a> In the approach of Ken Binmore, see <em>Natural Justice </em>(OUP 2005) Chp 1.</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a> Kostritsky (n 17) 849-50</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a> ibid 857</p>
+
+<p><a class="reference" id="21" href="#inline21">[21]</a> For a more recent discussion of such see Hanoch Dagan &amp; Michael Heller, ‘Freedom of Contracts’ (2013) Columbia Law &amp; Economics Working Paper No. 458</p>
+
+<p><a class="reference" id="22" href="#inline22">[22]</a> Saprai (n 7) 18</p>
+
+<p><a class="reference" id="23" href="#inline23">[23]</a> A general example of this is the entire field of unfair contract terms.</p>
+
+<p><a class="reference" id="24" href="#inline24">[24]</a> Saprai (n 7) 40</p>
+
+<p><a class="reference" id="25" href="#inline25">[25]</a> ibid 58</p>
+
+<p><a class="reference" id="26" href="#inline26">[26]</a> ibid 57</p>
+
+<p><a class="reference" id="27" href="#inline27">[27]</a> SV Shiffrin, ‘Inducing Moral Deliberation: On the Occasional Virtues of Fog’ (2010) 123 Harvard Law Review 1214, 1222-23</p>
+
+<p><a class="reference" id="28" href="#inline28">[28]</a> Phillip Pettit, <em>Republicanism: A Theory of Freedom and Government </em>(OUP 1997) 31-32</p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a> ibid 5</p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a> Saprai (n 7) 126</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a> ibid 127</p>
+
+<p><a class="reference" id="32" href="#inline32">[32]</a> ibid 62-64</p>
+
+<p><a class="reference" id="33" href="#inline33">[33]</a> ibid 44</p>
+
+<p><a class="reference" id="34" href="#inline34">[34]</a> Dori Kimel, <em>From Promise to Contract: Towards a Liberal Theory of Contract </em>(Hart 2003) </p>
+
+<p><a class="reference" id="35" href="#inline35">[35]</a> ibid 131</p>
+
+<p><a class="reference" id="36" href="#inline36">[36]</a> Atiyah (n 4) 256-291</p>
+
+<p><a class="reference" id="37" href="#inline37">[37]</a> Jeremy Waldron, ‘The Rule of Law as a Theater of Debate’ in Scott Hershovitz (ed), <em>Exploring Law’s Empire: The Jurisprudence of Ronald Dworkin </em>(OUP 2006)326, 330-31</p>
+
+<p><a class="reference" id="38" href="#inline38">[38]</a> <em>Surrey Health BC v Lovell Construction Ltd </em>(1990) 48 Build LR 113, 118</p>
+
+<p><a class="reference" id="39" href="#inline39">[39]</a> Ewan McKendrick, <em>Contract Law</em> (13th edn, Red Globe Press 2019) 175-176</p>
+
+<p><a class="reference" id="40" href="#inline40">[40]</a> In the context of contract interpretation, “good” would mean their own understanding of the contract. While this does seem like a logical leap, I propose that an Aristotelian good is something that is constitutive of the entirety of our lives, even our ability to understand contracts in our own individual and unique way.</p>
+
+<p><a class="reference" id="41" href="#inline41">[41]</a> Curtis Bridgeman ‘Liberalism and Freedom from the Promise Theory of Contract’ (2004) 67 MLR 684, 694</p>
+
+<p><a class="reference" id="42" href="#inline42">[42]</a> ibid 686</p>
+
+<p><a class="reference" id="43" href="#inline43">[43]</a> Shiffrin (n 27)</p>
+
+<p><a class="reference" id="44" href="#inline44">[44]</a> [1998] 1 WLR 896</p>
+
+<p><a class="reference" id="45" href="#inline45">[45]</a> ibid 912-13</p>
+
+<p><a class="reference" id="46" href="#inline46">[46]</a> [2015] UKSC 36</p>
+
+<p><a class="reference" id="47" href="#inline47">[47]</a> [1971] 1 WLR 1381</p>
+
+<p><a class="reference" id="48" href="#inline48">[48]</a> [2017] UKSC 24</p>
+
+<p><a class="reference" id="49" href="#inline49">[49]</a> [2001] UKHL 8</p>
+
+<p><a class="reference" id="50" href="#inline50">[50]</a> ibid para 8</p>
+
+<p><a class="reference" id="51" href="#inline51">[51]</a> <em>Arnold</em> (n 46) para 17</p>
+
+<p><a class="reference" id="52" href="#inline52">[52]</a> <em>BCCI v Ali</em> (n 49) para 39</p>
+
+<p><a class="reference" id="53" href="#inline53">[53]</a> Of course, where such freedom is illusory – as in the case of duress, unconscionability, in consumer contracts, etc. – the law intervenes.</p>
+
+<p><a class="reference" id="54" href="#inline54">[54]</a> [2015] EWHC 2658 (Comm)</p>
+
+<p><a class="reference" id="55" href="#inline55">[55]</a> [2009] UKHL 38</p>
+
+<p><a class="reference" id="56" href="#inline56">[56]</a> <em>BCCI v Ali</em> (n 49) para 39</p>
+
+<p><a class="reference" id="57" href="#inline57">[57]</a> <em>Chartbrook</em> (n 55) para 40</p>
+
+<p><a class="reference" id="58" href="#inline58">[58]</a> ibid paras 42, 47</p>
+
+<p><a class="reference" id="59" href="#inline59">[59]</a> MH Ogilvie, ‘Reconsidering the Interpretation and Implication Rules in the Law of Contract: An English-Canadian Comparison and a Proposal for a New Unified Rule’ (2013) 28 Banking &amp; Finance Law Review 187, 205</p>
+
+<p><a class="reference" id="60" href="#inline60">[60]</a> Zhong Xin Tan, ‘Beyond the Real and the Paper Deal: The Quest for Contextual Coherence in Contractual Interpretation’ (2016) 79 MLR 623</p>
+
+<p><a class="reference" id="61" href="#inline61">[61]</a> ibid 637</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Unintentional Transmission of Disease Revisited – a Tort Law Perspective on COVID-19</title>
+	  <link>/blog-v2//2020/11/unintentional-transmission-of-disease-revisited/</link>
+	  <author></author>
+	  <pubDate>2020-11-02T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2020/11/unintentional-transmission-of-disease-revisited/</guid>
+	  <description><![CDATA[
+	     <h5 id="introduction">Introduction</h5>
+
+<p>Can individuals infected with COVID-19 sue those who unintentionally transmitted the novel coronavirus to them? This article explores the effectiveness of using the tort of negligence as a legal tool to reduce the spread of COVID-19.<a class="inline-reference" id="inline1" href="#1">1</a> In particular, there exists a wide duty of care upon each individual towards another’s physical well-being not to transmit the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) – the cause of the highly infectious COVID-19 disease that transpired into a global pandemic.<a class="inline-reference" id="inline2" href="#2">2</a> Considerations for the reasonableness of departing from the orthodox approach on duty of care derived from other commutable diseases are informed by the novel features of COVID-19, and possible perverse incentives not to seek early testing if the duty of care not to transmit COVID-19 is defined too narrowly. Having established this duty of care, the argument then considers using a proportionality test to assess the standard of care, balancing individual autonomy against public health considerations, the value of which would be to limit this tortious liability in practice. Lastly, this article further explores the potential difficulties in proving causation and proposes to adopt the <em>Bonnington</em> test based on material contribution to cumulative physical injuries. Notwithstanding the paucity of case law related to COVID-19, this article conducts a comparative analysis with the current literature related to the transmission of other types of viral diseases, particularly the deadly Human Immunodeficiency Virus (HIV). In the meantime, it shall be noted from the outset that discussion related to the possible use of strict liability regime or intentional torts to control the spread of COVID-19 (which could even become subjects of criminal prosecution) are beyond the scope of this article.  </p>
+
+<h5 id="duty-of-care">Duty of Care </h5>
+
+<p>The rationale underlying the duty not to negligently transmit COVID-19 shall first be assessed under the common law’s two models of tort, namely the Model of Wrongs and the Model of Costs. Under the Model of Wrongs<a class="inline-reference" id="inline3" href="#3">3</a>, corollary to an individual’s right to physical health is another’s duty to respect the other person’s state of natural health. Such a duty gives rise to a standard of conduct in relation to COVID-19 transmission (discussed later in this article), to which failure to comply results a wrong being committed. In justifying this duty, Ripstein’s conception of mutual independence<a class="inline-reference" id="inline4" href="#4">4</a>, and thus the duty not to take charge of others’ means, would see a duty incumbent upon each individual not to conduct him/herself in a way that negligently transmits COVID-19 to the harm of another’s body.</p>
+
+<p>In comparison, Calabresi’s Model of Costs<a class="inline-reference" id="inline5" href="#5">5</a> would seek to allocate the duty not to negligently transmit COVID-19 upon the party “best placed” to decide on the most efficient way of minimising costs related to COVID-19 transmission. Here, a potentially COVID-19-infectious individual is <em>arguably</em> the “best decider” of his or her own risk of COVID-19 transmission and the associated costs of taking precaution against such transmission. Indeed, a caveat is attached to the word “arguably” because the state <em>might</em> be the “better decider” than potentially COVID-19-infectious individuals, if, for example, a majority of the population unduly under-estimates the severity of COVID-19. This might furnish sufficient grounds for the state to intervene by introducing relevant regulations to manage COVID-19 transmissions.<a class="inline-reference" id="inline6" href="#6">6</a>.= Nevertheless, a legislative debate is beyond the purview of this article; and for present purpose, it is sufficient to see potentially COVID-19-infectious individuals being at least the “better decider” vis-à-vis COVID-19 victims, thus placing on the former the duty not to negligently transmit COVID-19 under a liability regime. In this respect, both the Model of Wrongs and the Model of Costs could be used to understand the duty not to negligently transmit COVID-19, albeit from different perspectives. </p>
+
+<p>In fact, the Calabresi “best-decider” Model of Costs also sheds light on who should potentially become amendable to the duty not to negligently transmit COVID-19. Understandably, a potentially COVID-19-infectious individual has better knowledge of his or her own social interaction history than COVID-19 victims. This superior knowledge thus puts a potentially COVID-19-infectious individual in a better position vis-à-vis a COVID-19 victim to decide how COVID-19 transmission from him/herself should best be reduced. This reasoning not only forms the basis of the duty not to negligently transmit COVID-19, but also explains established duties of care not to negligently transmit other types of commutable diseases. This is in line with other common law jurisdictions (particularly US jurisdictions) that have engaged the issue of disease transmission using tort liability regimes. For example, in <em>Hendricks v. Butcher</em><a class="inline-reference" id="inline7" href="#7">7</a>, the Missouri Court of Appeal established a duty of care for those with smallpox virus not to spread their infection; in <em>Berner v. Caldwell</em><a class="inline-reference" id="inline8" href="#8">8</a>, the Supreme Court of Alabama also imposed a duty on individuals infected with herpes to protect his or her sexual partners from infection. Nevertheless, the different symptoms and modes of transmission of smallpox, herpes, and COVID-19 could mean that the scope of tort liability would be different for each disease. The characteristic skin sores on smallpox patients<a class="inline-reference" id="inline9" href="#9">9</a>, and the transmission of herpes through sexual activities<a class="inline-reference" id="inline10" href="#10">10</a>, imply that those who do not demonstrate the relevant smallpox symptoms, or those who do not engage in the relevant sexual activities, would not need to bear any duties as the “best decider”  – because there exist no costs to minimise in the first place. In contrast, the air-borne capability of SARS-CoV-2<a class="inline-reference" id="inline11" href="#11">11</a> and the asymptomatic spread of COVID-19<a class="inline-reference" id="inline12" href="#12">12</a> could make everyone potentially infectious. As the UK Coronavirus Act 2020, Schedule 21 Part 1 Section 2(1) aptly provides: a person is “potentially infectious” at any time if: </p>
+
+<p><em>a)    the person is, or may be, infected or contaminated with coronavirus, and there is a risk that the person might infect or contaminate others with coronavirus, or</em></p>
+
+<p><em>b)    the person has been in an infected area within the 14 days preceding that time.</em><a class="inline-reference" id="inline13" href="#13">13</a></p>
+
+<p>At the time of this writing, COVID-19 has spread across 213 countries and territories across the globe.<a class="inline-reference" id="inline14" href="#14">14</a> It is therefore safe to say that any travellers entering the UK would qualify as “potentially infectious” by virtue of Section 2(1)(b) for being within an area reported to have coronavirus within the preceding 14 days. However, it is also worth noting that Section 2(1) only refers to countries, territories, and areas outside the UK.<a class="inline-reference" id="inline15" href="#15">15</a> Nevertheless, given that the UK itself ranks the 14th globally for the greatest number of COVID-19 cases at the time of this writing<a class="inline-reference" id="inline16" href="#16">16</a>, the territories that shall be deemed as “potentially infectious”, for the normative purpose of this article, shall be understood to also include the UK.</p>
+
+<p>Arguably, such a wide duty of care might seem to undermine the principle of minimum intervention and individual autonomy. However, defining the scope of tort liability surrounding COVID-19 based on the traditional jurisprudence of other types of viral diseases would be guilty of ignoring the novel features of COVID-19 discussed above. In addition, there also exist public policy grounds that would make a wide-ranging duty not to negligently transmit COVID-19 compatible with the “fair, just, reasonable” requirement of the <em>Caparo</em> test.<a class="inline-reference" id="inline17" href="#17">17</a> At the time of this writing, testing facilities for COVID-19 are still not readily accessible in many parts of the world<a class="inline-reference" id="inline18" href="#18">18</a>, and suspected patients cannot get their test results immediately after taking the diagnostic test.<a class="inline-reference" id="inline19" href="#19">19</a> This potential double delay in both getting a test and getting the result of a test, coupled with the highly commutable nature of SARS-CoV-2,<a class="inline-reference" id="inline20" href="#20">20</a> would result in considerable virus leak within the community between the time the suspected patient <em>seeks</em> to access a test and the time the patient is confirmed as a positive case of COVID-19. Such virus leak and the consequent build-up of yet-to-confirm COVID-19 patients would result in further delay in receiving test results, if the testing capacity of the locality did not expand at a rate commensurate with the infection rate. This consequently sets up a vicious cycle in which further virus leak is perpetuated within the larger community. </p>
+
+<p>Additionally, if the duty of care not to transmit COVID-19 is only limited to those individuals who received positive results from their COVID-19 tests, this would, on the contrary, create perverse incentives for people not to seek testing at an early stage. If individuals fear that they may have COVID-19 and the test results transpired to be positive, they can readily face liability in negligence if the virus was indeed transmitted to others. Instead, the claimants would not be able to establish a duty to act if people do not take COVID-19 tests and are therefore ignorant of their diseases. Although the doctrine of wilful blindness<a class="inline-reference" id="inline21" href="#21">21</a> may capture those defendants who deliberately close their minds to further inquiries in fear of validating their suspicion, this doctrine is nonetheless only effective in exceptional cases when the possibility of being COVID-19-positive is obvious. However, asymptomatic spread is what has made COVID-19 so hard to control, thus making early-stage testing and speedy diagnosis even more important than for other types of viral diseases. Undoubtedly, such perverse incentive would be dangerous from a public health perspective. If potentially infectious individuals are unaware that they are carriers of SARS-CoV-2, they might unknowingly transmit the virus to others through subsequent social encounters, spreading the virus exponentially to the greater community. </p>
+
+<p>Therefore, in view of the novel features of COVID-19 and the above analysis on the dire public health consequences on limiting the duty of care only to confirmed COVID-19 patients, there is indeed a case to depart from the conventional duty of care established in the jurisprudence of other commutable diseases. Considerations for the extent of the negligence liability related to COVID-19 transmission would be assessed through careful calibration of the standard of care, which would be discussed below.</p>
+
+<h5 id="standard-of-care">Standard of Care</h5>
+
+<p>According to <em>Bolton v. Stone</em><a class="inline-reference" id="inline22" href="#22">22</a>, a defendant is not negligent if the risk of foreseeable damage is small and the cost of taking precaution is disproportionately high. In the context of COVID-19, this involves balancing the reasonably perceived risk of transmitting COVID-19 against the cost of taking preventive measures to reduce the spread of COVID-19. Various preventive measures could attract different degrees of cost on an individual’s autonomy, ranging from comparatively small inconvenience such as social distancing for a certain radius, or wearing a mask, goggles, or a face shield, to comparatively greater limitation on one’s movement such as self-isolation or quarantine. Similarly, for corporate entities, there is also a spectrum of costs related to taking various preventive measures, ranging from the provision of sanitising and protective equipment, enhanced cleaning regimes, and reduced business capacity for social-distancing measures, to ultimate shut-down of business. What specific preventive measures that each individual (or corporate entity) has to take – and consequently what degrees of cost that each individual (or corporate entity) has to bear – in discharge of their duty of care would depend on a reasonable perception of both the consequences and the risks of COVID-19 transmission in individual circumstances. In this regard, in assessing how much individual autonomy should be compromised, this article proposes a proportionality test in determining the standard of care, balancing the cost of taking preventive measures against both the consequences and the risk of transmitting COVID-19 to others. </p>
+
+<p>However, in applying this proportionality test, even in the jurisprudence of other commutable diseases, there is no clear line regarding how substantial a risk must be before the defendant’s conduct constitutes negligence. In the case of HIV infections (decided in the tort law context), in <em>Mussivand v. David</em><a class="inline-reference" id="inline23" href="#23">23</a>, the Ohio Supreme Court held that “a person who knows, or should know, that he or she is infected with a venereal disease has the duty to abstain from sexual conduct or, at a minimum, to warn those persons with whom he or she expects to have sexual relations of his or her condition”. In <em>Doe v. Roe</em><a class="inline-reference" id="inline24" href="#24">24</a><em>, </em>the New York Court of Appeal stated that the use of a condom may even shield defendants from negligence liability. Similarly, the Law Commission of England and Wales<a class="inline-reference" id="inline25" href="#25">25</a> even considered whether disclosure of disease status is still required when the risk of STD transmission is low, either because the infected person used a condom, or was undergoing antiretroviral treatment. All these have shown that even infected individuals may nonetheless be deemed to have exercised an acceptable level of care without having to refrain from sexual activities. Despite the differences between STD and COVID-19 discussed in the previous section, both viral diseases are at least commutable among humans and preventive measures including wearing a condom (in the case of STD) and wearing a mask (in the case of COVID-19) are preventive measures aimed to significantly reduce, though not to eradicate, transmission. This is in line with the Learned Hand test<a class="inline-reference" id="inline26" href="#26">26</a> under the Model of Costs (and indeed the reasoning behind <em>Bolton v. Stone</em> <em><a class="inline-reference" id="inline27" href="#27">27</a></em> which requires precautions to be taken only if the statistical multiple of the probability and the consequence of harm is cost-effective. Both sexual activities (in the case of STD transmission) and social interactions (in the case of COVID-19 transmission) are fundamentally desirable activities that the law does not discourage – but only if carried out in a cost-efficient way. Therefore, in the context of COVID-19, a potentially infectious individual may not necessarily have to go to the extent of undergoing self-isolation to discharge the duty of care not to transmit COVID-19 – mask-wearing is likely to be sufficient in ordinary circumstances. Having said so, it must be noted that Calabresi’s Model of Costs<a class="inline-reference" id="inline28" href="#28">28</a> also requires individuals to consider the <em>consequences</em> of transmission.<a class="inline-reference" id="inline29" href="#29">29</a> Specifically, in view of the higher risk of severe COVID-19 for older adults<a class="inline-reference" id="inline30" href="#30">30</a> and people with underlying health conditions<a class="inline-reference" id="inline31" href="#31">31</a>, potentially infectious individuals need to exercise greater care than simply wearing masks in order to discharge their duty of care. Ignorance of these special circumstances, where greater care is required to prevent COVID-19 transmission to individuals at increased risks, is unlikely to succeed as a defence, in view of the wide-spread media coverage of COVID-19 and its related specialty risks.</p>
+
+<p>In the meantime, it is also impossible to ignore the strength of the counterargument based on individual autonomy, which finds its support in the jurisprudence of other types of viral diseases. In the context of STD, both Weait<a class="inline-reference" id="inline32" href="#32">32</a> and Cherkassky <a class="inline-reference" id="inline33" href="#33">33</a> have argued that everyone has a responsibility to minimise the transmission of STD and people who do not ask their partners whether or not they are infected should be responsible for failing to protect their own health. With due respect, this argument still does not attenuate the defendants’ liability for engaging in acts that they knew to be potentially harmful and indeed had harmed others.<a class="inline-reference" id="inline34" href="#34">34</a> In fact, allowance has already been made to defendants’ autonomy by allowing consent to be used as a justificatory defence. In this regard, informed consent by the victim should be seen as the ultimate acknowledgement that defendants had done what they could reasonably be expected to do in the circumstances to protect victims from potential harm. Having said so, applying the doctrine of informed consent to COVID-19 would produce bizarre and economically costly results in everyday interactions. For one thing, a person who is aware or suspects that she is a carrier of COVID-19 would need to seek everyone’s consent before she could board the Tube. This is clearly not viable in practice.  </p>
+
+<p>As an alternative to informed consent, the operation of implied consent<a class="inline-reference" id="inline35" href="#35">35</a> presumes that riders of public transport have consented to the risk of contracting COVID-19 when they boarded the crowded Tube – either because they perceive the consequence of infection as not serious enough or the risk of infection as an obvious and acceptable fact. Therefore, wearing a mask is <em>seemingly</em> not a matter of fulfilling one’s duty of care not to transmit COVID-19 to others, but rather a measure of self-protection adopted by individuals who do not wish to be taken as impliedly consented to the risk of contracting COVID-19 when moving around in public. A corollary of this argument is that any preventive measures mentioned in this section shall only be adopted on a voluntary basis and must not be mandated. Indeed, as in the context of STD, risk taking, whether or not related to disease transmission, had always been a feature of consensual sexual activities, which society had not sought to intervene in the past. </p>
+
+<p>Such an argument based on individual autonomy and the doctrine of implied consent relies on the important assumption that potential victims are fully aware of the actual risks of infection. However, this is simply not true in the context of COVID-19. Given that COVID-19 does not express distinct physical manifestations, individuals cannot be presumed to know that the person standing next to him/her is a carrier of SARS-CoV-2. Therefore, consent to interacting with others in public cannot be presumed as consent to contracting COVID-19 in law. In fact, if victims are presumed to appreciate the risk of COVID-19 in any social encounters, there would exist no basis for liability of disease transmission based on fraudulent misrepresentation. This is because there cannot exist any deception to the risk of transmission in the first place if individuals are expected and presumed to know such risk themselves. As such, the presumption that victims would always be aware of the risk of transmission is a dangerous fantasy, which could render moot the liability for disease transmission through deception and risk failing to protect the most vulnerable victims. </p>
+
+<p>In essence, neither informed consent nor implied consent based on considerations for individual autonomy is tenable in the context of COVID-19. In law, taking preventive measures such as wearing a mask is not a matter of individual risk-assessment under the doctrine of implied consent, but a means of discharging the duty of care not to transmit COVID-19 under the tort of negligence. Consideration for individual autonomy is nonetheless incorporated in the proportionality test assessing the standard of care.  </p>
+
+<h5 id="causation">Causation </h5>
+
+<p>In practice, causation might be the biggest hurdle in establishing liability for negligently transmitting COVID-19. At the time of this writing, SARS-CoV-2 is known to be capable of being transmitted through aerosols<a class="inline-reference" id="inline36" href="#36">36</a> and fomites.<a class="inline-reference" id="inline37" href="#37">37</a> This makes it costly, if not impossible, in practice to determine which particular droplet of SARS-CoV-2 had infected the victim. A patient might already have inhaled a non-tortious airborne nucleus of SARS-CoV-2 before contracting the droplet of SARS-CoV-2 from the negligent defendant. Therefore, the orthodox route in establishing causation through the <em>Barnett</em> <em><a class="inline-reference" id="inline38" href="#38">38</a></em> ’but-for’<a class="inline-reference" id="inline39" href="#39">39</a> test is hard to satisfy in the context of COVID-19.<a class="inline-reference" id="inline40" href="#40">40</a></p>
+
+<p>Nevertheless, in <em>Bonnington Castings v Wardlaw</em><a class="inline-reference" id="inline41" href="#41">41</a> , the court had assisted claimants to overcome this evidential gap by finding causation in situations where it could be shown that the tortious exposure to the silica dust had materially contributed to the claimant’s harm, even if it was not the only cause. In the context of COVID-19, a research report published by the Lancet Infectious Disease Medical Journal on 1st June 2020 found that “(t)he mean viral load of severe (COVID-19) cases was around 60 times higher than that of mild cases”, with data indicating that “similar to SARS in 2002–03, patients with severe COVID-19 tend to have a high viral load and a long virus shedding period”.<a class="inline-reference" id="inline42" href="#42">42</a> This finding not only suggests that the viral load of SARS-CoV-2 might be a useful indicator for assessing COVID-19 severity and prognosis, but also indicates, importantly, that the severity of COVID-19 symptoms aggravates <em>in cumulo </em>with SARS-COV-2 load. Therefore, similar to <em>Bonnington</em> in which the incremental nature of the claimant’s pneumoconiosiswas attributable to the cumulative effect of both the tortious and non-tortious silica dust, the cumulative nature of COVID-19 symptoms also makes the disease incremental, in which the disease aggravates with each exposure and is thus a divisible injury <em>in law</em>. Consequently, causation could be established on the basis that the defendant’s breach of duty of care not to transmit COVID-19 had made a material contribution to the claimant’s disease, even if the claimant could have first contracted SARS-CoV-2 from a non-tortious source. Causation based on this cumulative effect of divisible diseases is highlighted by Lord Keith in <em>Bonnington </em>itself: </p>
+
+<p><em>Prima facie the particles inhaled are acting cumulatively, and I think the natural inference is that had it not been for the cumulative effect the pursuer would not have developed pneumoconiosis when he did and might not have developed it at all.</em><a class="inline-reference" id="inline43" href="#43">43</a></p>
+
+<p>However, a further difficulty inherent in the “<em>Bonnington</em> causation” lies in the apportionment of damages. In the context of COVID-19, there has been no acceptable scientifically supported evidentiary basis on which concurrent inhalation of both tortious and non-tortious SARS-CoV-2 could be apportioned to individual sources (such was the situation in <em>Thompson v Smiths</em> <em>Shiprepairers (North Shields) Ltd</em><a class="inline-reference" id="inline44" href="#44">44</a>, in which conventional apportionment could be carried out by the court because the causal factors of the claimant’s injury operated consecutively rather than concurrently). This has consequently resulted in a dilemma whereby diseases like COVID-19 are divisible in theory but indivisible in reality.<a class="inline-reference" id="inline45" href="#45">45</a> In this regard, given that English courts have well-established that apportionment of damages is not applicable to cases in which the defendant had materially contributed to indivisible injuries <a class="inline-reference" id="inline46" href="#46">46</a>, this article therefore sees no prospect of any apportionment of damages in COVID-19 situations where practical apportionment is not feasible.<a class="inline-reference" id="inline47" href="#47">47</a> In other words, from both the defendant’s and the claimant’s perspective, assessment of damages for theoretically divisible yet practically indivisible diseases like COVID-19 is in no way different from diseases that are purely indivisible, both in law and in practice. Therefore, until science could advance to a point at which the cumulative nature of COVID-19 could be separated according to the progressive severity of COVID-19 symptoms in response to each successive exposure factor, a defendant who negligently transmits COVID-19 to another, absent mitigating circumstances (e.g. the claimant’s own contributory negligence), would have to bear damages to the full extent of loss endured by the claimant. </p>
+
+<h5 id="conclusion">Conclusion </h5>
+
+<p>This article has explored the potential of using the tort of negligence to establish civil liability in relation to the unintentional transmission of COVID-19. Departing from the conventional jurisprudence of other types of viral diseases, this article has argued for imposing a wide-ranging duty of care not to transmit COVID-19 on anyone who is “potentially infectious”. Nevertheless, it aims to calibrate the extent of such negligence liability through a proportionality test at the standard of care stage, balancing consideration for public health against the law’s commitment for individual autonomy. Importantly, neither the doctrine of informed consent nor that of implied consent can operate realistically in the context of COVID-19. And mask-wearing is not a measure of individual risk assessment, but rather a means of discharging the aforementioned duty of care. Lastly, although causation could be proved based on the <em>Bonnington</em> test of material contribution to the claimant’s disease, damages shall nonetheless be assessed without apportionment, given that COVID-19 is indivisible in practice despite being divisible by nature. Granted, the civil recourse theory<a class="inline-reference" id="inline48" href="#48">48</a> of tort law does not imagine every COVID-19 victim to exercise their right of redress and seek the kind of legal recourse discussed in this article, save for the situations where wrongful deaths resulted from egregious instances of negligence. As a final note, the author wishes to highlight that in view of the dynamic development of the global COVID-19 pandemic, the standard of care will likely be constantly adapted in accordance with scientific development. New preventive measures, plausibly including vaccine acceptance amongst the population<a class="inline-reference" id="inline49" href="#49">49</a>, may influence what could potentially be deemed as acceptable in discharging the duty of care not to transmit COVID-19.</p>
+
+<p>I am grateful for the feedback provided by Dr. Jo Braithwaite and Prof. Emmanuel Voyiakis from the London School of Economics and Political Science, and the anonymous editors of the LSE Law Review, on the early drafts of this article.</p>
+
+<p>Julius Chen Ma</p>
+
+<hr />
+
+<p><a class="reference" id="1" href="#inline1">[1]</a> Either to be used as an effective deterrence or in fact be used in negligence claims by COVID-19 victims, particularly in wrongful death claims. </p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a> World Health Organisation, “WHO Director-General’s opening remarks at the media briefing on COVID-19”, 11 March 2020. </p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a> J. Gardner, “What is Tort Law For? Part 1 - The Place of Corrective Justice”, Law and Philosophy, January 2011, Vol. 30, No. 1 (January 2011), pp. 1-50. </p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a> A. Ripstein, Private Wrongs, Harvard University Press (2016).</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a> G. Calabresi, J. Hirschoff, “Toward a Test for Strict Liability in Torts”, The Yale Law Journal, Volume 81, Number 6, May 1972. </p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a> See further S. Shavell, “Liability for Harm versus Regulation of Safety”, The Journal of Legal Studies, June 1984, Vol. 13, No. 2 (June 1984), pp. 357- 374. </p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a> 129 S.W. 431, 432 (Mo. 1910).</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a> 543 So.2d 686 (Ala. 1989).</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a> Centers for Disease Control and Prevention, Smallpox, <a href="https://www.cdc.gov/smallpox/transmission/index.html">https://www.cdc.gov/smallpox/transmission/index.html</a>.</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a> World Health Organisation, Herpes Simplex Virus, <a href="https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus">https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus</a>.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a> World Health Organization, Modes of transmission of virus causing COVID-19: implications for IPC precaution recommendations: scientific brief, 29 March 2020.</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a> World Health Organisation, Coronavirus Disease 2019 (COVID-19) Situation Report 73, 2 April 2020. </p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a> UK Coronavirus Act 2020, c. 7.</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a> World Health Organisation, Statistics Division (based on the United Nations Geoscheme).</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a> Section 2(2) of Coronavirus Act. </p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a> Accurate as of 30th September 2020. </p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a> <em>Caparo Industries plc v Dickman</em>, [1990] UKHL 2. The House of Lords in Caparo (ibid) identified a three-part test which has to be satisfied if a negligence claim is to succeed, namely (a) damage must be reasonably foreseeable as a result of the defendant’s conduct, (b) the parties must be in a relationship of proximity or neighbourhood, and (c) it must be fair, just and reasonable to impose liability on the defendant (Lord Neuberger, ‘Reflections on the ICLR Top Fifteen Cases: A Talk to Commemorate the ICLR’s 150th Anniversary’, 06 October 2015).</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a> Prof. M.E. Kretzschmar et al. ”Impact of delays on effectiveness of contact tracing strategies for COVID-19: a modelling study”, the Lancet Public Health Medical Journal, 16 July 2020. </p>
+
+<p><a class="reference" id="19" href="#inline19-">[19]</a> Ibid. </p>
+
+<p><a class="reference" id="20" href="#inline20-">[20]</a> The Lancet Infectious Disease Medical Journal, “Challenges of coronavirus disease 2019”, Volume 2 Issue 3 P261, 01 March 2020.</p>
+
+<p><a class="reference" id="21" href="#inline21-">[21]</a> See e.g. R v Parker [1977] 1 WLR 600.</p>
+
+<p><a class="reference" id="22" href="#inline22-">[22]</a> [1951] AC 850.</p>
+
+<p><a class="reference" id="23" href="#inline23-">[23]</a> 45 Ohio St. 3d 314 (Ohio 1989).</p>
+
+<p><a class="reference" id="24" href="#inline24-">[24]</a> 190 A.D.2d 463 (N.Y. App. Div. 1993).</p>
+
+<p><a class="reference" id="25" href="#inline25-">[25]</a> Law Commission, Reform of Offences against the Person: A Scoping Consultation Paper No 217 (2014), para 6.90. </p>
+
+<p><a class="reference" id="26" href="#inline26-">[26]</a> <em>United States v. Carroll Towing Co</em>, US Court of Appeals, 159 F.2d 169 at 173-4 per Learned Hand CJ.</p>
+
+<p><a class="reference" id="27" href="#inline27-">[27]</a> See n. 22. </p>
+
+<p><a class="reference" id="28" href="#inline28-">[28]</a> See n. 5. </p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a> The consequences of transmission here are assessed based on the objective standard of a reasonable person, rather than a skilled medical professional. </p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a> Statement by World Health Organisation Regional Office for Europe, “Older people are at highest risk from COVID-19, but all must act to prevent community spread”, Dr Hans Henri P. Kluge, 02 April 2020. Available at <a href="https://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/statements/statement-older-people-are-at-highest-risk-from-covid-19,-but-all-must-act-to-prevent-community-spread">https://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/statements/statement-older-people-are-at-highest-risk-from-covid-19,-but-all-must-act-to-prevent-community-spread</a>.</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a> World Health Organisation, “COVID-19: vulnerable and high-risk groups”, 25 March 2020. </p>
+
+<p><a class="reference" id="32" href="#inline32">[32]</a> M. Weait, “Unsafe law: health, rights and the legal response to HIV”, International Journal of Law in Context, P535–564 (2013).  </p>
+
+<p><a class="reference" id="33" href="#inline33">[33]</a> L. Cherkassky, ‘Being Informed: The Complexities of Knowledge, Deception and Consent When Transmitting HIV’ (2010) Journal of Criminal Law 242 at 248. </p>
+
+<p><a class="reference" id="34" href="#inline34">[34]</a> See also S. Ryan, “Disclosure and HIV Transmission”, The Journal of Criminal Law 2015, Vol. 79(6) 395–410. </p>
+
+<p><a class="reference" id="35" href="#inline35">[35]</a> See e.g. <em>Collins v Wilcock</em> [1984] 3 All ER 374 on implied consent. </p>
+
+<p><a class="reference" id="36" href="#inline36">[36]</a> World Health Organisation, Transmission of SARS-CoV-2: implications for infection prevention precautions, 9^th^ July 2020. Available at <a href="https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions">https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions</a>.</p>
+
+<p><a class="reference" id="37" href="#inline37">[37]</a> Ibid, paras 13, 14.</p>
+
+<p><a class="reference" id="38" href="#inline38">[38]</a> <em>Barnett v Chelsea &amp; Kensington Hospital Management Committee</em> [1968] 2 WLR 422.</p>
+
+<p><a class="reference" id="39" href="#inline39">[39]</a> The orthodox ‘but-for’ causation requires that the defendant is negligent only if her breach of duty of care more likely than not a cause of the claimant’s loss, i.e. on a balance of probabilities.  </p>
+
+<p><a class="reference" id="40" href="#inline40">[40]</a> Of course, the author does not rule out the possibility that that the traditional ‘but-for’ causation might be satisfied in certain exceptional circumstances, such as when the claimant had not interacted with any other plausible sources of infection except with the negligent defendant. </p>
+
+<p><a class="reference" id="41" href="#inline41">[41]</a> [1956] AC 613.</p>
+
+<p><a class="reference" id="42" href="#inline42">[42]</a> Lagen Wan et al. ”Viral dynamics in mild and severe cases of COVID-19”. The Lancet Infectious Disease Medical Journal, Volume 20 Issue 6 P656-657, 01 June 2020.</p>
+
+<p><a class="reference" id="43" href="#inline43">[43]</a> [1956] AC 613 (HL) at 626 (per Lord Keith). </p>
+
+<p><a class="reference" id="44" href="#inline44">[44]</a> [1984] 1 All ER 881.</p>
+
+<p><a class="reference" id="45" href="#inline45">[45]</a> See also S. Green, “Causation in Negligence”, Chapter 5 (Hart Publishing 2015), P96-98.</p>
+
+<p><a class="reference" id="46" href="#inline46">[46]</a> See, <em>Dingle v Associated Newspapers</em> [1961] 2 QB 162 (CA) at 188 (per Devlin LJ), <em>Hotson v East Berkshire Health Authority</em>[1987] AC 750 (HL) at 783 (per Lord Harwich) and J Smith, ‘Causation – the Search for Principle’ [2009] Journal of Personal Injury Law 101, 103.</p>
+
+<p><a class="reference" id="47" href="#inline47">[47]</a> If science has advanced to a stage in which COVID-19 can become divisible in practice, then causation based on the orthodox ‘but-for’ test would likely apply. However, given the urgency of the global health crisis, this might not be the current priority of the scientific community. </p>
+
+<p><a class="reference" id="48" href="#inline48">[48]</a> J. Goldberg &amp; B. Zipursky, “Civil Wrongs and Civil Rights”, Recognising Wrongs, Harvard University Press (2020). </p>
+
+<p><a class="reference" id="49" href="#inline49">[49]</a> World Health Organisation, “Vaccine hesitancy: A growing challenge for immunization programmes.” (18 August 2015) Available at: <a href="https://www.who.int/news-room/detail/18-08-2015-vaccine-hesitancy-a-growing-challenge-for-immunization-programmes">https://www.who.int/news-room/detail/18-08-2015-vaccine-hesitancy-a-growing-challenge-for-immunization-programmes</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>A Bank’s Liability for a Director’s Misappropriation of Funds: Singularis Holdings Limited (in liq) v Daiwa Capital Markets Europe Ltd</title>
+	  <link>/blog-v2//2020/01/bank-liability-director-misappropriation-funds-singularis-holdings-limited/</link>
+	  <author></author>
+	  <pubDate>2020-01-23T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2020/01/bank-liability-director-misappropriation-funds-singularis-holdings-limited/</guid>
+	  <description><![CDATA[
+	     <h5 id="introduction">Introduction</h5>
+
+<p>In the recent decision of <em>Singularis Holdings Limited (in liq) v Daiwa Capital Markets Europe Ltd</em>,<a class="inline-reference" id="inline1" href="#1">1</a> the Supreme Court affirmed a bank’s liability to a corporate customer for the misappropriation of funds by one of the customer’s directors for the first time. In order to contextualise the case this article will first examine the origin of this duty of care. Then, it will explain the reasoning adopted by the Court, before finally offering some views on the impact of this decision on the banking industry generally.  It concludes that although it is the first decision to impose liability on a bank for a breach of the <em>Quincecare</em> duty of care, it is unlikely to affect pre-existing robust banking practices to a great extent, nor to open the floodgates in practice.</p>
+
+<h5 id="the-quincecare-duty-of-care">The <em>Quincecare</em> duty of care</h5>
+
+<p>It is a fundamental principle of banking law that “the primary duty of a paying bank is to honour its customer’s instructions and make payments as instructed in accordance with its mandate”.<a class="inline-reference" id="inline2" href="#2">2</a> This important principle ensures that there are no undue delays for customers accessing their bank funds.</p>
+
+<p>However, such a blanket rule has its drawbacks. Under this rule, if a rogue director of a company dishonestly gives the bank instructions to transfer money out of the company’s account, then the bank must do so, even if it would cause the company significant harm. To protect the interests of bank customers and third parties, the courts have developed an additional principle to safeguard against this form of fraud which imposes a reasonable standard of care on banks.<a class="inline-reference" id="inline3" href="#3">3</a> This principle—known as the <em>Quincecare</em> duty of care—arose out of a case involving a bank which had lent money to a corporate borrower. The funds were paid into the corporate borrower’s account, but the chairman of the company subsequently requested the bank to transfer a large portion of the borrowed funds to the account of a firm of solicitors that had acted for him on a previous occasion. However, those solicitors were not acting for the company at the time, but rather, were assisting the chairman to transfer all the funds away to the United States. The bank then sued the guarantor of the loan for repayment of the loan.</p>
+
+<p>In the course of determining whether the guarantor had any defences against the bank’s claim, Lord Steyn set out the following principle in relation to whether the bank in fact owed a duty of care to the corporate borrower not to pay out the money on the chairman’s instructions:<a class="inline-reference" id="inline4" href="#4">4</a></p>
+
+<p>“A banker must refrain from executing an order if and for as long as the banker is ‘put on inquiry’ in the sense that he has reasonable grounds (although not necessarily proof) for believing that the order is an attempt to misappropriate the funds of the company … And, the external standard of the likely perception of an ordinary prudent banker is the governing one.”</p>
+
+<p>On the facts of the case, the defence failed on the basis that the bank’s conduct did not meet the threshold.</p>
+
+<p>The <em>Quincecare</em> principle appears to strike a reasonable balance between allowing the bank to process genuine transactions efficiently, and imposing some limit on the bank’s ability to do so where something is amiss. A bank is entitled to start from the assumption that a transaction is genuine and valid and that its customer is honest, and would only need to question a transaction when there is reason to do so. Examples of such circumstances include where ‘any reasonable cashier would hesitate to pay a cheque at once and refer it to his or her superior, and when any reasonable superior would hesitate to authorise payment without inquiry’;<a class="inline-reference" id="inline5" href="#5">5</a> or where there is a ‘serious or real possibility albeit not amounting to a probability that its customer might be defrauded’.<a class="inline-reference" id="inline6" href="#6">6</a></p>
+
+<p>However, until recently, no case against a bank for breach of its <em>Quincecare</em> duty of care has succeeded.  For example, in <em>Lipkin Gorman</em>, the bank manager knew that the partner of a law firm had a gambling problem, but still allowed that partner to empty the firm’s bank account using cheques that were only signed by that partner. Even in those circumstances, the Court ruled that imposing liability would impose a “wholly unrealistic duty” on banks to continually monitor for signs that a corporate customer’s signatory might be abusing his signing powers.<a class="inline-reference" id="inline7" href="#7">7</a> Accordingly, it is clear that the realities of the sheer volume of banking transactions weigh so strongly on a Court’s mind that it would only be in truly exceptional circumstances that the Court would impose liability. This gives banks a certain level of comfort that the duty of care does not require constant monitoring of all of its customers’ accounts for potentially fraudulent activity.</p>
+
+<h5 id="background-to-singularis">Background to <em>Singularis</em></h5>
+
+<p>It is in this context that the recent Supreme Court case of <em>Singularis</em> is of interest, being the first case to impose liability for a breach of the bank’s <em>Quincecare</em> duty of care.</p>
+
+<p>Singularis Holdings Limited was a company set up to manage the personal assets of Mr Al Sanea. Mr Al Sanea was Singularis’s sole shareholder, as well as a director and chairman. In this role, Mr Al Sanea had signing powers over the company’s bank accounts. Singularis entered into an arrangement with an investment bank called Daiwa Capital Markets Europe Limited. As a result of this arrangement, Daiwa eventually held a cash surplus in the account of Singularis of US$204 million. In the meantime, the bank became aware that Mr Al Sanea was in dire financial straits, with his assets having been frozen by the Saudi authorities. Within approximately a month, Mr Al Sanea gave instructions on behalf of Singularis to make eight payments totalling US$204 million to Saad Specialist Hospital Company and Saad Air, even though there was no proper basis for any of those transactions. Daiwa duly honoured those instructions without further investigation, and paid out all the money from Singularis’s account – effectively allowing Mr Al Sanea to misappropriate those funds.</p>
+
+<p>Mr Al Sanea then put the company into voluntary liquidation. In order to recover funds to be distributed to creditors in Singularis’s liquidation, the liquidators brought a claim against Daiwa for recovery of the amounts of the payments, based on Daiwa’s breach of the <em>Quincecare</em> duty of care owed to Singularis by giving effect to Mr Al Sanea’s payment instructions.</p>
+
+<p>The High Court ruled that in the circumstances, there was a clear breach of the <em>Quincecare</em> duty of care.  In doing so, it took into account the following factors:</p>
+
+<p>(a) Mr Al Sanea was using the funds for his own purposes and not for the purposes of benefiting Singularis;<a class="inline-reference" id="inline8" href="#8">8</a></p>
+
+<p>(b) The bank was aware of Mr Al Sanea’s and Singularis’s dire financial straits;<a class="inline-reference" id="inline9" href="#9">9</a></p>
+
+<p>(c) The bank was aware that Singularis might have other substantial creditors with an interest in the money;<a class="inline-reference" id="inline10" href="#10">10</a></p>
+
+<p>(d) The bank was put on notice that there were significant issues with the way that Mr Al Sanea was operating the Singularis account;<a class="inline-reference" id="inline11" href="#11">11</a></p>
+
+<p>(e) The bank was aware of the possibility that there was a front or a cover rather than a genuine obligation in relation to some transactions;<a class="inline-reference" id="inline12" href="#12">12</a> and</p>
+
+<p>(f) There was a striking contrast between the processing of different payments, with the impugned payments often being simply signed off without consultation or discussion with anyone.<a class="inline-reference" id="inline13" href="#13">13</a></p>
+
+<p>Based on the above factors, the Court concluded that there was a breach because:</p>
+
+<p>“Everyone recognised that the account needed to be closely monitored … But no one in fact exercised care or caution or monitored the account themselves and no one checked that anyone else was actually doing any exercising or monitoring either.” <a class="inline-reference" id="inline14" href="#14">14</a></p>
+
+<p>Daiwa appealed the decision to the Court of Appeal, and then to the Supreme Court. Daiwa accepted the finding that on its face, there had been a breach of the <em>Quincecare</em> duty of care. However, it relevantly argued that it had a defence to the claim—namely that Mr Al Sanea was Singularis’s directing mind and will, and that therefore, his fraud can be attributed to Singularis. Daiwa’s argument was that if Singularis was implicated in the fraud, then the claim against Daiwa is defeated by illegality, lack of causation, or because of an equal or opposite claim for the company’s deceit against Daiwa.<a class="inline-reference" id="inline15" href="#15">15</a></p>
+
+<h5 id="supreme-courts-ruling">Supreme Court’s ruling</h5>
+
+<p>The Supreme Court traversed a number of previous authorities regarding attribution of a fraudulent director’s knowledge to a company.  These included:</p>
+
+<p>(a) <em>Meridian Global Funds Management Asia Ltd v Securities Commission</em>, where the House of Lords identified three levels of attribution: firstly, the express rules of attribution in the company’s constitution; secondly, the rules of agency and vicarious liability; and finally, if neither of these apply, based on the construction of the particular rule in relation to which attribution is required;<a class="inline-reference" id="inline16" href="#16">16</a></p>
+
+<p>(b) <em>Stone &amp; Rolls Ltd v Moore Stephens</em>, where the Court ruled that the fraudulent activities of the beneficial owner and directing mind and will of the company were to be attributed to the company;<a class="inline-reference" id="inline17" href="#17">17</a></p>
+
+<p>(c) <em>Bilta (UK) Ltd v Nazir (No 2)</em>, which limited <em>Stone &amp; Rolls</em> to its facts, and has been interpreted as meaning that the dishonesty of the controlling mind in a one man company could be attributed to the company.<a class="inline-reference" id="inline18" href="#18">18</a></p>
+
+<p>Ultimately, the Supreme Court did not specifically decide which of these three cases governed the situation here. Rather, it ruled that the guiding principle for attributing a director’s fraudulent knowledge to a company is always to be found in consideration of the context and the purpose for which the attribution is relevant.<a class="inline-reference" id="inline19" href="#19">19</a> In this case, the context to be considered is the <em>Quincecare</em> duty of care. The purpose of this duty is to protect the company against the misappropriation of funds by a trusted agent of the company who is authorised to withdraw its money from the account – that is, the very sort of misappropriation that occurred here. If in these circumstances, the fraud of the trusted agent is attributed to the company, then in practice, the <em>Quincecare</em> duty would be rendered redundant. Stepping back, the Supreme Court also recognised the reality that “companies are different from individuals. They have their own legal existence and personality separate from that of any of the individuals who own or run them. The shareholders own the company. They do not own its assets and a sole shareholder can steal from his own company.”<a class="inline-reference" id="inline20" href="#20">20</a> Accordingly, there is no reason in principle that a director’s intentions must always be attributed to the company, and this determination is highly dependent on context.</p>
+
+<p>Because of its conclusion on attribution, the Supreme Court did not consider further arguments regarding illegality, causation or deceit.</p>
+
+<h5 id="what-is-the-impact-of-this-decision-on-banks">What is the impact of this decision on banks?</h5>
+
+<p>Since the <em>Quincecare</em> duty of care has existed for some 25 years without any successful cases ever having been brought against a bank, some may have considered it to be a theoretical duty since the threshold for breach is so high that it would never have any practical application. Thus, some consternation may be caused by the Supreme Court’s findings that not only could the <em>Quincecare</em> duty found liability against a bank, but also that a fraudulent director’s state of mind could not be attributed to the company for the purposes of this duty. There may be the view that if the courts will now impose such liability, it could cause further cases to be brought and open the floodgates. Indeed, banks may understandably query whether it is just to impose liability on the bank for the acts of a fraudulent director, given that it is the failure of the company’s corporate governance processes that has created the situation in the first place. Should the company not pay for its own failures, or seek recovery from the fraudulent director instead?</p>
+
+<p>However, the result reached in the case can be justified.  First, on the point of attribution, there is some artificiality in saying that the director’s fraudulent intentions should be attributed to the company when it is the company that is being defrauded. The Supreme Court’s decision simply acknowledges the reality that the intent of fraudulent directors who act outside the scope of their duties no longer act as the company.</p>
+
+<p>Further, from a policy perspective, as this case illustrates, often companies are unable to protect their own assets against the managing director who has control over all of its affairs—indeed, that is the very nature of one-person companies. In such circumstances, the banks who have close dealings with such a director are perhaps in the best position to assess any suspicious circumstances giving rise to a transaction, and to prevent them from occurring, rather than accepting the signatory’s suspicious actions at face value. Given that this duty and its protective purpose have now become settled law, it follows that it would be antithetical to this purpose to allow the bank to plead the defence that the rogue director’s fraud should be attributed to the company.</p>
+
+<p>In any event, it would be too simplistic to conclude that it is the company that would suffer the ultimate harm from the fraud if the bank is not liable. In the case of one-person companies, it is often to one director’s advantage to transfer all the funds out of the company, leaving the company as an empty shell. The company, being an empty shell, has nothing to lose—the parties that lose out are any existing creditors that would otherwise have been paid out in a liquidation. Indeed, in this case, it was Singularis’s liquidation that led to the claim being brought against the bank. In circumstances of liquidation, it is often the case that either the director can no longer be located, or even if located, he or she no longer has any assets worth pursuing. When the situation effectively becomes a choice of balancing the interests of a bank that had some power to prevent such loss, and the interests of creditors who had no power to do so, it is not surprising that the balance might be struck against the bank.</p>
+
+<p>Furthermore, although liability was imposed in this case, it must be remembered that generally, the courts continue to require exceptional circumstances before imposing such liability. The <em>Quincecare</em> duty is not so exacting that it requires banks to scrutinise every transaction to look for suspicious activity, but rather it only arises where the situation has become so obvious to the bank in its day-to-day transactions that any reasonable bank would make further inquiries. In practice, this is not very different from other existing duties that banks are required to comply with, such as reporting suspicious activity under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017. It simply requires banks to have in place procedures that would allow a rogue signatory’s fraud to be treated as suspicious activity and inquired into further procedures that one would expect to already be in place.</p>
+
+<p>Accordingly, although <em>Singularis</em> is the first decision ever to impose liability for a breach of the <em>Quincecare</em> duty of care, it is the author’s opinion that it is a sound decision that merely affirms that banks must take care when honouring its customer’s mandate in situations that raise suspicions as to the signatory’s true authority. It is unlikely in practice to affect pre-existing robust banking practices to a great extent, nor to open the floodgates.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+<em>Singularis Holdings Ltd (in liq) v Daiwa Capital Markets Europe Ltd</em> [2019] UKSC 50 (<em>Singularis SC</em>).</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+John Odgers QC (ed), <em>Paget’s Law of Banking</em> (15th edn, LexisNexis 2018) [23.1].</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+<em>Barclays Bank plc v Quincecare Ltd</em> [1992] 4 All ER 363, 376.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+ibid 376.</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+<em>Lipkin Gorman v Karpnale Ltd</em> [1989] 1 WLR 1340 (CA), 1356 (May LJ).  <em>Lipkin Gorman</em> was overturned on appeal, but not on the points relating to a banker’s duty of care.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+ibid 1378 (Parker LJ).</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+ibid 1381.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+<em>Singularis Holdings Ltd v Daiwa Capital Markets Europe Ltd</em> [2017] EWHC 257 at [192].</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+ibid [193]–[196].</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+ibid [197].</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+ibid [199].</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+ibid [200].</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+ibid [201].</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+ibid [202].</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+<em>Singularis (SC)</em> (n 1) [26].</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+<em>Meridian Global Funds Management Asia Ltd v Securities Commission</em> [1995] 2 AC 500 (HL).</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a>
+<em>Stone &amp; Rolls Ltd v Moore Stephens</em> [2009] UKHL 39; [2009] 1 AC 391.</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a>
+<em>Bilta (UK) Ltd v Nazir (No 2)</em> [2015] UKSC 23, [2016] AC 1, as discussed in <em>Singularis (SC)</em> at [33].</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a>
+<em>Singularis (SC)</em> (n 1) [34].</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a>
+<em>Singularis (SC)</em> (n 1) [37].</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Material contribution: bridging the evidentiary gap</title>
+	  <link>/blog-v2//2019/09/material-contribution-bridging-evidentiary-gap/</link>
+	  <author></author>
+	  <pubDate>2019-09-15T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2019/09/material-contribution-bridging-evidentiary-gap/</guid>
+	  <description><![CDATA[
+	     <p>To right a private wrong, causation is generally established between the tortfeasor’s negligent act and claimant’s injury. However, on occasion, the evidence will be such that a causal link is difficult or even impossible to prove by the traditional approach. Material contribution has emerged in tort law to attempt to impose liability where causation is hard to prove in the usual manner, or where applying traditional causation would lead to an undesirable outcome. It is needed to protect vulnerable claimants who should not be barred from seeking remedy merely because their particular circumstances make it harder for them to obtain damages. A comparison of traditional factual causation with material contribution shows how the underlying principles of protecting the claimant are compatible without direct causation. Despite not being a traditional test of causation, material contribution in the law of tort is still needed to solve the problem of an evidentiary gap when the but-for test is insufficient to impose liability where it is desirable. Moreover, it may still be possible to show some level of causal link between the defendant’s negligence and the claimant’s injury.</p>
+
+<p>The but-for test is the traditional method of proving factual causation in tort law, such as that applied in <em>Barnett v Chelsea and Kensington Hospital Committee</em>.<a class="inline-reference" id="inline1" href="#1">1</a> It aims to show the connection between the defendant’s breach and the claimant’s loss in order to justify the defendant being held liable for that loss. The test requires a burden of proof on a balance of probabilities<a class="inline-reference" id="inline2" href="#2">2</a> and disregards conditions which are ‘part of the normal environment’.<a class="inline-reference" id="inline3" href="#3">3</a> It tends to take into account the phenomena of multiple causes and divisible injuries, and arguably aims to hold tortfeasors accountable for the damage that they have caused by their negligence to the claimant. In <em>Barnett</em>, Neild J found that the defendant’s negligence did not cause the victim’s death; but for the defendant’s breach of the duty of care, the same outcome of the victim’s death by arsenic poisoning would have occurred.<a class="inline-reference" id="inline4" href="#4">4</a></p>
+
+<p>In <em>Bonnington Castings Ltd v Wardlaw</em>, Lord Reid stated that ‘what is a material contribution must be a question of degree’.<a class="inline-reference" id="inline5" href="#5">5</a> He observed that if a factor was too important an issue to fall under the de minimis non curat lex exception, then it could not be too small to be considered immaterial. Jane Stapleton has pointed out that there remains some ambiguity which can be outlined in three scenarios, two of which follow orthodox causation and one of which is more difficult to resolve.<a class="inline-reference" id="inline6" href="#6">6</a> This will be explored in the context of multiple tortfeasors, such as where the victim was in the employ of multiple firms over his career and exposed to dangerous materials.</p>
+
+<p>In the first situation, total injury is divisible: it is possible to determine who caused which part of the claimant’s injury and apportion damages accordingly. Divisible injuries take into account how severe the injury is and whether and how each tortfeasor’s actions exacerbated the harm.  In addition, the alternative approach of the quantification of damages considers ‘the fact that absent the breach this precise total condition would not have been suffered’.<a class="inline-reference" id="inline7" href="#7">7</a> However, quantification is not necessarily the best approach to take because of the complex problems it poses in terms of proof: ‘where the disease manifests itself many years after the exposure … much of the detail is inevitably lost’.<a class="inline-reference" id="inline8" href="#8">8</a> The second type of case involves indivisible total injury, where each defendant is found jointly and severally liable for the entire injury. In both of these cases, there is a causal link between each defendant’s act and the claimant’s injury; imposing liability upon the defendants for the harm they are shown to be responsible for should not be controversial.</p>
+
+<p>The third situation is more controversial because it has features from each of the first two scenarios that usually arise. Unlike in <em>Bonnington</em>, this principle concerns material contribution to the risk of injury as opposed to material contribution to injury itself. On one hand, each tortfeasor’s act contributes to an accumulation of risk of the claimant contracting the disease. On the other hand, the injury is indivisible because once manifested, the disease’s effects are the same regardless of the victim’s history of exposure. It is also unclear at which point along the line of exposure the victim actually contracted the disease, so it is harder to find one defendant directly responsible for the disease itself. These conditions are relevant in cases where the claimant suffers or even dies from mesothelioma, for example, a medical condition caused by the inhalation of asbestos to which certain employers may negligently expose their employees. Difficulty in finding liability is problematic because the role of the court in tort law should be to allow private wrongs to be compensated without being fettered by scientific impossibilities or evidentiary gaps. Therefore, concepts such as material contribution to risk of injury and material contribution to injury have been developed and should be retained to combat the tension.</p>
+
+<p>Authorities have equated the material contribution to risk of injury with causation. For example, in <em>Fairchild v Glenhaven Funeral Services Ltd</em>, material contribution to the risk of injury was a sufficient causal connection and was equivalent to a material contribution to the disease despite the ‘inability to prove what is scientifically unprovable’.<a class="inline-reference" id="inline9" href="#9">9</a> The <em>Fairchild</em> principle clashes with the but-for test: the claimant was unable to show which defendant caused the harm on a balance of probabilities; it was necessary to create an exception without involving but-for causation. On balance, accepting that there was a causal link despite the evidentiary gap would have led to a fairer outcome than failing to compensate the claimant for an injury that was definitely caused by a wrongdoer. Although the court’s preference for policies to protect claimants and warn employers is understandable, it seemed to remain unclear that there was direct causality. This could imply that the legal test has become easier to satisfy when the traditional test cannot be applied. However, it would be counterintuitive to argue that there was no causal link between the tortfeasors’ actions and the claimant’s injury at all, because in that case the claimant’s disease would have - impossibly - been caused by nothing! In cases such as this, not only is material contribution necessary to impose liability on irresponsible tortfeasors, but it is a test that results in a net positive. Penalising employers for increasing the risk of an injury is justified when in fact that injury materialises, even if that must be squared with liability for increasing the risk of an injury without an actual resulting harm being less reasonable.</p>
+
+<p>Similarly, material contribution to injury has also been understood to equal causing the injury, as was decided in <em>Williams v Bermuda Hospitals Board</em>.<a class="inline-reference" id="inline10" href="#10">10</a> Since the patient was already suffering from sepsis before the hospital’s negligence, it was unclear that the breach of duty made the injury itself worse. This would have rendered the but-for test useless to the claimant: but for the hospital’s negligence, the patient could still have suffered the same injuries from sepsis. A strict application of the but-for test would bar the claimant from seeking damages. However, the hospital’s negligence did lead to the build up of more sepsis which materially contributed to the state of affairs, potentially causing more injury to the patient’s heart and lungs. By extending the principle of causation to include material contribution, the court was able to allow redress.</p>
+
+<p>In some cases of over-determination, applying the but-for test could create the false negative reasoning that but for one’s conduct, the claimant still could have died from the other’s conduct, leading to neither defendant being held liable. Richard Wright’s NESS (necessary element of a sufficient set) test aims to determine whether the defendant’s conduct was significant enough to attract liability in a ‘sufficient set’ of factors.<a class="inline-reference" id="inline11" href="#11">11</a> This test attempts to establish a historical connection between the tortious conduct and its outcome; thus, it has many similarities to causation. Jane Stapleton has suggested a more accessible ‘targeted but-for test’, which removes complicating factors to satisfy the but-for test. For example, by removing one defendant from the equation, the other defendant would be able to satisfy the but-for test.<a class="inline-reference" id="inline12" href="#12">12</a> This explains how each factor can be historically involved in an outcome even though the other factor could have been responsible. Thus, an element of causation is retained.</p>
+
+<p>Perhaps the difference between material contribution and the but-for test should be reconciled by establishing material contribution as an alternative test or, as Stephen Bailey suggests, a particular application of but-for causation in cases of cumulatively-caused injury.<a class="inline-reference" id="inline13" href="#13">13</a> If material contribution were an alternative test of causation, it would ask the question of factual causation through a normative lens, so that a court could still impose liability where an evidentiary gap makes it difficult to apply the but-for test.</p>
+
+<p>Alternatively, it could be argued that material contribution is not another test for causation. Rather, it is the exceptional imposition of liability in the absence of causation. In mesothelioma cases, because the symptoms may take years to materialise, although the cancer is linked to asbestos exposure, the ability to prove that a defendant’s negligence caused the claimant’s injury is severely compromised. This was exposed in <em>Barker v Corus UK Ltd</em>, where an ‘innocent’ potential cause for the claimant’s mesothelioma was present.<a class="inline-reference" id="inline14" href="#14">14</a> In <em>Fairchild</em>, it seemed to be certain that at least one defendant would be responsible. Of course, it should be noted that Stapleton holds the view that the ‘defendant could always in theory point to environmental exposures’.<a class="inline-reference" id="inline15" href="#15">15</a> In <em>Barker</em>, there was truly a chance that none of the defendants were responsible. Therefore, the court’s aim might not have been to hold the defendants liable for the damage caused; their decision seemed to place emphasis on warning employers against a breach of duty. This policy approach, which considerably disregards causation as the deciding factor in favour of warning other employers against irresponsible behaviour, could be undesirable and even raise fair labelling issues: even in the face of an innocent cause, the law considers the defendants as if they were directly responsible for the claimant’s injury. Although it could be argued that such a policy approach still relies on a causal link to attach responsibility to employers who place their workers in dangerous working conditions, in cases such as <em>Barker</em>, the claimant does not seem to have to fulfil the normal standard of proof at all.</p>
+
+<p>Imposing liability without a proven causal link would establish material contribution as an court-created exception outside the scope of causation. In light of new legislation which imposes the whole of the damage upon all defendants, this development in tort law may go too far.<a class="inline-reference" id="inline16" href="#16">16</a> Draconian consequences are created in cases where even a small increase to the risk of mesothelioma may result in the defendant having to pay full damages.<a class="inline-reference" id="inline17" href="#17">17</a></p>
+
+<p>Material contribution must have a place in the law today as it promotes the policy of compensating those who have suffered grave harm. Logistical problems arising from imposing liability cannot outweigh the injustice of denying victims redress. As a means for the courts to impose liability, material contribution does not mean that causation cannot be proved. In situations such as mesothelioma claims, the courts are merely required to expand their understanding of causation beyond the traditional but-for approach in order to accommodate for evidentiary gaps.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+[1969] 1 QB 428, [1968] 2 WLR 422.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+<em>Wilsher v Essex AHA</em> [1988] AC 1074, [1988] 2 WLR 557.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+<em>Reeves v Commissioner of Police for the Metropolis</em> [2000] 1 AC 360 at 391, per Lord Hobhouse.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+<em>Barnett</em> (n 1).</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+[1956] AC 613, [1956] 2 WLR 707.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+J Stapleton, ‘Cause-in-Fact and the Scope of Liability for Consequences’ (2003) 119 LQR 389.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+J Stapleton, ‘Unnecessary Causes’ (2013) 129 LQR 39.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+<em>Holtby v Brigham</em> [2000] 3 All ER 421.</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+[2002] UKHL 22, [2003] 1 AC 32 [9].</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+[2016] UKPC 4, [2016] AC 888.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+R Wright, ‘Once More into the Bramble Bush: Duty, Causal Contribution, and the Extent of Legal Responsibility’ (2001) 53 Vanderbilt LR 1071, pp 1102-1103.</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+Stapleton (n 5).</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+Bailey, ‘Causation in negligence: what is a material contribution?’ (2010) 30 LS 167.</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+[2006] UKHL 20, [2006] 2 AC 572.</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+J Stapleton, ‘Lords A-Leaping Evidentiary Gaps’ (2002) 10 Tort LJ 276.</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+Compensation Act 2006, s 3.</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a>
+<em>Sienkiewicz v Greif (UK) Ltd</em> [2011] UKSC 10, [2011] 2 AC 229.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Darnley v Croydon Health Service NHS Trust: delineating duty and breach</title>
+	  <link>/blog-v2//2019/03/darnley-croydon-health-service/</link>
+	  <author></author>
+	  <pubDate>2019-03-13T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2019/03/darnley-croydon-health-service/</guid>
+	  <description><![CDATA[
+	     <p><strong>Case Note: <em>Darnley v Croydon Health Service NHS Trust [2018] UKSC 50, [2018] 3 WLR 1153</em></strong></p>
+
+<h5 id="a-introduction1">A. Introduction<a class="inline-reference" id="inline1" href="#1">1</a></h5>
+
+<p><em>Darnley v Croydon Health Service NHS Trust</em><a class="inline-reference" id="inline2" href="#2">2</a> (‘<strong><em>Darnley</em></strong>’) deals with the deceptively simple trio of negligence – duty of care, breach, and causation. In recent years, some judges have conflated them in a composite assessment by over-specifying the content of duty of care. In this refreshingly succinct judgment, the Supreme Court (‘<strong>UKSC</strong>’) gave a principled analysis of the nature of these components and preferred a more systematic and compartmentalised approach.</p>
+
+<h5 id="b-brief-facts">B. Brief Facts</h5>
+
+<p>The Appellant attended the Accident and Emergency Department at Mayday Hospital, Croydon.<a class="inline-reference" id="inline3" href="#3">3</a>  Despite having indicated to the receptionist that he had a head injury required urgent attention, he was told of a waiting time of 4 to 5 hours. In fact, the hospital’s policy would require a nurse to attend to the Appellant within 30 minutes. <a class="inline-reference" id="inline4" href="#4">4</a> After waiting for 19 minutes, he decided to leave. Later, he felt increasingly unwell and was taken back to the same hospital by an ambulance. It was revealed that he suffered from a extradural haematoma with a marked midline shift.<a class="inline-reference" id="inline5" href="#5">5</a> The Appellant eventually suffered permanent brain damage.<a class="inline-reference" id="inline6" href="#6">6</a></p>
+
+<p>The Appellant claimed against the Respondent for a negligence, that the reception staff gave wrong information about the time he would have to wait, and its failure to assess the Appellant for priority triage. The claim was dismissed by the trial judge. The Court of Appeal (‘<strong>CA</strong>’) dismissed the appeal (McCombe LJ dissenting), holding that none of the duty, breach, and causation requirements were met. The UKSC allowed the appeal.</p>
+
+<h5 id="c-analysis">C. Analysis</h5>
+
+<h6 id="i-incremental-approach-affirmed"><u>i. Incremental approach affirmed</u></h6>
+
+<p><em>Darnley</em> is consistent with the UKSC’s recent restatement in <em>Robinson v Chief Constable of West Yorkshire Police</em><a class="inline-reference" id="inline7" href="#7">7</a> (‘<strong>Robinson</strong>’), that it is unnecessary to consider the <em>Caparo</em><a class="inline-reference" id="inline8" href="#8">8</a> ‘fair, just, and reasonable’ (‘<strong>FJR</strong>’) test so long as the case falls under a pre-existing category where a duty of care could arise. Lord Lloyd-Jones did not even feel the need to review fully the existing authorities, since relying on Lord Reed’s exposition in <em>Robinson</em> seems to suffice. Common to both cases is a reluctance, almost distaste, for the FJR test. This reaffirms that the UKSC is honouring its promise to abandon the search of an one-size-fits-all test based on a unifying principle. With a category established in the case law, it is effectively presumed to be ‘fair, just, and reasonable’. The courts will no longer ‘re-open’ the category for scrutiny. The problem, however, is its presupposition that the previous cases are correctly decided and devoid of problems. Such presumption might deny the Courts the freedom to revisit some anomalous categories should the opportunity arise. In fact, <em>Caparo</em>’s ‘incremental approach’,<a class="inline-reference" id="inline9" href="#9">9</a> which was approved by the UKSC in <em>Darnley</em>, is nothing novel nor commendable - the very mode of common law reasoning embraces analogy and incrementalism. Nevertheless, certainty triumphs over the search for principle here.</p>
+
+<p>As a matter of precedent, no case law has specifically touched upon whether a receptionist in a hospital owns a duty of care towards prospective patients. With a note of pragmatism, the Court acknowledged that not very precise factual situation will have been the subject of a reported judicial decision. The ‘previously established category’ that the Court had in mind is that ‘those who provide and run a casualty department to persons presenting themselves complaining of illness or injury and before they are treated or received into care in the hospital’s wards.’<a class="inline-reference" id="inline10" href="#10">10</a> This means that before resorting to the <em>Caparo</em> test. it is necessary to analyse the case law at a high level of conceptual abstraction.<a class="inline-reference" id="inline11" href="#11">11</a> But at what level of specification should it be conceptualised is not expressly dealt with.</p>
+
+<p>However, the Court’s finding that it is unnecessary to distinguish between medical and administrative staff is more dubious.  Lord Lloyd-Jones asserted that the receptionist is tasked with the responsibility to ‘provide accurate information as to [medical assistance]’s availability’.<a class="inline-reference" id="inline12" href="#12">12</a> He feels that the distinction is only relevant to the question of breach. This is going arguably too far because in ascertaining duty of care, the focus is commonlly placed on factors such as an individual’s status and expertise relatively to that of the claimant. A more convincing way of putting it is to adopt the analysis in <em>Macaulay v Karim and Croydon Health Services NHS Trust</em>,<a class="inline-reference" id="inline13" href="#13">13</a> which similarly concerned misinformation given by a receptionist. Foskett J classified the events as a ‘system failure’, instead of attributing the breach to a particular individual.<a class="inline-reference" id="inline14" href="#14">14</a> Whilst this has the virtue of differentiating different members of staff in painstaking details, difficult questions of attribution can arise in determining which acts or omissions constitute the system failure, smacking of artificiality.</p>
+
+<p>In sum, the UKSC is largely reiterating the orthodoxy in applying the incremental test, while reducing the need to resort to the FJR scrutiny.</p>
+
+<h6 id="ii-eliding-duty-and-breach"><u>ii. Eliding duty and breach</u></h6>
+
+<p>To properly understand this one has to return to the very foundation of the notion of ‘duty’. Hohfeld sees ‘duty’ and ‘right’ as jural correlatives in a relationship between two given individuals.<a class="inline-reference" id="inline15" href="#15">15</a> In the language of tort law, it is commonplace to describe that ‘A owed B a duty of care’. The ‘duty’ narrative at first sight focuses on the status of the individuals. Therefore we speak of solicitor-client, doctor-patient, and parent-child as ‘established categories of relationships where duty of care arises’. However, Lord Bridge sounded a note of caution in <em>Caparo</em>:</p>
+
+<p>‘It is never sufficient simply to ask whether A owes B a duty of care. It is always necessary to determine the scope of the duty by reference to the kind of damage from which A must take care to hold B harmless.’<a class="inline-reference" id="inline16" href="#16">16</a></p>
+
+<p>Lord Bridge requires identification of the <em>precise harm</em> that A is required to undertake one’s duty to prevent B from being affected. It is the <em>extent of specification</em> that concerns us here. In this regard, Goudkamp saw the CA judgment in <em>Darnley</em> as eroding of the customary divide between the duty of care and breach elements in negligence.<a class="inline-reference" id="inline17" href="#17">17</a> For instance, Sales LJ framed the ‘duty question’ as whether there is a duty to provide ‘precise and accurate information’ about the length of time before a patient might be seen by a triage nurse.<a class="inline-reference" id="inline18" href="#18">18</a> This, in the UKSC’s view, goes to the question of seriousness of breach only.<a class="inline-reference" id="inline19" href="#19">19</a></p>
+
+<p>Conflating these two components is not an isolated mistake, but instead reflects a systematic problem ringing throughout tort law. In <em>Sam v Atkins</em>,<a class="inline-reference" id="inline20" href="#20">20</a> May LJ made a particularly bold statement. He acknowledged that it is customary to examine in a compartmental manner duty of care, breach, causation and damage; but that is ‘technically wrong’ since negligence is a ‘composite’ concept.<a class="inline-reference" id="inline21" href="#21">21</a> In <em>S v Gloucestershire County Council</em>, he further opined that the duty of care question ‘necessarily subsumes the question whether the acts or omissions of the defendant caused the damage relied on’.<a class="inline-reference" id="inline22" href="#22">22</a> Even Lord Diplock in the seminal case of <em>Home Office v Dorset Yacht Co Ltd</em><a class="inline-reference" id="inline23" href="#23">23</a> has fallen prey to this. He framed the enquiry question in a detailed manner: whether ‘any duty of care to prevent the escape of a Borstal trainee from custody’ was owed ‘by the Home Office to persons whose property would be likely to be damaged by the tortious acts of the Borstal trainee if he escaped’.<a class="inline-reference" id="inline24" href="#24">24</a> This level of graphic details detracts the court from first, analysing the nature of relationship between the Home Office and the property owners in the vicinity; and second, balancing the risk and consequence of escape with the costs of prevention for the ‘breach question’.</p>
+
+<p>Another reason why the Court should not over-specify the duty of care element is that a varied standard can be adopted at the breach stage. Nolan, in a penetrating analysis, has argued that varying the standard is a more useful technique.<a class="inline-reference" id="inline25" href="#25">25</a> It may well be said that Accident &amp; Emergency departments operate in a high-pressure environment. Lord Lloyd-Jones is therefore perfectly entitled to say that this is an important factor when assessing whether there has been a negligent breach of duty. This is precisely where the law could make allowance for and depart cautiously from the stringent ‘objective’ standard.</p>
+
+<h6 id="iii-conflation-with-other-components---causation-and-defence"><u>iii. Conflation with other components - causation and defence</u></h6>
+
+<p>This wide understanding of duty of care not only bears the risk of confusion with the breach assessment, it also subsumes the discussion that should arise under causation and defence. In <em>Darnley</em>, the CA further conflated the duty question with that of causation. Jackson LJ held that the scope of the duty would not extend to ‘liability for the consequences of a patient walking out without telling the staff that he was about to leave’.<a class="inline-reference" id="inline26" href="#26">26</a> The UKSC found that no chain of causation has been broken simply because the Appellant decided to leave. It was reasonably foreseeable and was made partly on the basis of the misleading information.<a class="inline-reference" id="inline27" href="#27">27</a></p>
+
+<p>Similarly, in <em>Rees v Commissioner of Police for the Metropolis</em>,<a class="inline-reference" id="inline28" href="#28">28</a> police owed the deceased a duty to take reasonable care to prevent him from committing suicide. As Nolan observed, framing the duty of care in this manner effectively subsumed causation (<em>novus actus interveniens</em>) and defence (<em>volenti non fit iniuria</em>). Similar problems are observed in the statutory context for occupiers’ liability.<a class="inline-reference" id="inline29" href="#29">29</a> Occupiers’ Liability Act 1984 enables the court to determine whether an occupier owes a duty to a person (other than a visitor) through considering knowledge, foresight, and obviousness of danger,<a class="inline-reference" id="inline30" href="#30">30</a> which are traditionally the language used in ascertaining the standard of care. The CA’s error in <em>Darnley</em> is thus only emblematic of a greater structural difficulty.</p>
+
+<h6 id="iv-public-policy-and-social-costs"><u>iv. Public policy and social costs</u></h6>
+
+<p>Public policy arguments in negligence actions are commonplace, but the UKSC was blunt to dismiss the Respondent’s arguments on the social cost and potential expenses incurred as ‘misplaced’.<a class="inline-reference" id="inline31" href="#31">31</a> Typical arguments employed by public authorities in negligence claims include:</p>
+
+<ol>
+  <li>
+    <p>Perverse incentive and defensive behaviour: In <em>Hill v Chief Constable of West Yorkshire</em>,<a class="inline-reference" id="inline32" href="#32">32</a> fear of defensive policing behaviour. Sales LJ in the CA in <em>Darnley</em> also alluded to this argument, expressing his fear that information will be withdrawal from the public.<a class="inline-reference" id="inline33" href="#33">33</a> Rejecting this, Lord Lloyd-Jones simply said that the burden of proof lies on the claimant - so long as the staff testifies as to their standard practice, sufficient safeguard would be in place.<a class="inline-reference" id="inline34" href="#34">34</a> The problem is that this justification surely applies with equal force to the police investigation context in <em>Hill</em>. In any event, A &amp; E departments and serious crime investigation are both high-pressure environment.</p>
+  </li>
+  <li>
+    <p>‘Floodgate’ argument: Jackson LJ in the CA judgment was concerned that a fertile ground for litigation would ensue.<a class="inline-reference" id="inline35" href="#35">35</a> Nevertheless, Lord Lloyd-Jones did not address this claim head-on. It is perhaps the specific factual circumstances of the case that led him to believe there would not be a large amount of ensuing claims.</p>
+  </li>
+</ol>
+
+<p>Overall, the Court in <em>Darnley</em> seems hasty in dismissing these considerations. The policy arguments are not foreign – they have been extensively rehearsed as ‘stock arguments’ and are almost becoming cliché.  It is in the interest of judicial candour that the UKSC be forthright in addressing them. In <em>Robinson</em>, Lord Hughes admirably acknowledged policy concerns as the ‘ultimate reason’ why no duty is imposed on the police.<a class="inline-reference" id="inline36" href="#36">36</a> Nevertheless, Lord Reed countered that policy should not be routinely considered when existing principles provide a clear basis.<a class="inline-reference" id="inline37" href="#37">37</a> By adhering to Lord Reed’s policy-minimalist approach, <em>Darnley</em> managed to shield itself from allegations of judicial overreach and activism. This is understandable when the policy issues were not decisive in the present case.</p>
+
+<h5 id="d-conclusion">D. Conclusion</h5>
+
+<p><em>Robinson</em>, with <em>Darnley</em> as its latest reaffirmation, has for now largely settled the approach towards assessing public authority’s duty of care. Ultimately, it is the ‘malleability’ of duty enquiry that generates incoherence in negligence.<a class="inline-reference" id="inline38" href="#38">38</a> It is plausible that such malleability was the culprit in the courts’ abandonment of the search for unifying principle, which in turn gives rise to rule-of-law concern due to its opaqueness. In sum, <em>Darnley</em>’s note of caution against conflating the two stages of assessment is reassuring and laudable.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+I am grateful to Ines Chu and Mythili Mishra for their research assistance.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+Darnley v Croydon Health Service NHS Trust [2018] UKSC 50, [2018] 3 WLR 1153.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+ibid [1].</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+ibid [5].</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+ibid [6].</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+ibid [7].</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+[2018] UKSC 4, [2018] 2 WLR 595.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+Caparo Industries plc v Dickman [1990] 2 AC 605, 617 (Lord Bridge).</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+Adopted from the Australian case of Sutherland Shire Council v Heyman (1985) 60 ALR 1.</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+Darnley (UKSC) (n 1) [16], citing Barnett v Chelsea and Kensington Hospital Management Committee [1969] 1 QB 428.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+Owain Thomas QC and Philip Havers QC, ‘Supreme Court rules that hospital receptionist owes a duty of care to a patient’ (11 October 2018, UK Human Rights Blog) <a href="https://ukhumanrightsblog.com/2018/10/11/supreme-court-rules-that-hospital-receptionist-owes-a-duty-of-care-to-a-patient-owain-thomas-qc/">https://ukhumanrightsblog.com/2018/10/11/supreme-court-rules-that-hospital-receptionist-owes-a-duty-of-care-to-a-patient-owain-thomas-qc/</a> accessed 24 February 2019.</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+Darnley (UKSC) (n 1) [17].</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+[2017] EWCH 1795 (QB).</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+Ibid [166].</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+W. N. Hohfeld, ‘Fundamental Legal Conceptions as Applied in Judicial Reasoning’ (1917) The Yale Law Journal Vol. 26 No. 8 710.</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+[1990] 2 AC 605, 627.</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a>
+J. Goudkamp, ‘Case Comment Breach of duty: a disappearing element of the action in negligence?’ (2017) CLJ 481.</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a>
+Darnley v Croydon Health Services NHS Trust [2017] EWCA Civ 151, [2018] QB 783, [87].</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a>
+Darnley (UKSC) (n 1) [23].</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a>
+[2005] EWCA Civ 1452, [2006] RTR 14.</p>
+
+<p><a class="reference" id="21" href="#inline21">[21]</a>
+Ibid [14].</p>
+
+<p><a class="reference" id="22" href="#inline22">[22]</a>
+[2001] Fam 313, 337F.</p>
+
+<p><a class="reference" id="23" href="#inline23">[23]</a>
+[1970] AC 1004.</p>
+
+<p><a class="reference" id="24" href="#inline24">[24]</a>
+Ibid.</p>
+
+<p><a class="reference" id="25" href="#inline25">[25]</a>
+D. Nolan, ‘Varying the standard of care in negligence’ (2013) CLJ 651.</p>
+
+<p><a class="reference" id="26" href="#inline26">[26]</a>
+Darnley (CA) (n 18) [56].</p>
+
+<p><a class="reference" id="27" href="#inline27">[27]</a>
+Darnley (UKSC) (n 1) [29]-[30].</p>
+
+<p><a class="reference" id="28" href="#inline28">[28]</a>
+[2018] .</p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a>
+K. Amirthalingam, ‘Occupiers’ liability in England: time for some housecleaning?’ (2017) PN 33(1), 46-50.</p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a>
+Occupiers Liability Act 1984, s. 1(3).</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a>
+Darnley (UKSC) (n 1) [22].</p>
+
+<p><a class="reference" id="32" href="#inline32">[32]</a>
+[1989] AC 53.</p>
+
+<p><a class="reference" id="33" href="#inline33">[33]</a>
+Darnley (CA) (n 18) [88].</p>
+
+<p><a class="reference" id="34" href="#inline34">[34]</a>
+Darnley (UKSC) (n 1) [22].</p>
+
+<p><a class="reference" id="35" href="#inline35">[35]</a>
+Darnley (CA) (n 18) [55].</p>
+
+<p><a class="reference" id="36" href="#inline36">[36]</a>
+Robinson (n 7) [103]-[120].</p>
+
+<p><a class="reference" id="37" href="#inline37">[37]</a>
+Ibid [69].</p>
+
+<p><a class="reference" id="38" href="#inline38">[38]</a>
+Nolan (n 25) .</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Hoffmann vs Sumption – Reconciling the battle on contractual interpretation?</title>
+	  <link>/blog-v2//2019/02/hoffmann-sumption-reconciling-battle/</link>
+	  <author></author>
+	  <pubDate>2019-02-26T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2019/02/hoffmann-sumption-reconciling-battle/</guid>
+	  <description><![CDATA[
+	     <h5 id="introduction">Introduction</h5>
+
+<p>What is more exciting than a legal tirade between two of the most prominent English judges? Contractual interpretation is the bread-and-butter work of the commercial courts. Whilst it does not attract huge attention in an undergraduate contract law syllabus, its paramount importance in commercial contracting certainly deserves the ink spilled by the duo. In an annual lecture, Lord Sumption revisited the age-old debate on the proper approach to contractual interpretation.<a class="inline-reference" id="inline1" href="#1">1</a> This was soon greeted with fierce criticism by Lord Hoffmann in a Law Quarterly Review article.<a class="inline-reference" id="inline2" href="#2">2</a> I will present their arguments, and examine how successful the attempt at reconciliation has been.</p>
+
+<h5 id="a-little-bit-of-history">A little bit of history</h5>
+
+<p>To understand the debate properly, one has to travel briefly back into history. Under a traditional textual analysis, the courts regarded the ‘natural and ordinary’ or ‘plain’ meaning of contractual words as almost conclusive, together with the use of dated canons of constructions. Contractual meaning is to be found within the ‘four corners’ of the document.<a class="inline-reference" id="inline3" href="#3">3</a> In <em>ICS v West Bromwich BS,</em><a class="inline-reference" id="inline4" href="#4">4</a> Lord Hoffmann sweepingly discarded what he called the ‘old intellectual baggage of contractual interpretation’ and reformulated them into five principles.<a class="inline-reference" id="inline5" href="#5">5</a> Broadly summarized, two points stand out. First, courts will seek a ‘common sense’ interpretation considering what an ordinary reasonable person would understand it to mean. Second, courts will also look at the legal, factual and regulatory surrounding circumstances of the contract in all cases, not just where there is an ambiguity. This extends to, in his own words, ‘absolutely anything’.<a class="inline-reference" id="inline6" href="#6">6</a> This apparent departure from the traditional common law position has gained traction, notably in <em>Chartbrook v Persimmon Homes</em><a class="inline-reference" id="inline7" href="#7">7</a> and <em>Rainy Sky SA v Kookmin Bank</em><a class="inline-reference" id="inline8" href="#8">8</a>, where an assessment of ‘business common sense’ took centre stage.</p>
+
+<h5 id="the-debate">The debate</h5>
+
+<p>As a keen supporter of a textual approach, Sumption proclaimed that ‘language, properly used, should speak for itself and it usually does’.<a class="inline-reference" id="inline9" href="#9">9</a> Sumption criticized Hoffmann for presuming inherent adaptability of all language. He further denounced the belittling of dictionaries and grammars as tools of interpretation.<a class="inline-reference" id="inline10" href="#10">10</a> The overriding theme is that judges are not necessarily well-placed to determine what commercial common sense requires. This sentiment is indeed shared by many academics, who urged courts to recognise the limits and confines of the court’s commercial experience.<a class="inline-reference" id="inline11" href="#11">11</a> Overall, Sumption sees the Supreme Court as withdrawing from the more advanced positions seized during the ‘Hoffmann offensive’, to a more ‘defensible’ position (i.e. more self-restrained approach to interpretation).<a class="inline-reference" id="inline12" href="#12">12</a> Whether this is accurate is examined later.</p>
+
+<p>This is soon greeted by Lord Hoffmann’s LQR article. His remarks are particularly damning - that Lord Sumption is plainly wrong in claiming that words have ‘autonomous meaning’ irrespective of the strength of background evidence.<a class="inline-reference" id="inline13" href="#13">13</a> Words have conventional meanings, but one can only understand what they were used to mean if one knows the context. This is a pragmatic approach that recognises the realities of judicial decision-making. It also allows judges to be intellectually honest. Such approach has the virtue of giving effect to parties’ real intention, rather than stretching and truncating it with judicial fictions of irrebuttable presumptions.<a class="inline-reference" id="inline14" href="#14">14</a></p>
+
+<p>How could we account for the deeply divided opinions? Lord Sumption is well-known for having developed a distinctive judging style that demonstrates his remarkable judicial conservatism.<a class="inline-reference" id="inline15" href="#15">15</a> Conservatism here refers not to political ideology, but a conceptualization of the role of judges and the extent to which a court can interfere in parties’ dealings. It can perhaps be attributed to the fact that the commercial judges, like Lord Sumption, have taken a harder line for the sake of commercial certainty. Equity lawyers, Lord Hoffmann amongst them, are arguably relatively keener to give leeway. The two conflicting approaches are based on wholly different normative policy concerns and understanding of judicial reach that are difficult to be reconciled in a technical manner.</p>
+
+<h5 id="attempt-at-reconciliation">Attempt at reconciliation</h5>
+
+<p>In fact, prior to this Hoffmann-Sumption debate, Lord Hodge had attempted to reconcile the two rival approaches in <em>Wood v Capita Insurance Services</em>,<a class="inline-reference" id="inline16" href="#16">16</a> that ‘textualism and contextualism are not conflicting paradigms in a battle for exclusive occupation of the field of contractual interpretation’.<a class="inline-reference" id="inline17" href="#17">17</a> However laudable, it is of limited practical significance. First, it does not accord with the attitude in the judicial and academic community, which continues to resemble a pendulum between the paradigms. Second, and more fatally, Lord Hodge’s approach lacks intellectual honesty and does not offer any greater certainty to commercial parties.</p>
+
+<p>Lord Hodge, citing Lord Bingham, rejected the contention that contextualism is a new phenomenon and argued the notion that the court putting itself in the shoes of the contracting parties had a long pedigree.<a class="inline-reference" id="inline18" href="#18">18</a> On a text/contextualism spectrum, theapproach adopted for construing the contract varies according to the circumstances of the particular agreement. He was at pains to point out that the recent history of contractual interpretation is one of continuity rather than change.</p>
+
+<p>This, however, conveniently overlooks many inconsistencies between <em>ICS</em> and subsequent case law. The conflict was heightened by <em>Arnold v Britton,</em><a class="inline-reference" id="inline19" href="#19">19</a> endorsed by <em>Wood</em> despite sitting uncomfortably with it. <em>Arnold</em> focuses on the natural meaning of the words and appears to take away the emphasis from the wider factual matrix.<a class="inline-reference" id="inline20" href="#20">20</a> There, Lord Neuberger downplayed the effect of surrounding circumstances. Business common sense should not be used to ‘undervalue’ the importance of the language, and what the parties meant is most obviously to be gleaned from the language of the provision. This exhibits a trend towards a more conservative approach to resolve the debate primarily on the basis of textual analysis,<a class="inline-reference" id="inline21" href="#21">21</a> and reaffirms Lord Sumption’s position. Furthermore, whether Lord Hodge’s view is representative of the judicial attitude is unclear. The Hoffmann-Sumption exchange aside, his exposition was only mentioned in passing in <em>Actavis UK v Eli Lilly</em><a class="inline-reference" id="inline22" href="#22">22</a>, where Lord Neuberger found those applicable principles ‘tolerably clear’. Thus, <em>Wood</em>’s agenda is still far from being the final word.</p>
+
+<h5 id="continued-divergence">Continued divergence</h5>
+
+<p>It now seems undeniable that the pendulum has swung back to the primacy of plain language, and Sumption’s observation proves accurate. Lord Hodge’s proposition is vigorously contested by Sir Geoffrey Vos. Vos argues that there have surely been ‘sea changes’ as contractual interpretation is now confined to choosing between available meanings of the words - with little scope for judicial adjustment of the language to reflect what the objective person would think the parties have meant (save in the most exceptional circumstances).<a class="inline-reference" id="inline23" href="#23">23</a> However, Lord Hodge is not without his supporters. Goh argues that the proper debate is not a dichotomy between a textual or contextual analysis, but rather the extent to which the plain meaning rule should be applied.<a class="inline-reference" id="inline24" href="#24">24</a> However, one would accept that no bright line can be easily drawn. It is also accepted that it is inappropriate to characterise them as two distinct and discrete factors. But the mere fact that it is a sliding scale does not undermine the conceptualisation of the two concepts battling for a bigger share in the field.</p>
+
+<p>Moreover, the retreat is not a mere English phenomenon. New Zealand has recently in <em>Firm PI 1 v Zurich Australian Insurance</em><a class="inline-reference" id="inline25" href="#25">25</a> adopted a greater role for the plain meaning. Similarly, Singapore case law hasdemonstrated waning enthusiasm for the contextual approach.<a class="inline-reference" id="inline26" href="#26">26</a> However, Lord Hoffmann’s legacy in Hong Kong in <em>Jumbo King v Faithful Properties</em><a class="inline-reference" id="inline27" href="#27">27</a> continues unscathed as his contextual approach was recently endorsed.<a class="inline-reference" id="inline28" href="#28">28</a> These overseas battlefields signify that the debate continues to be conceptualised in polarised terms with multi-jurisdictional implications.</p>
+
+<p>The difficulty ultimately boils down to an irresistible urge to reformulate again and again the principles. Jackson put it most aptly, ‘every formulation of the rules or principles is coloured by the case which is then before the court. The judge has a sense of what the right answer is and tends to slant his/her general propositions towards reaching that answer.<a class="inline-reference" id="inline29" href="#29">29</a> This realist perspective has much to commend. Practitioners and contracting parties are now left in bewilderment after plowing through a multitude of expositions.<a class="inline-reference" id="inline30" href="#30">30</a> It might be said that courts are afforded considerable flexibility, but masking the actual retreat only serves to create uncertainty for businesses, not least when contractual construction is the staple for the Commercial Court. Lawyers have already been flooded by various attempts at enumerating lists of interpretative principles. It is foreseeable that, for the time being, the UKSC will refrain from further reformulation.<a class="inline-reference" id="inline31" href="#31">31</a> Lord Hodge’s attempt at reconciling the prior authorities, unfortunately, fails to add clarity to the law, but merely masks the reality of judicial interpretation.</p>
+
+<h5 id="conclusion">Conclusion</h5>
+
+<p>At the end of the day, Hoffmann and Sumption’s strongly-worded exchange seems to support a criticism of the optimistic <em>Wood</em> decision - that a palpable change in the law and deeply divided approaches has been repeatedly played down. The status quo seems to lean in favour of Sumption’s conclusion. For the sake of commercial certainty, English judges should resist the temptation of another grand reformulation of principles. Nevertheless, it is anticipated that the academic debate will continue. Now, all eyes are on Lord Sumption’s Reith lectures on BBC Radio 4 this spring for another comeback.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+J. Sumption, ‘A Question of Taste: The Supreme Court and the Interpretation of Contracts’, Harris Society Annual Lecture, Oxford 8 May 2017</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+L. Hoffmann, ‘Language and Lawyer’ [2018] 134 LQR (Oct) 553.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+Lovell and Christmas Ltd v Wall (1911) 104 LT 85.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+[1998] 1 WLR 896.</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+Ibid, 912-913.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+Ibid, 913.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+[2009] UKHL 38, [2009] 1 AC 1101.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+[2011] UKSC 50, [2011] 1 WLR 2900.</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+Sumption (n 1).</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+Ibid.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+N. Andrews, ‘Interpretation of Contracts and “Commercial Common Sense”: Do Not Overplay this Useful Criterion’ (2017) 76 Cambridge Law Journal 36</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+Sumption (n 1).</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+Hoffmann (n 2).</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+Hoffmann (n 2).</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+J. Lee, ‘The Judicial Individuality of Lord Sumption’ (2017) 40(2) UNSW Law Journal 862.</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+[2017] UKSC 24, [2017] AC 1173.</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a>
+Ibid [13].</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a>
+T. Bingham, ‘A new thing under the sun? The interpretation of contracts and the ICS decision’ Edin LR Vol 12, 374.</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a>
+[2015] UKSC 36, [2015] 2 WLR 1593.</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a>
+Ibid [20].</p>
+
+<p><a class="reference" id="21" href="#inline21">[21]</a>
+D. McLauchlan, ‘The lingering confusion and uncertainty in the law of contract interpretation’ [2015] LMCLQ 406.</p>
+
+<p><a class="reference" id="22" href="#inline22">[22]</a>
+[2017] UKSC 48, [58].</p>
+
+<p><a class="reference" id="23" href="#inline23">[23]</a>
+Sir G. Vos, ‘Contractual Interpretation: Do judges sometimes say one thing and do another?’ Canterbury University, Christchurch 18 October 2017.</p>
+
+<p><a class="reference" id="24" href="#inline24">[24]</a>
+Y. Goh, ‘From context to text in contractual interpretation: Is there really a problem with the plain meaning rule?’ (2016) Common Law World Review 45 (4) 298, 299.</p>
+
+<p><a class="reference" id="25" href="#inline25">[25]</a>
+[2014] NZSC 147 (Arnold J).</p>
+
+<p><a class="reference" id="26" href="#inline26">[26]</a>
+Sembcorp Marine v PPL Holdings Pte [2012] 3 SLR 801.</p>
+
+<p><a class="reference" id="27" href="#inline27">[27]</a>
+(1999) 2 HKCFAR 279.</p>
+
+<p><a class="reference" id="28" href="#inline28">[28]</a>
+Fully Profit (Asia) Ltd v SJ (2013) 16 HKCFAR 351 (Ma CJ).</p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a>
+Sir R. Jackson, T. Chelmick, ‘The Construction of Contracts’, 1 May 2018, 4 New Square Conference on Construction Law.</p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a>
+N. Edwards, ‘Some clarity on contracts’ (2017) New Law Journal &lt;www.newlawjournal.co.uk/content/some-clarity-contracts&gt; accessed 27 January 2019.</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a>
+C. Dowling, A. Denholm, ‘Literal or Contextual? What is the Correct Approach to Contractual Interpretation?’ Oxford Business Law Blog, 26 Apr 2017.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Creating easements with ease: *Re Ellenborough Park* test revisited</title>
+	  <link>/blog-v2//2019/01/creating-easements-ease-ellenborough-park/</link>
+	  <author></author>
+	  <pubDate>2019-01-26T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2019/01/creating-easements-ease-ellenborough-park/</guid>
+	  <description><![CDATA[
+	     <p><strong>Case note: <em>Regency Villas Title Ltd v Diamond Resorts (Europe) Ltd</em> [2018] UKSC 57</strong></p>
+
+<h5 id="a-introduction">A. Introduction</h5>
+
+<p>The law of easement, a seemingly dry and technical aspect of land law, has been rejuvenated in the recent UKSC case of <em>Regency Villas Title Ltd v Diamond Resorts (Europe) Ltd</em>.<a class="inline-reference" id="inline1" href="#1">1</a> Much of the confusion surrounding the law is attributed to the archaic language of the Re Ellenborough Park test. The present case turns on whether the right to the free use of sporting and recreational facilities provided in a country club may be conferred upon the owners of an adjacent timeshare complex by easements. In doing so, the Court revisited and shed new lights on the classic four-limb test. This note analyses the majority’s reasoning. While recognising its laudable objectives, it then argues that Lord Carnwath’s orthodox approach is sounder in principle and policy.</p>
+
+<h5 id="b-background-facts">B. Background facts</h5>
+
+<p>The case concerns Broome Park, a country estate in Canterbury that includes the ‘Mansion House’, ‘Elham House’ and neighbouring lands. In 1967, Elham House was sold and the seller retained the rest of Broome Park. Following subsequent transfers, Elham House was eventually held for the benefit of the Regency Villas Owners Club’s members. A freehold owner of Elham House, Diamond Resorts (Europe) Ltd, sought a declaration for the use of the facilities under an easement on the basis of a Facilities Grant. The alleged servient tenement contains a clubhouse and recreational facilities, including a golf course, swimming pool, and gardens. Before the trial judge, the Respondents successfully established the easement. They were granted an injunction restraining interference with their use of the facilities. The Court of Appeal subsequently upheld the decision. The UKSC again dismissed the appeal (Lord Briggs delivering the judgment) and affirmed the existence of such easement.</p>
+
+<h5 id="c-analysis-of-the-majority-opinion">C. Analysis of the majority opinion</h5>
+
+<p>Any discussion of easement invariably starts with In <em>re Ellenborough Park</em>’s adoption of Dr Cheshire’s formulation on the essential conditions: i) There must be a dominant and a servient tenement; ii) The easement must accommodate the dominant tenement; iii) The dominant and servient owners must be different persons; iv) A right over land cannot amount to an easement, unless it is capable of forming the subject-matter of a grant. Since then, this framework has stood for the <em>locus classicus</em>. The present case turns on the scope of the second and fourth condition.</p>
+
+<h6 id="the-accommodation-requirement"><u>The 'Accommodation' requirement</u></h6>
+<p>Lord Briggs’ discussion on the ‘accommodation’ requirement seems entirely conventional. Some general principles can be teased out. It is trite that the right must not be merely appurtenant or annexed to the dominant tenement, if the enjoyment has nothing to do with its normal use.<a class="inline-reference" id="inline2" href="#2">2</a> The ‘normal use’ of the dominant tenement may be residential or business in nature.<a class="inline-reference" id="inline3" href="#3">3</a> The <em>Re Ellenborough Park</em> formula focuses on benefits that pertain to the land, rooted in the Roman law doctrine of <em>ius spatiandi</em>. Understandably, this seeks to maintain a clear dividing line between mere rights in <em>personam</em> (e.g. licences) from rights in rem. Difficulties abound for recreational rights since they are invariably enjoyed for one’s own sake. They do not pertain to the beneficial use of the dominant tenement – it is nonsensical to say that the land ‘enjoys’ these entertainment facilities. Lord Briggs considers <em>Re Ellenborough Park</em> as dispositive on the issue that recreational use is not fatal to the recognition of a right as an easement, despite previous conflicting dicta.<a class="inline-reference" id="inline4" href="#4">4</a> This is not a controversial statement – the crux of the dispute falls on how far could the notion of ‘recreational use’ be stretched. Lord Briggs skillfully evaded the ‘extent’ question at this stage of analysis, but chose to address it under the fourth condition.</p>
+
+<h6 id="rights-capable-of-forming-the-subject-matter-of-a-grant"><u>Rights capable of forming the subject-matter of a grant</u></h6>
+<p>This requirement is notorious for creating uncertainties with its circular nature. One of its core facets is that the servient owner shall not be obliged to do anything beyond mere passivity.<a class="inline-reference" id="inline5" href="#5">5</a> The Law Commission in 2011 opined that the scope for litigation this created sufficiently outweighs its utility – abolition is overdue.<a class="inline-reference" id="inline6" href="#6">6</a> It is particularly difficult to delineate precisely when the right is so extensive as to ‘oust’ the servient owner from his enjoyment or control. Here, Lord Briggs was quick to dismiss the Appellant’s ouster argument by deferring to the trial judge and the CA’s factual findings. This decision breaks new ground as it broadens the scope of <em>Ellenborough Park</em> in three dimensions:</p>
+
+<p>1.The nature and extent of the recreational and sporting facilities in <em>Regency Villas</em> requires more intensive management.</p>
+
+<p>2.A wider group of dominant owners (timeshare owners and public members) in present in <em>Regency Villas</em>.</p>
+
+<p>3.The cost of managing and maintaining was shared among servient owners in <em>Regency Villas</em> and dominant owners in <em>Ellenborough Park</em> respectively.</p>
+
+<p>In justifying the extension, Lord Briggs invoked the principle that ‘the common law should, as far as possible, accommodate itself to new types of property ownership and new ways of enjoying the use of land.’<a class="inline-reference" id="inline7" href="#7">7</a> This is arguably in line with the recent judicial attitude. In <em>Coventry v Lawrence</em>,<a class="inline-reference" id="inline8" href="#8">8</a> a right to commit a noise nuisance could amount to an easement, despite being framed in dubious terms as ‘the right to transmit sound waves over land.’<a class="inline-reference" id="inline9" href="#9">9</a> However, this optimism shall not be taken too far. The majority is not oblivious to the countervailing factors. Annexation to a freehold is indeterminate in length whilst a timeshare structure is frequently set up for a limited duration. In Lord Briggs’ words, ‘the rights conferred are likely to burden the servient land long after the leisure complex in question has outlived its natural life.’<a class="inline-reference" id="inline10" href="#10">10</a> Furthermore, he even acknowledged that using easement as the conveyancing vehicle for recreational rights as ‘hardly ideal’ in comparison with a leasehold structure. Surprisingly, there was no attempt at all to rebut these arguments. The conclusion was abrupt as he invokes the vague notion that recreational and sporting activity is a beneficial part of modern life that the common law should support.</p>
+
+<h6 id="d-lord-carnwaths-dissent"><u>D. Lord Carnwath's dissent</u></h6>
+
+<p>A brief yet astute dissent came from the former Law Commissioner. He criticises the majority’s reasoning on several grounds. First, doctrinally, the expansion attracts weak support from authorities. The cases cited by Lord Briggs involves nothing more than access to land for the purposes of walking and enjoyment as a garden or park. These, as he rightly observed, are not comparable with the 18-hole golf course.<a class="inline-reference" id="inline11" href="#11">11</a> It is submitted that while they support the reasoning of <em>Re Ellenborough Park</em>, it would be far-fetched to say they contemplate the creation of a novel proprietary right. Secondly, he draws on the extensive burden imposed on the alleged servient owner. It involved organisation and management of the entire leisure complex, beyond mere maintenance or repair.<a class="inline-reference" id="inline12" href="#12">12</a> This distinction was heavily downplayed by Sir Geoffrey Vos in the Court of Appeal. A third objection is a ‘floodgate concern’. Stretched to its logical limit, the majority decision is problematic. It could theoretically be applied to cases such as those concerning free access to the rides and attractions in amusement parks, where active management and supervision are indispensable.<a class="inline-reference" id="inline13" href="#13">13</a></p>
+
+<h6 id="e-broader-implications"><u>E. Broader implications</u></h6>
+
+<h6 id="public-policy">Public policy</h6>
+<p>The broadly framed fourth condition in <em>Ellenborough Park</em> conveys a policy agenda – to ensure the law of easement evolves with societal realities. However, it is already doubtful whether recognizing the ‘recreational’ value of land bears any novelty whatsoever. More fundamentally, the policy concern surely goes in two directions. Another major objective is to prevent haphazard recognitions that could permanently encumber the land by proprietary restrictions. This in turns inhibits the free alienability of land as a valuable commercial commodity. This must also be viewed in light of the lack of statutory basis for the discharge or modification of easements, contrary to that of restrictive covenants. Finally, the majority’s approach also potentially goes against the spirit of the <em>numerus clausus</em> principle, that rights in rem are confined to a finite subset. It might well be said that no new proprietary rights are created – but <em>numerus clausus</em> is not a matter of form, but substance. Creating a new category of easement without a sound statutory or precedential footing is risky.</p>
+
+<h6 id="practical-implications">Practical implications</h6>
+<p>The decision would also be of interest to the conveyancing lawyers because the creation of this type of easement could impose onerous obligations on the servient owner. Importantly, it elevates the application of easements from the typical ‘backyard-garden-type’ cases to large-scale property project developments. Caution is therefore advised in drafting the grant documents. Lord Briggs stressed the importance of the following. First, where common intention to confer an easement is manifested, the ‘validation principle’ is applied to give it proper effect.<a class="inline-reference" id="inline14" href="#14">14</a> Secondly, whether the grant was intended to be a single comprehensive right to use facilities as they evolved, or if it is fixed in time.<a class="inline-reference" id="inline15" href="#15">15</a> Thirdly, the presence of express requirement for contribution to the operational costs.<a class="inline-reference" id="inline16" href="#16">16</a> This is particularly so in this case since the construction of the grant was influential and confidence-boosting in the majority’s decision in creating a new type of easement.</p>
+
+<p>Overall, this seemingly technical case encompasses a debate on conflicting policy paradigms. It also epitomizes the confusion arising from the anachronistic formulation of a test that provides scope for disorganized expansion. The sweeping reforms proposed by the Law Commission merit reconsideration to put the law back on principled track.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+[2018] UKSC 57.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+ibid [40].</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+ibid [40]-[41].</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+ibid [48].</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+ibid [58].</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+Law Commission Report, ‘Making Land Work: Easements, Covenants and Profits a Prendre’ (2011) [3.207]-[3.211].</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+(n 1) [76].</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+[2014] UKSC 13.</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+ibid [33].</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+(n 1) [79].</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+(n 1) [96].</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+(n 1) [98].</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+(n 1) [107].</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+(n 1) [25].</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+(n 1) [26]-[29].</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+(n 1) [30].</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>English Choice of Law in Contract Under the Rome I Regime: Is Flexibility Giving Way to Predictability?</title>
+	  <link>/blog-v2//2018/10/english-choice-law-contract-rome-i-regime/</link>
+	  <author></author>
+	  <pubDate>2018-10-16T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2018/10/english-choice-law-contract-rome-i-regime/</guid>
+	  <description><![CDATA[
+	     <p>The Rome I Regulation (593/2008/EC) is the EU regulation which governs the choice of law applicable to contractual obligations in civil and commercial matters. It replaces the 1980 Rome Convention and effects important structural changes to the rules for determining the applicable law, as well as the exceptions to those rules (the ‘choice of law gateways’). The English courts’ application of the gateways in the Rome Convention has been criticised as excessively flexible. While this view may be justified in relation to earlier cases decided on the Convention, there has been a gradual movement towards a more cautious judicial approach to both implied choice (Article 3) and the escape clause (Article 4), which was partly crystallised and partly precipitated by the changed architecture of these two provisions in the Rome I Regulation.</p>
+
+<h5 id="i-implied-choice--article-3-rome-i">I. Implied choice – Article 3 Rome I</h5>
+
+<p>Article 3(1) Rome I stipulates that where the parties have not made an express choice of law, courts may imply such a choice if it is ‘clearly demonstrated by the terms of the contract or the circumstances of the case’. This is a notable change from Article 3 of the Convention which only required that a real choice be ‘demonstrated with reasonable certainty’.</p>
+
+<h6 id="a-terms-of-the-contract"><u>(a) 'Terms of the contract'</u></h6>
+
+<p>The most compelling evidence of a real but unexpress choice is the inclusion of a jurisdiction or arbitration clause as a contractual term. Jonathan Hill notes that in such cases, English courts imply a choice of the law of the forum ‘almost as a matter of course’.<a class="inline-reference" id="inline1" href="#1">1</a> Yet judges are arguably not abusing their discretion in doing so because (a) such an approach is sanctioned by Recital 12 of Rome I, and (b) other EU Member States do the same (notably Germany). Furthermore, an exclusive jurisdiction clause is arguably most indicative – out of all the factors which a court may consider – that the parties intended to make a choice of law, namely the law of the chosen forum. Therefore, in this respect, English judges’ use of the implied choice gateway is consistent with Article 3 and the overarching principle of the Rome regime: party autonomy.</p>
+
+<p>Nevertheless, English courts’ propensity to find implied choice of law on the basis of factors other than choice of forum clauses has sometimes been unwarranted. A notable example is the House of Lords’ judgment in <em>Amin Rasheed Shipping Corp v Kuwait Insurance Co</em> [1983] 3 WLR 241. Admittedly, Lord Diplock’s reasoning that contracts cannot exist in a ‘legal vacuum’ was founded on impeccable legal logic. However, the House of Lords’ decision to imply a choice of English law because the contract was based on the Lloyds marine policy standard form – which had to be interpreted by reference to the Marine Insurance Act 1906 and the English case law on it – was a stretch too far. Lord Diplock noted (quoting Bingham J, as he then was, in an earlier case) that the Lloyds policy was so widely used that it had become a ‘common currency’ for the international insurance business. Contrary to his view, however, precisely because it is so widely used it cannot realistically be presumed that all private parties in the world who choose the Lloyds form as their insurance policy also intend to choose English law to apply to their contractual disputes, if nothing else in the terms of the contract or the circumstances of the case indicates such a choice.</p>
+
+<h6 id="b-circumstances-of-the-case"><u>(b) 'Circumstances of the case'</u></h6>
+
+<p>When applying this second discretionary limb of the implied choice gateway, English courts have shown more restraint. While Potter LJ in <em>Aeolian Shipping SA v ISS Machinery Services Ltd</em> [2001] EWCA Civ 1162 reasoned that a wider range of factors could be considered under Article 3 than under the traditional common law approach to implication of terms, Mance LJ in <em>American Motorists Insurance Co v Cellstar Corporation</em> [2003] EWCA Civ 206 disagreed and formulated the ‘so obvious that it went without saying’ test. Its application in subsequent cases allowed English judges to remain within the boundaries of implication of a real choice, and not stray into the proscribed waters of imputation of a choice which was clearly not made but would have been reasonable. In light of this, the English courts’ approach to Article 3 has been overall satisfactory and there has not been overindulgence in search for an implied choice. This relatively strict approach of the English judges was crystallised by the new architecture of Rome I, whose emphasis on the objectives of certainty and predictability necessitates the curbing of interpretative flexibility. Therefore, it is unlikely that there will be a major change in the English courts’ current application of the implied choice gateway.</p>
+
+<h5 id="ii-manifestly-more-closely-connected-law--article-4-rome-i">II. ‘manifestly more closely connected law’ – Article 4 Rome I</h5>
+
+<p>In contrast to their measured approach to Article 3, English courts have adopted too malleable an interpretation of Article 4, which applies when the parties have not made a choice of law. This is reflected in the higher threshold for the activation of the choice of law gateway in Rome I. First, the presumption in Article 4(2) of the Rome Convention that the law of the country where the characteristic performer habitually resides shall govern the contract has been raised to a <em>rule </em>in Rome I. And second, the escape clause in Article 4(5) of the Rome Convention, which enabled the displacement of the presumption in favour of another more closely connected law, has been reduced to a narrow <em>exception </em>in Article 4(3) Rome I.</p>
+
+<p>In the early Article 4 cases, English courts tended to find that the place of performance of the obligations characterising the contract was a more important localising factor than the place of habitual residence of the party performing it, and to conclude that the contract was more closely connected with the law of the former. In <em>Samcrete Egypt Engineers &amp; Contractors SAE v Land Rover Exports Ltd</em> [2001] EWCA Civ 2019, the Court of Appeal found that English law rather than Egyptian law (where the characteristic performer had their habitual residence) governed the contract because the place of delivery and payment was England. Yet apart from these two connecting elements, there was nothing else linking the disputed contract to England. Indeed, as Hill argues, the court attached so little weight to the country of habitual residence of the characteristic performer that it can almost be said that it was presuming – contrary to the letter of the Convention – that the place of performance was the best indicator of the closest connection between law and contract.<a class="inline-reference" id="inline2" href="#2">2</a></p>
+
+<p>The judgment of Morison J in <em>Definitely Maybe (Touring) Ltd v Marek Lieberberg Konzertagentur GmbH</em> [2001] 1 WLR 1745 was an attempt to mediate between the weak and strong versions of the presumption. His strictly textual approach to construction led him to hold that Article 4(2) was intended to operate as a ‘normal rule’ which would be ‘simple to apply’ and would apply in the majority of cases, thereby bringing the English approach to Article 4 closer to the strong theory. Nevertheless, in judging that the presumption could be disregarded in cases where the factors connecting the contract to another country overwhelmingly prevail, he went on to do just that (interestingly, with the effect of stripping English courts of jurisdiction). In light of this judgment, and in line with Hill’s view, it appears that while English judges are speaking the language of the strong version of the presumption, in practice they would disregard it whenever the country of the habitual residence of the characteristic performer differs from the country where the characteristic performance actually takes place.<a class="inline-reference" id="inline3" href="#3">3</a></p>
+
+<p>The most contentious scenario to which the escape clause has been applied (indeed, excessively flexibly) by English courts is when the contract at issue is part of a larger chain of transactions between multiple parties and jurisdictions. <em>Bank of Baroda v Vysya Bank Ltd</em> [1994] 2 Lloyd’s Rep 87 concerned letters of credit which characteristically involve four parties – the issuing bank, confirming bank, beneficiary and debtor – each having individual bilateral contracts among themselves. As a matter of policy, it is preferable that they are all governed by the same law. Guided by this line of reasoning, Mance J displaced the Article 4(2) presumption as regards the contract between the beneficiary and the issuing bank, finding that the contract was more closely connected with England than India because the letter was issued through National Westminster Bank in London.</p>
+
+<p>Manuel Penadés Fons has defended the English judges’ approach in such chains of contracts scenarios, arguing that they are merely responding to commercial realities and aiming to give commercially sound decisions.<a class="inline-reference" id="inline4" href="#4">4</a> In support, he refers to Recitals 20 and 21 of Rome I and Article 4(1)(h) which recognise the practicality of there being a single law governing all contracts within the same complex multilateral transaction.<a class="inline-reference" id="inline5" href="#5">5</a> Thus, English courts’ approach to Article 4 is in his view ‘nuanced’ and context-dependent in a way which does not contravene the Rome Convention, and will not contravene the Rome I Regulation.<a class="inline-reference" id="inline6" href="#6">6</a> Although the added qualifier ‘manifestly’ in Article 4(3) Rome I suggests an intention to limit the opportunistic exercise of judicial discretion, context will always be everything when there is no definitive guidance on the application of the escape clause.<a class="inline-reference" id="inline7" href="#7">7</a></p>
+
+<p>However, there remains a conceptual difficulty in determining which contractual relationship to examine first in the search for a single applicable law. The arbitrariness of this choice was evident in <em>Bank of Baroda</em> where the court began its analysis from the contract between the issuing bank and the confirming bank which pointed to England. As Hill suggests in his evaluation of Mance J’s reasoning, it is in fact the contract between the issuing bank and the beneficiary which should be considered first since the beneficiary’s acceptance of it sets in motion the chain of all subsequent transactions.<a class="inline-reference" id="inline8" href="#8">8</a> The Commercial Court in <em>Molton Street Capital LLP v Shooters Hill Capital Partners LLP</em> [2015] EWHC 3419 – the first English case on Article 4 Rome I – seems to have recognised this when it reasoned that the contracts above and below a contract for the sale of junk bonds were not connecting factors strong enough to displace the Article 4(2) presumption. This most recent English judgement is in line with the new wording of Article 4(3) Rome I in that it reflects the principle of exceptionality enshrined in the word ‘manifestly’. It remains to be seen whether or not it will mark the start of a stricter usage of the escape clause by English judges.</p>
+
+<h5 id="conclusion">Conclusion</h5>
+<p>The architectural changes effected by the Rome I Regulation to the European rules for choice of law in contract place an enhanced emphasis on the goal of predictability at the expense of flexibility. English courts – although having often been excessively opportunistic in their use of the choice of law gateways under the Rome Convention – have recently started exhibiting a trend of restraint more in line with the new Rome I provisions, and exercising their discretion more sparingly and conscientiously. Whether this trend will continue is the subject of speculation.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+Jonathan Hill, ‘Choice of Law in Contract Under the Rome Convention: The Approach of the UK Courts’ (2004) 53 ICLQ 325, 329.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+ibid, 342.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+ibid, 343.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+Manuel Penadés Fons, ‘Commercial Choice of Law in Context: Looking Beyond Rome’ (2015) 78(2) MLR 241.</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+ibid, 256.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+ibid, 243.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+ibid, 246, 274-276.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+Hill (n 1) 341.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The Undisclosed Principal: Limiting Liability for Negligent Misrepresentations</title>
+	  <link>/blog-v2//2018/09/undisclosed-principal-limiting-liability-negligent-misrepresentations/</link>
+	  <author></author>
+	  <pubDate>2018-09-27T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2018/09/undisclosed-principal-limiting-liability-negligent-misrepresentations/</guid>
+	  <description><![CDATA[
+	     <p><em>Banca Nazionale del Lavoro SPA v Playboy Club London Limited and others</em> [2018] UKSC 43 concerns a claim for pure economic loss due to a negligent misrepresentation. It sets a precedent for cases that concern a duty of care between a statement-maker and third party undisclosed principal. At first glance, the instant case appears consistent to <em>Hedley Byrne &amp; Co Ltd v Heller &amp; Partners Ltd</em><a class="inline-reference" id="inline1" href="#1">1</a>. Yet, on closer examination, it contains several distinctive material facts.</p>
+
+<p>Hassan Barakat, a Lebanese national, wished to gamble at Playboy Club London (“<strong>the Club</strong>”). He applied for a cheque cashing facility for up to £800,000, allowing him to present a cheque and obtain chips to an equivalent value before that cheque was to be cashed. Following the Club’s protocol for welcoming new players, Bakarat was required to obtain a credit reference from his bankers for twice the amount of the cheque cashing facility (£1.6 million). To preserve customer confidentiality at the Club, the Club hired Burlington Street Services (“<strong>Burlington</strong>”), an associated company, to obtain the credit reference on their behalf. Soon after, Barakat returned to Lebanon, taking his winnings with him. Both cheques Bakarat had cashed were returned unpaid, and the Club suffered a net loss of £802,940. The Club began proceedings against the Bank for the loss they had incurred, arguing the Bank owed them a duty of care to exercise reasonable skill in preparing the credit reference. However, the Court of Appeal held that a duty of care was only owed by the Bank to Burlington as they were the addressee of the reference. The Club appealed the decision, but its appeal was unanimously dismissed by the Supreme Court. Notably, the fact the Club had remained Burlington’s undisclosed principal carried the most weight in determining why the Court reached the decision it did. This material fact established that a party cannot voluntarily assume responsibility towards someone they are not aware is privy to their agreement. Moreover, it helped inform the two main arguments the Court adopted in dismissing the appeal, one centered around the voluntary assumption of responsibility and the other concerning relationships equivalent to contract.</p>
+
+<h5 id="voluntary-assumption-of-responsibility">Voluntary Assumption of Responsibility</h5>
+
+<p>In dismissing the claim that the Bank had voluntarily assumed responsibility to the Club and thus owed a duty of care, the Court turned to examine the most influential precedent on pure economic loss: <em>Hedley Byrne</em>. The <em>Hedley Byrne</em> principle establishes that a duty of care arises where there is a ‘special’ relationship between A and B. This special relationship must satisfy two tests: A assumes responsibility for a negligent misrepresentation in knowing that B will rely on their statement, and B must proceed to rely on that statement. Only once B’s reasonable reliance upon A’s statement can be established does a duty of care exist. Furthermore, a party cannot assume responsibility to the world at large. In <em>Hedley Byrne</em>, Heller understood that their statement was to be relied upon by ‘an unidentified but readily identifiable’ client on whose behalf the National Provincial Bank was known to be making an inquiry. Yet, in <em>Banca Nazionale</em>, there was no evidence that the Bank knew its credit reference would be communicated to anyone other than Burlington. In <em>Hedley Byrne</em>, the reference in question was relied upon by the party to whom it was addressed. However, in <em>Banca Nazionale</em>, the reference was relied upon by Burlington’s undisclosed principal, the Club. Since the Bank had in no way assumed responsibility towards the Club, the Court dismissed the claim that the Bank owed it a duty of care. This decision is sound insofar as it prevents holding a statement-maker ‘liable in an indeterminate amount for an indeterminate time to an indeterminate class’<a class="inline-reference" id="inline2" href="#2">2</a> for breach of an alleged duty of care regarding the accuracy of their statement. This reasoning will be favourably welcomed by banks and others frequently called upon to provide references.</p>
+
+<p>On a broader scale however, it is useful to analyse where limitations of the assumption of responsibility principle lie. As Hartshorne argues, a review of contemporary judicial decisions such as <em>HM Customs and Excise Commissioners v Barclays Bank Plc</em><a class="inline-reference" id="inline3" href="#3">3</a> and <em>Jain v Trent Strategic Health Authority</em><a class="inline-reference" id="inline4" href="#4">4</a> suggests that the concept should no longer be regarded as the touchstone of liability in pure economic loss claims<a class="inline-reference" id="inline5" href="#5">5</a>. This is because there has been a movement away from applying the assumption of responsibility principle as a determinant of whether a duty of care exists. The Caparo tripartite test has been one stepping stone towards this direction, and Robinson will likely be the other (which suggests there is in fact no definitive test for identifying a duty of care). Favoured by judges, both of these developments effectively render the assumption of responsibility principle theoretically obsolete. This speaks to the status quo that the assumption of responsibility principle no longer plays the same dominant role it once did, and calls into question how the law of negligent misstatements may be shaped (if at all) by cases such as <em>Banca Nazionale</em>. This is particularly significant when it can be argued that the Supreme Court’s decision to dismiss the Club’s appeal works in favour of trying to maintain a limit on the class of persons to whom a duty can be owed, preserving the function of what the assumption of responsibility principle seeks to achieve.</p>
+
+<h5 id="relationships-equivalent-to-contract">Relationships Equivalent to Contract</h5>
+
+<p>The Court also dismissed the claim that the Club’s relationship with the Bank was equivalent to a contract. The Club’s counsel sought to rely on Lord Devlin’s argument in <em>Hedley Byrne</em>, arguing that because the relationship between the Bank and the Club was equivalent to contract, the Club was therefore entitled to declare itself and assume the benefit of the contract. This submission was rejected by the Court because it relied on the assumption that because a relationship akin to contract is generally sufficient in finding a duty of care, it follows that the legal elements of a contractual relationship are automatically imposed in the relationship. Extending privity of contract to an undisclosed principal not party to a contract between an agent and third party would open the floodgates of liability to the extent that any party issuing a statement may be at risk of having a claim brought against them for inaccuracy. Is this claim’s dismissal an indication that the law on undisclosed principals may soon be reformed? The Court’s actions certainly make reform seem plausible, with Lord Sumption asserting that the law relating to undisclosed principals is one that survives ‘on account of its antiquity rather than its coherence’.  However, as Reynolds argues, ‘clear cases of the law’s application are comparatively few, and judgments that are less than 100 years old even fewer’<a class="inline-reference" id="inline6" href="#6">6</a>.</p>
+
+<h5 id="conclusion">Conclusion</h5>
+
+<p>Following dismissal of both the arguments made for the voluntary assumption of responsibility principle and relationships equivalent to contract, Lord Sumption made the following clear: where A has passed a statement onto B that has been passed onto C, A owes C no duty of care unless he knew that the statement was likely to be communicated to C and it was part of the statement’s known purpose to be communicated to and relied upon by C. Evident here is the Court’s desire to limit exposure to liability. While <em>Hedley Byrne</em> establishes the principle that a party can be liable for a negligent misstatement to a third party to whom they had not directly provided a reference to, <em>Banca Nazionale</em> further clarifies that a reference is fruitless if obtained for an unidentifiable third party. This shows the Court actively distinguishing between the facts of the two cases to clarify the limits of liability, which helps to illustrate the parameters the court will stick to in allowing a claim for damages.</p>
+
+<p>The arguments presented in <em>Banca Nazionale</em> do a good job of microcosmically illustrating the law on pure economic loss. They highlight that the boundaries of the voluntary assumption of responsibility principle remain narrow to avoid excessive liability. They also help to reiterate the Court’s opinion that the <em>Hedley Byrne</em> principle is the only exception to the rule that pure economic loss is not recoverable, plain from Lord Mance’s conclusion in his concurring judgment that had Burlington been the operator of the gaming club and suffered the loss, the claim would have succeeded. This bears the impression that the courts are keen on remaining with the principle established in Hedley Byrne, and that they are content with not allowing unknown third parties (or undisclosed principals)to recover for pure economic loss.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+[1964] AC 465.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+Ultramares Corporation. v Touche [1931] 174 New York Court of Appeals 441, 444.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+[2006] UKHL 28.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+[2009] UKHL 4.</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+J Hartshorne, ‘Contemporary Approaches Towards Pure Economic Loss in the Law of Negligence’ (2014) Journal of Business Law 425-442.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+FMB Reynolds, ‘Practical Problems of the Undisclosed Principal Doctrine’ (1983) 36 Current Legal Problems 119–140.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Employees or Independent Contractors: What Defines a “Worker”?</title>
+	  <link>/blog-v2//2018/08/employees-independent-contractors-defines-worker/</link>
+	  <author></author>
+	  <pubDate>2018-08-02T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2018/08/employees-independent-contractors-defines-worker/</guid>
+	  <description><![CDATA[
+	     <p><em>Pimlico Plumbers Limited v Smith</em> [2018] UKSC 29 deals with several important issues concerning an intermediate category of working people falling between an “employee” under a contract of service and those who work for others as independent contractors. The final appeal decision clarifies the meaning of “worker” under section 230(3)(b) of the Employment Rights Act 1996 (‘ERA’), Regulation 2(1) of the Working Time Regulations 1998 (‘the Regulations’) and section 83(2) of the Equality Act 2010 (‘the Equality Act’).</p>
+
+<p>Mr Smith is a plumbing and heating engineer. Pimlico Plumbers (‘Pimlico’) is a London-based plumbing business. For almost six years, Mr Smith carried out work for Pimlico. Under the two agreements he had entered into, Pimlico was not obliged to provide Mr Smith work, and he was not obliged to accept any work provided. Tragically, in 2011, Mr Smith suffered a heart attack. After requesting for a three-day week from Pimlico on his doctor’s advice, he was sacked. Following this, he brought claims against Pimlico in an employment tribunal for unfair dismissal, unlawful wage deductions, unpaid annual leave and disability discrimination. The tribunal concluded that he was not an “employee” within the meaning of section 230(1) of the ERA to bring an unfair dismissal claim. However, he was a “worker” under section 230(3)(b) of the ERA and regulation 2(1) of the Regulations. Further, he had been in “employment” under section 83(2) of Equality Act. Pimlico Plumbers appealed these three decisions at the EAT and Court of Appeal. These attempts were unsuccessful, and their arguments again failed before a unanimous Supreme Court (Lord Wilson, Lady Hale, Lord Hughes, Lady Black and Lord Lloyd-Jones).</p>
+
+<p>Under section 230(3) of the ERA, a “worker” is not only defined as, at (a) an individual who is employed under a contract of service, but also at (b), as:</p>
+
+<p>“an individual who has entered into or works under … any other contract … whereby the individual undertakes to … perform personally any work or services for another party to the contract whose status is not by virtue of the contract that of a client or customer of any profession or business undertaking carried on by the individual …”</p>
+
+<p>Reconciling the definition of “workers” against its legislative backdrop, the Supreme Court found that regulation 2(1) of the Regulations defined “worker” in identical terms to section 230(3)(b) of the ERA. At first glance, the definition of “employment” under the Equality Act appears to be different to the concept of “worker” within the meaning of section 230(3)(b) of the ERA and regulation 2(1) of the Regulations. However, following Lady Hale’s observations in <em>Bates van Winkelhof v Clyde &amp; Co LLP</em> [2014] UKSC 32, Lord Wilson noted that this was in fact a distinction without difference. He pointed to Lady Hale’s observations to demonstrate that the operation of section 83(2)(a) of the Equality Act yielded similar economical results to section 230(3)(b) of the ERA and regulation 2(1) of the Regulations, and that this was conceptually legitimate to treat the three decisions as being founded on the question of whether Mr Smith was a “worker” under section 230(3)(b) of the ERA. However, Lord Wilson failed to address how exactly <em>van Winkelhof</em> equated the definition of a “worker” under section 230(3)(b) of the ERA with section 83(2)(a) of the Equality Act. In many ways, this was a lost opportunity, especially with concern to the restrictive approach of <em>Jivraj v Hashwani</em> [2011] UKSC 40 when interpreting “employment” under section 83(2)(a) of the Equality Act.</p>
+
+<p>There were two key legal tests Mr Smith had to satisfy if he was to qualify as a “worker” under section 230(3)(b) of the ERA. The first was that Mr Smith had undertaken to “perform personally” his work for Pimlico, and the second that Pimlico was not to be regarded as Mr Smith’s client or customer. Under the first test, the Court was concerned as to whether Mr Smith’s right to substitute another Pimlico operative was inconsistent with his obligation of personal performance. Ultimately, the employment tribunal, the EAT and the Court of Appeal did not consider Mr Smith’s right to substitute as negating his obligation of personal performance. Challenging this analysis, Pimlico directed the Court’s attention to <em>Halawi v WDFG UK Ltd (t/a World Duty Free)</em> [2014] EWCA Civ 1387 and <em>Mirror Group Newspapers Ltd v Gunning</em> [1986] ICR 145 but these cases did nothing to assist in determining where the boundary lay between the right to substitute and personal performance. Rather, it was in the analysis of <em>James v Redcats (Brands) Ltd</em> [2007] ICR 1006 and <em>Jivraj</em> where the Court held that it was helpful to assess the significance of Mr Smith’s right to substitute by analysing “whether the <em>dominant feature</em> of the contract remained personal performance on his part”.This is a welcome clarificatory approach by the Supreme Court in the assessment of personal performance as it means the lower courts and tribunals should favour to analyse, <em>not</em> merely the purpose of the contract, but its main substance. On the facts of <em>Pimlico Plumbers</em>, the Court found that the right to substitute was “so insignificant as not to be worthy of recognition”. Mr Smith warranting his competence and skills, the requirement for him to uphold a high standard of conduct and that he must carry his Pimlico ID card at all times when working for the Company cumulatively went to show that he had undertaken to “perform personally” his work for Pimlico. Pimlico’s argument that these requirements were capable of applying to anyone who substituted for him was unpersuasive to the Court because it stretched their “natural meaning beyond breaking-point”. Hence, the fact that the contractual right to substitute was limited to other Pimlico operatives was important, as this type of substitute would have had to equally fulfil Pimlico’s “suite of heavy obligations”. It is worth noting that the Court’s analysis had little to do with the law, but is a reminder that contradictory objectives in contractual drafting only causes confusion, and in this context, concurrently benefits the “worker”.</p>
+
+<p>Under the second test, the question was whether the extent of Pimlico’s contractual obligation to offer Mr Smith work and the extent of his obligation to accept the work offered to him evidenced a lack of subordination consistent with Pimlico being no more than his client or customer (the Court applied <em>Windle v Secretary of State for Justice</em>[2016] ICR 721, at [23], per Underhill LJ). The Supreme Court held that the EAT and Court of Appeal were entitled to find that Pimlico had a contractual obligation to offer Mr Smith work if it was available, whereas Mr Smith’s obligation was to keep himself available for up to 40 hours a week to accept any work Pimlico might offer him (but without prejudice to his right to decline what he is offered). Hence, it was legitimate to find that there was an “umbrella contract” between Pimlico and Mr Smith. This was an understandable approach for the Supreme Court to adopt, however the extension of mutuality of obligation beyond employee status is deeply problematic (see: J Prassl, “Pimlico Plumbers, Uber Drivers, Cycle Couriers, and Court Translators: Who is a Worker?” (2017) 33 LQR (forthcoming)). Pimlico made a number of arguments including that: Mr Smith was entitled to reject any work offered and the financial risks and advantages followed from Mr Smith’s work for Pimlico. However, the Court felt that other features of the contract “strongly mitigated” against recognising Pimlico as a client or customer of Mr Smith. In scathing words, Lord Wilson stated that the “severe terms as to when and how much [Pimlico] was obliged to pay him…betrayed a grip on his economy inconsistent with his being a truly independent contractor”. In consequence, it was the Supreme Court’s view that Pimlico could not be regarded as Mr Smith’s client or customer.</p>
+
+<p><em>Pimlico Plumbers</em> arrives at a time when the Courts are favouring worker-protective outcomes. Cases such as <em>Windle</em>, and <em>Aslam &amp; Farrar v Uber</em> (2202550/2015) have incrementally played a clarificatory role in the status of a “worker”. Hence, <em>Pimlico Plumbers</em> is uncontroversial in the sense that whether Mr Smith was a “worker” under section 230(3)(b) of the ERA was always a question of fact for the tribunal. However, what will be of interest (especially to the gig economy) is that section 230(3)(b) now means that independent contractors or those engaged in ‘self-employed’ contracts are capable of being recognised as “workers” and can benefit from the legal rights arising from that recognition. <em>Pimlico Plumbers</em> also raises other issues concerning the compatibility between worker status and self-employment under tax law, but this is a question to be answered at another time.</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

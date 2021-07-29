@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link></link>
+   <description>A student-run law journal seeking to provide a platform for high quality legal scholarship.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Jogee and ‘West Side Story’- Still Unresolved Endings? </title>
+	  <link>/blog-v2//2021/05/jogee-and-west-side-story-still-unresolved-endings/</link>
+	  <author></author>
+	  <pubDate>2021-05-28T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2021/05/jogee-and-west-side-story-still-unresolved-endings/</guid>
+	  <description><![CDATA[
+	     <h3 id="abstract">Abstract</h3>
+
+<p><em>Have you ever wondered how ‘West Side Story’ might have been resolved in the English courts? In such cases of gang violence, the area of complicity governs the typical situation where the accused (the ‘Accessory’) did not commit the crime but assisted or encouraged the principal offender to do so. This note analyses the impact of R v Jogee, arguably the most seminal case in this area of law,by tracing the legal and social aftermath of the decision. It begins by questioning how Jogee was initially lauded for its reversion back to principle, and the extent to which it truly righted a ‘wrong turn’ in the law by navigating the academic literature on the disputed issue of intention in the Jogee judgement. In discussing the perceived advantages and disadvantages of the current law on accomplice liability, this note ultimately still finds the law wanting of necessary clarifications. Moreover, a holistic approach to reform is required, including ensuring the integrity of prosecution charging decisions by removing the inaccurate racialised gang narrative permeating this area of law. This work was inspired by LSE’s Criminal Law syllabus on the topic of Complicity. I declare that it has not been submitted elsewhere.</em></p>
+
+<h3 id="introduction-1">Introduction <a class="inline-reference" id="inline1" href="#1">1</a></h3>
+
+<p>Pre-<em>Jogee</em>,<a class="inline-reference" id="inline2" href="#2">2</a> a defendant’s accessorial liability could be established via two avenues. First, under section 8 of the Accessories and Abettors Act 1861, where one could be charged with ‘ordinary’ accessorial liability by ‘aiding, abetting, counselling or procuring’ the principal’s offence. Second, via Parasitic Accessorial Liability (‘PAL’), an ‘extended’ form of joint enterprise liability (established in <em>Chan Wing-Siu</em>).<a class="inline-reference" id="inline3" href="#3">3</a> If two parties undertook a joint enterprise to commit a crime whereby the principal committed a further offence, the secondary would be guilty as an accessory to that further crime (incurring liability ‘parasitic’ on the principal’s crime), if s/he foresaw that the principal would act as s/he did. <em>Jogee</em> purportedly abolished this second route, limiting the basis of criminalising secondary participation to basic accessorial liability.</p>
+
+<p><em>Jogee</em> involved joint appeals for murder convictions where victims were killed by the principals’ use of a knife. However, the prosecution procured convictions by arguing that the defendants had engaged in a joint enterprise to commit the act which caused the victim’s death. In Mr Jogee’s case, he and Mr Hirsi became increasingly intoxicated whilst together. Later, they visited Mr Fyfe’s residence where they had heated exchanges with Mr Fyfe. Mr Fyfe was subsequently stabbed to death by Mr Hirsi. Mr Jogee had been outside striking a car with a bottle and shouting encouragement at Mr Hirsi to do something to Mr Fyfe. Both men ran off after the stabbing.<a class="inline-reference" id="inline4" href="#4">4</a> Mr Jogee was convicted on the basis that he <strong>foresaw</strong> the principal might intentionally cause grievous bodily harm or murder if the circumstances arose. The Supreme Court overturned the conviction and effected a change to the mens rea requirement, requiring him to have <strong>known or intended</strong> that Mr Hirsi would have intentionally caused grievous harm if the circumstances arose.<a class="inline-reference" id="inline5" href="#5">5</a></p>
+
+<p>Thus, <em>Jogee’s</em> abolition of the PAL doctrine reflects a swing of the judicial pendulum from a crime-control model based on public policy reasons, back to a due-process model grounded on principled reasons (pre-existing <em>Powell</em>).<a class="inline-reference" id="inline6" href="#6">6</a> For our purposes, the most salient traits of the due-process model embody the ‘minimal assumption’ that the defendant is innocent until an impartial adversarial trial process. The crime-control model prioritises repression of any criminal conduct and regards preliminary screening by the police and prosecution as ‘adequate guarantees of reliable factfinding’.<a class="inline-reference" id="inline7" href="#7">7</a></p>
+
+<p>In theory, while <em>Jogee</em> limits the scope of joint enterprise and brings the jurisprudence of joint enterprise back to principled grounds, it does not necessarily eradicate the operation of PAL. In practice, the highly restrictive judicial approach to appeals that has developed since <em>Jogee</em>, and discriminatory prosecutorial framework based upon a racialised gang narrative present additional challenges to the ‘ground-breaking’ status <em>Jogee</em> was lauded for when it was decided five years ago. It is worth mentioning from the outset that joint enterprise is a heavily politicised doctrine, which provided prosecutors with a brutal but effective mode of crackdown on homicide cases. Hence, clarity is needed to prevent undue side effects of the judgement from materialising, and a wider approach to reform is also required to adequately deal with the doctrine’s social impact.</p>
+
+<h3 id="theoretical-analysis">Theoretical Analysis</h3>
+
+<p><em>Jogee</em> abolished the doctrine of PAL, with the central aspect of change involving the fault element required in PAL. It raised the mens rea threshold for the secondary party from foreseeing (established in <em>Chan Wing Siu</em>) to intending to assist or encourage the principal’s actus reus and mens rea in committing the crime (per <em>Attorney General’s Reference (No 1 of 1975)</em>.<a class="inline-reference" id="inline8" href="#8">8</a></p>
+
+<h4 id="past-policy-significance-of-pal"><em>Past policy significance of PAL</em></h4>
+
+<p>Simester’s moral forfeiture theory of liability provides a justification in principle for joint enterprise,<a class="inline-reference" id="inline9" href="#9">9</a> whereby a group constituted by joint enterprise has set itself against the law and society at large. However, given the doctrine’s expansiveness, it is realistically more likely motivated bypolicy concerns of exercising deterrence and public protection. As Lord Steyn in <em>Powell</em> <a class="inline-reference" id="inline10" href="#10">10</a> points out, the accessory principle is ‘needed and cannot be abolished or relaxed’ because of the ‘social problem’ that ‘criminal enterprises’ often ‘escalate into the commission of greater offences’.<a class="inline-reference" id="inline11" href="#11">11</a> This understanding aligns with the psychological ‘risky shift phenomenon’, whereby an individual’s estimation of risk is skewed when acting as part of a group and may act in a more extreme manner.<a class="inline-reference" id="inline12" href="#12">12</a> The House of Lords in <em>Chan Wing-Siu</em> seemed to conceive PAL as essential to prevent an accomplice from evading the consequences of a criminal enterprise, seemingly taking any occasional injustices in its stride as ‘necessary evil’. The stakes are high given that in England and Wales, the accomplice is punished for the same offence as the principal. In effect, it was possible to sentence the accomplice to life imprisonment as long as s/he was <strong>reckless</strong> to the commission of murder, despite not having intended murder to be committed. The disparity of treatment between the principal and accomplice was particularly problematic for homicide, which has a mandatory life imprisonment sentence. This created a legal limbo between convicting the accomplice for the full offence of murder or letting them go scot free although they may not have been fully innocent. Neither options in this binary system proportionately label the accessory’s liability nor provide the flexibility to charge them according to their degree of involvement.</p>
+
+<p>The developing backdrop of policy reasons has not only caused PAL to incriminate disproportionately but also caused confusion for accessory liability generally. <em>Gnango</em> <a class="inline-reference" id="inline13" href="#13">13</a> has exemplified the confusion over joint enterprise, where the victim was caught in crossfire between two gunmen on the way home. Finding that two characters with diametrically opposed intents were engaged in a joint enterprise undermined the assumption that parties in a joint enterprise would be acting in concert. This legal fiction imputed foresight where it was non-existent, equating it to intention, thus revealing a blatant policy-driven approach where joint enterprise principles have been twisted and stretched to establish full liability for murder. As Virgo argues, the judgements of Lords Clarke, Brown and Dyson allowed the significance of the relevance of a joint enterprise to overwhelm the need to prove actus reus and mens rea by ‘completely ignoring’ the two fundamental principles.<a class="inline-reference" id="inline14" href="#14">14</a>This evinces the degree of prevalent confusion that is the ‘characteristic weaknesses’ of a doctrine that was allowed to develop in a ‘pragmatic and unprincipled’ manner.<a class="inline-reference" id="inline15" href="#15">15</a></p>
+
+<h4 id="restoration-of-principle"><em>Restoration of Principle</em></h4>
+
+<p>Thus, <em>Jogee</em> arguably brings accessorial liability back to principled grounds, righting a ‘wrong turn’ of ‘questionable policy arguments’.<a class="inline-reference" id="inline16" href="#16">16</a> The PAL doctrine in <em>Chan Wing-Siu</em> had shifted the focus of the mens rea requirement onto the accessory’s foresight on what the principal might do, rather than on his intention of how the principal should act, drastically lowering the threshold for convicting defendants involved in a joint criminal venture. The bar is further lowered in cases where it is unclear whether the defendant is the principal or the accessory; as <em>Gianetto</em> <a class="inline-reference" id="inline17" href="#17">17</a> shows, the prosecution need only prove that the defendant possessed the requisite mens rea and contributed to the end result to be held fully responsible for the crime.</p>
+
+<p>In <em>Jogee,</em> the Supreme Court clarified that foresight is no more than ‘evidence’ for the requisite intention; while intention may be ‘conditional’, the jury must be sure that a defendant on trial as a secondary had intended the criminal outcome. This upholds several cardinal principles within the criminal law, including the principles of responsibility <a class="inline-reference" id="inline18" href="#18">18</a> that one should only be held responsible for his intended acts, as well as proportionality and fair labelling in sentencing. Pre-<em>Jogee,</em> the judge was obliged to sentence convicted secondary participants to mandatory life imprisonment, although they might have been convicted on mere foresight.<a class="inline-reference" id="inline19" href="#19">19</a> The situation reeks of injustice with the blatant lack of discretion to mitigate the sentence according to the defendant’s level of involvement. As Wilson and Ormerod argue, if the law wishes to hold a defendant liable for reckless foresight and the ‘danger his own acts excite’,<a class="inline-reference" id="inline20" href="#20">20</a> the appropriate charge is one of manslaughter (the substituted crime Jogee was sentenced for), but not murder. This has been explicitly confirmed in paragraph 96 of <em>Jogee</em>.<a class="inline-reference" id="inline21" href="#21">21</a> Now, the possibility of a substitute manslaughter conviction allows for the judge to vary the sentence proportionate to individual culpability.</p>
+
+<p>However, the assertion that complicity has been restricted through the elimination of PAL may not be entirely valid given the blurry intention/foresight distinction and the shifted focus on to conditional intent in <em>Jogee</em>.</p>
+
+<h4 id="residual-unclarity--backdoor-for-pal"><em>Residual Unclarity = Backdoor for PAL?</em></h4>
+
+<p>Although the court recognised that foresight was ‘good evidence’ of intention and that the two were ‘not synonymous’, <em>Jogee</em> is crucially silent on what threshold of foresight from the defendant might enable a jury to infer requisite intent. This could lead to juries readily inferring intent from some ‘middling’ degree of foresight,<a class="inline-reference" id="inline22" href="#22">22</a> effectively neutralising <em>Jogee</em>’s effect on complicity.</p>
+
+<p>Moreover, the courts left open the question as to whether oblique intention in secondary liability was to be treated similarly as in the law of murder, notably without addressing <em>Woollin</em> where a high threshold of foresight (‘virtual certainty’) is considered sufficient intention. <em>Jogee</em>’s ambivalence may allow the jury to infer an accessory’s intent to murder based on foresight alone, including a lower level than virtual certainty. Krebs highlights that ‘as long as <em>Woollin</em> remains good law’, <em>Jogee</em> cannot achieve its aim of restoring parity of culpability between the principal and accessory.<a class="inline-reference" id="inline23" href="#23">23</a> However ‘virtually certain’ an accessory may be of a principal’s plans, this remains ‘a far cry from the certainty of future <em>causal</em> developments described in <em>Woollin</em>‘<a class="inline-reference" id="inline24" href="#24">24</a>: This presumed application of <em>Woollin</em> in accessorial liability cases is also problematic in <strong>two</strong> senses: First, <em>Woollin</em> is epistemically problematic in the joint enterprise situation where multiple actors are involved. Liability is essentially determined on another free human being acting conditionally. Secondly, even where the accessory has the requisite conditional intent, ‘any number of things might transpire to deter’<a class="inline-reference" id="inline25" href="#25">25</a> the principal from killing. Given the accessory has no bearing on both of these issues, this reinforces how the accessory’s agency over culpability for their own actions remains lacking due to unclarity as to how other doctrines might apply.</p>
+
+<p><em>Jogee</em> also recognises that the accessory’s conditional intent will be sufficient mens rea. The enlargement of the role of conditional intent may be restrictive for collateral which is less likely to be attributable to complicity parties due to an evidential lack of prior planning. However, Ashworth highlights how the retention of conditional intent allows the jury to infer intention and ‘tacit agreement’ through foresight in effect, if s/he foresaw that the principal might decide to intentionally inflict that level of harm.<a class="inline-reference" id="inline26" href="#26">26</a> This bears ‘striking resemblance’ to parasitic accessorial liability as Smith has noted.<a class="inline-reference" id="inline27" href="#27">27</a> Perhaps, this gives credence to Stark’s observation that <em>Chan Wing-Siu</em> was not a wrong turning of the law as <em>Jogee</em> portrayed, but an honest recognition of what the law is, citing a ‘wider principle’ beyond the standard assisting and encouraging whereby the accessory is criminally liable for the principal’s acts ‘of a type which [s/he] foresees but does not necessarily intend’.<a class="inline-reference" id="inline28" href="#28">28</a> Hence it seems that PAL has not been abolished but rather ‘tamed’,<a class="inline-reference" id="inline29" href="#29">29</a> perhaps operating more covertly as recognised by the Hong Kong case <em>Chan Kam-Shing</em> <a class="inline-reference" id="inline30" href="#30">30</a> where the formulation of conditional intent in <em>Anwar</em> <a class="inline-reference" id="inline31" href="#31">31</a> (‘if the circumstances arise’) was taken to be suggestive that English law was drifting back to joint criminal enterprise. On this basis, <em>Jogee</em>’s restriction of the complicity’s scope seems ‘less than might have been appreciated’<a class="inline-reference" id="inline32" href="#32">32</a> as it is formal rather than substantive.<a class="inline-reference" id="inline33" href="#33">33</a></p>
+
+<h4 id="is-residual-unclarity-entirely-undesirable"><em>Is Residual Unclarity Entirely Undesirable?</em></h4>
+
+<p>While <em>Jogee</em> signals an intention to return to more principled grounds, more clarity on the requisite threshold of foresight is necessary to ensure legal consistency and certainty, all the more imperative given the heavy charges and high stakes involved. Ashworth has argued against any leeway on the requisite degree of foresight to infer intention, contending that the courts should aim to introduce a tighter definition of intention for such a serious offence and deal with more complicated cases using defences or partial defences.<a class="inline-reference" id="inline34" href="#34">34</a> However, this argument assumes that <em>Jogee</em> was trying to substantively define intention in the first place. One might question if it is even possible for the Supreme Court to provide a threshold that would provide clear guidance in the multiplicity of joint enterprise cases, without being a mere empty label. It is easier to make a negative statement that foresight was not intention, but harder to provide positive guidance for the threshold of foresight that would amount to intention. Moreover, it is notable that the concept of foresight being taken as evidence for intention was not birthed from <em>Jogee</em>, but appears in virtually every single case. When framing charges, the prosecution works to convince the jury to draw the necessary inference of intention from foresight. As expressed by Lord Bridge in <em>Moloney</em>, ‘[foreseeability] belongs, not to the substantive law, but to the law of evidence’.<a class="inline-reference" id="inline35" href="#35">35</a></p>
+
+<p>While Ormerod and Laird have rightly criticised the ambiguity of the new mens rea requirement,<a class="inline-reference" id="inline36" href="#36">36</a> it might be argued ambiguity is not necessarily wholly undesirable. Rather, it may mean flexibility allowing for the law to cater to a range of defendant profiles. Instead of providing a backdoor for the old law to creep in, it might be perceived as a tool allowing the jury to convict where the defendant is highly culpable, similar to the retention of jury ‘moral elbow room’ as in <em>Woollin</em>,<a class="inline-reference" id="inline37" href="#37">37</a> a term coined by Horder referring to the jury’s discretion on whether the crime fits the defendant’s conduct.<a class="inline-reference" id="inline38" href="#38">38</a> One’s view of the legal inbuilt flexibility left in <em>Jogee</em>’s wake may to a certain extent turn on one’s trust in the exercise of discretion by the judge and jury. It also allows the accessory a chance to argue that while s/he might have had some level of foresight, it did not amount to intention. Comparatively, the previous approach meant that any foresight made a conviction virtually certain.</p>
+
+<p>Overall, the extent to which complicity has been restricted in practice is questionable. Given the Supreme Court’s vague treatment of the actus reus requirement of joint enterprise as a ‘common unlawful purpose’, the fundamental effectiveness of <em>Jogee</em>’s purported abolition of PAL is debatable. Hence, Virgo’s perspective of the implicit existence of PAL as a ‘backdoor’ is arguably more convincing than Simester’s view that PAL has been successfully abolished by <em>Jogee</em>’s return to principle.</p>
+
+<h3 id="observations-in-practice">Observations in Practice</h3>
+
+<p>Moreover, the theoretical potential for PAL to creep back into the law is an even more realistic practical concern when contextualised in the reality of discriminatory prosecutorial practices, coupled with low prospect of successful appeals.</p>
+
+<h4 id="high-threshold-for-appeals"><em>High threshold for appeals</em></h4>
+
+<p>Ormerod and Laird have postulated that the Supreme Court may have intended for conditional intent to apply only in limited circumstances.<a class="inline-reference" id="inline39" href="#39">39</a> However, Dyson points out that in practice, a defendant convicted under PAL may still be liable through having conditional intent that the principal will commit the crime.<a class="inline-reference" id="inline40" href="#40">40</a> This was starkly demonstrated in <em>R v Johnson and Others,</em> <a class="inline-reference" id="inline41" href="#41">41</a>where the Court of Appeal faced a range of appeals contending wrongful convictions under the old law.Yet, it appeared surprisingly easy to establish that accomplices liable for PAL would now be convicted of murder based on conditional intent.<a class="inline-reference" id="inline42" href="#42">42</a> The court appeared confident that in all cases, the appellants had the ‘necessary conditional intent’ that the weapon be used with intent to kill or cause grievous bodily harm.</p>
+
+<p>To bring an appeal against a conviction ‘out of time’ (lodged over 28 days post-conviction), an applicant needs ‘exceptional leave’,<a class="inline-reference" id="inline43" href="#43">43</a> and this will only be granted if the applicant can demonstrate having suffered ‘a substantial injustice’ due to the change in the law. The Court of Appeal made clear that they were not interested in investigating whether the change <em>might</em> have made a difference to the verdict, or whether the applicant suffered adverse consequences from conviction, such as stigmatisation.<a class="inline-reference" id="inline44" href="#44">44</a> The court admitted this was ‘a high threshold’<a class="inline-reference" id="inline45" href="#45">45</a> but it has proven relatively insurmountable. To date, only one case (<em>R v Crilly</em> <a class="inline-reference" id="inline46" href="#46">46</a>) has successfully appealed under <em>Jogee</em>,<a class="inline-reference" id="inline47" href="#47">47</a> and the Court of Appeal was clear to present a ‘faithful’<a class="inline-reference" id="inline48" href="#48">48</a> adherence to the restrictive approach in <em>Johnson</em>. The focus is not on jury misdirection but the basis of prosecution itself - in <em>Crilly,</em> the prosecution’s case was evidently ‘to all intents and purposes a case about his foresight’,<a class="inline-reference" id="inline49" href="#49">49</a> as opposed to intent to cause grievous bodily harm.</p>
+
+<h4 id="unchanged-framework-of-discriminatory-prosecutorial-practices-and-institutionalised-racism"><em>Unchanged framework of discriminatory prosecutorial practices and institutionalised racism</em></h4>
+
+<p>Yet, even for the rare successful appeal applicants and defendants post-<em>Jogee</em>, there is little relief in practice. Consideration of the law post-<em>Jogee</em> has shown disappointing realisation of the regressive potential of <em>Jogee</em>’s uncertainties.</p>
+
+<p>Socially, PAL critics were less preoccupied with the unprincipled elision of mens rea levels but more concerned with the extensive, disproportionate and discriminatory incrimination. The Institute of Criminology at the University of Cambridge found that joint enterprise convictions lead to three times as many black men serving life sentences than those in the general prison population.<a class="inline-reference" id="inline50" href="#50">50</a> Birkbeck’s Prison Reform Trust study found that two-thirds of their sample belonged to a minority ethnic group, and over 40% were black.<a class="inline-reference" id="inline51" href="#51">51</a> Similar trends can be found in the age of joint enterprise convicts, slanting heavily toward 18-24 year olds with a surprising number of under-18 convictions as well.</p>
+
+<p>Underlying PAL’s propensity for the conviction of young minorities is a narrative rooted in the justification for joint enterprise itself.<a class="inline-reference" id="inline52" href="#52">52</a> The oft-peddled explanation for the need of such an expansive tool of incrimination is the difficulty of prosecuting gang crimes - the confusion of who did what and who said what creates intensive prosecutorial difficulties to illustrate to the jury the role each defendant played in the overall crime. During the rampant public disorders of the 1980s, the police were given enhanced stop and search powers under the Police and Criminal Evidence (PACE) Act 1984 (also the year <em>Chan Wing-Siu</em> was decided). The reputational expansiveness of joint criminal enterprise led its acronym ‘JCE’ to be referred to as ‘Just Convict Everyone’.<a class="inline-reference" id="inline53" href="#53">53</a> Furthermore, ‘suspect populations’ were identified to have greater propensity to engage in organised crime, discriminatorily targeting ethnic minority communities and controversially conflating the ‘criminal gang’ with ‘Black youths’ in media and political discourse.<a class="inline-reference" id="inline54" href="#54">54</a></p>
+
+<p>Joint Enterprise is therefore a political tool for simplification of both the prosecution and jury’s task. The Crown Prosecution Service’s own direction on the relevance of ‘gang’ references explains its utility as an evidentiary basis for a chain of inferences.<a class="inline-reference" id="inline55" href="#55">55</a> Association with a gang can lead to an inference of knowledge of the gang’s predisposition for violence, which can lead to an inference of the requisite mens rea.<a class="inline-reference" id="inline56" href="#56">56</a> <em>Jogee</em> does not change all this. Although the requisite mens rea is changed from foresight to intention, the jury is free to infer intention from foresight. <em>Jogee</em> merely adds another link in the chain of inference starting from gang association to conviction. It would be ‘misguided’<a class="inline-reference" id="inline57" href="#57">57</a> to assume that the prosecuting parties would not continue making the same extended inferences from gang associations. With the pressing doctrinal questions that <em>Jogee</em> leaves unresolved, the same issues with joint enterprise may well continue to be systemically perpetuated. The Bureau of Investigative Journalism has adduced evidence demonstrating that convictions are being secured in our courts without sufficient evidence to convict, especially in cases where there are <strong>more</strong> defendants when the CPS is ‘more likely to offer no evidence’ for at least some defendants.<a class="inline-reference" id="inline58" href="#58">58</a> <em>Jogee</em>’s framework does not prohibit this. This is particularly problematic in light of the questionable relationship between joint enterprise and the racialised gang narrative.</p>
+
+<p>The problem is that ‘gang’ narratives seem to be part and parcel of some joint enterprise prosecutions regardless of whether the label fits. The CPS is adamant that ‘gang’ references must be ‘cautious[ly]’ made and only invoked with a proper ‘evidential basis’, but it seems like the bar for what counts as ‘evidence’ can be grossly low.<a class="inline-reference" id="inline59" href="#59">59</a> The widely reported ‘Moss Side’ murder case provides a clear demonstration of <em>Jogee</em>’s equivocal aspects. Eleven defendants aged 14-20, all ethnic minorities, were convicted on the basis of joint enterprise liability in <em>R v Goodall</em>.<a class="inline-reference" id="inline60" href="#60">60</a> During the trial, the prosecution explained that when the defendants chased and beat the victim, culminating in one of the defendants delivering a fatal stab, it was a co-ordinated gang attack on a member of a rival gang.<a class="inline-reference" id="inline61" href="#61">61</a> In terms of evidence, the Crown claimed the defendants had ‘self-admissions’ of gang memberships.<a class="inline-reference" id="inline62" href="#62">62</a> Yet, the calibre of evidence presented to evince gang affiliations was apparently the fact that some of the defendants did hand signs in their Instagram pictures, which the prosecution argued amounted to admission of gang affiliations.<a class="inline-reference" id="inline63" href="#63">63</a> Those for whom such condemnatory evidence was not found, had their association proven on the basis of their friendships with those who had.<a class="inline-reference" id="inline64" href="#64">64</a> The presence of a ‘gang’ provided a prosecutorial framework to construct a hindsight narrative of the facts, presenting a situation that reportedly sporadically developed as organised crime.</p>
+
+<p>The empirical evidence for this is faltering. Hallsworth’s behavioural research shows that on the streets, gang structures are ‘radically informal and non-hierarchical’ and organisational plans are ‘situationally determined and driven’ rather than premeditated.<a class="inline-reference" id="inline65" href="#65">65</a> The ‘gang’ discourse therefore problematically permeates prosecutorial tendencies, since the evidence does not meet Feinberg’s threshold of ‘a very high degree of antecedent group solidarity’<a class="inline-reference" id="inline66" href="#66">66</a> to render this framework morally acceptable. Moreover, the inbuilt biases of the racialised gang narrative further compromise on the integrity of the policing process. Amnesty International’s recent report has highlighted the Gangs Matrix database used by the Metropolitan Police as racially stigmatising and the ‘wrong tool for the wrong problem’.<a class="inline-reference" id="inline67" href="#67">67</a></p>
+
+<p>Recognising that gang associations are based on dubious evidential grounds, the statistic that almost 80% of ethnic-minority joint enterprise prisoners were labelled gang members compared to 38.5% of white prisoners is condemnatory and discriminatory.<a class="inline-reference" id="inline68" href="#68">68</a> When the basis of a defendant’s gang association is suspect, it is difficult not to be critical of the fact that joint enterprise post-<em>Jogee</em> still allows the prosecution to draw and the jury to follow a chain of inferences that leads rather conveniently down a slippery slope from ‘possible gang member’ to ‘guilty’. In this respect, the jury’s discretion left in <em>Jogee</em> compounded by prosecutorial discretion in the law enforcement system may not have addressed a problematic status quo of institutional racism at all but perpetuated it.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Theoretically, <em>Jogee</em> on paper is a much-needed reversion back to principle, allowing for fair labelling of criminals by raising the mens rea requirement to reflect their culpability more accurately. However, many potential issues remain unclarified, notably whether it truly does change the law or simply allow the old law to operate beneath indeterminate wording. Coupled with the practical context that access to appeals is heavily restricted and the inbuilt biases in the prosecution procedures, it is submitted that until these elements are rectified, we remain yoked to the underlying vestiges of the crime-control model. The Supreme Court may have held that PAL was a ‘wrong turn’ in the law, yet a real reversion to a due-process model to achieve truly criminally just outcomes in the law of Joint Enterprise would require holistic reform: to internally develop and clarify the substantive law, and externally regulate and eliminate biases from the prosecutorial framework.</p>
+
+<hr />
+
+<p><a class="reference" id="1" href="#inline1">[1]</a> A very warm thank you to Mr Mattia Pinto for an inspiring class on Complicity and for the valuable feedback on this piece. My gratitude also extends to the wonderful Editors: Pearlyn Tan, Allison Wu, and Tevž Sitar for their improving suggestions and illuminating comments; and Ryan Au for efficiently managing the publication process. It has truly been a pleasure to work with all of you! Lastly, to the LSE Law Review for providing me with a meaningful opportunity to explore this area of interest. Any errors remain my own.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a> <em>R v Jogee (Ameen Hassan)</em> [2016] UKSC 8, [2017] AC 387.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a> <em>Chan Wing Siu v R.</em> [1985] AC 168 (PC).</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a> <em>Jogee</em> (n 2) [101], [102].</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a> ibid [65], [66].</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a> <em>R v Powell, Daniels and English</em> [1997] 3 WLR 959, [1999] 1 AC 1.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a> Herbert Packer, ‘Two Models of the Criminal Process’ [1964] 113 University of Pennsylvania Law Review, 13.</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a> <em>Attorney General’s Reference (No. 1 of 1975)</em> [1975] 3 WLR 11, [1975] QB 773.</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a> Andrew Simester, ‘Accessory Liability and Common Unlawful Purposes’ (2017) 133 LQR 73.</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a> <em>R v Powell, Daniels and English</em> [1999] 1 AC 1.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a> ibid [14G].</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a> Michael Wallach, Nathan Kogan and Daryl Bem, “Diffusion of Responsibility and Level of Risk Taking in Groups” [1964] 68(3) The Journal of Abnormal and Social Psychology 263-274.</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a> <em>R v Gnango (Armel)</em> [2011] UKSC 59, [2012] 1 AC 827.</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a> Graham Virgo, ‘Joint Enterprise Liability is Dead: Long Live Accessorial Liability?’ [2012] Crim. L.R. 850, 858-860.</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a> Smith, Hogan and Ormerod’s, <em>Texts, Cases and Materials on Criminal Law</em> (12th edn, OUP 2017).</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a> <em>Jogee</em> (n 2) [79].</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a> <em>R v Gianetto</em> [1997] 1 Cr App R 1 (CA) 166.</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a> Jonathan Herring, <em>Criminal Law Texts, Cases and Materials</em> (8th edn, OUP 2018).</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a> Bentley QC D, ‘Joint Enterprise: Lifting A Flawed Dragnet’ (Law Gazette, 2016) <a href="https://www.lawgazette.co.uk/commentary-and-opinion/joint-enterprise-lifting-a-flawed-dragnet/5054581.article">https://www.lawgazette.co.uk/commentary-and-opinion/joint-enterprise-lifting-a-flawed-dragnet/5054581.article</a> accessed 21 February 2021.</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a> William Wilson and David Ormerod, ‘Simply Harsh To Fairly Simple: Joint Enterprise Reform’ [2015] Crim. L.R. 3, 5-21.</p>
+
+<p><a class="reference" id="21" href="#inline21">[21]</a> <em>Jogee</em> (n 2) [96]</p>
+
+<p><a class="reference" id="22" href="#inline22">[22]</a> David Ormerod and Karl Laird, ‘Jogee: Not the end of a legal saga but the start of one?’ [2016] Crim. L.R. 539-552, 4.</p>
+
+<p><a class="reference" id="23" href="#inline23">[23]</a> Beatrice Krebs, ‘Oblique intent, foresight and authorisation’ [2018] UCL Journal of Law and Jurisprudence, 1-24.</p>
+
+<p><a class="reference" id="24" href="#inline24">[24]</a> Christopher Cowley, ‘Jogee, PAL and Conditional Intention’ [2019] in Chapter 3 in Beatrice Krebs, <em>Accessorial Liability after Jogee</em> (Hart Publishing 2019).</p>
+
+<p><a class="reference" id="25" href="#inline25">[25]</a> ibid.</p>
+
+<p><a class="reference" id="26" href="#inline26">[26]</a> ibid.</p>
+
+<p><a class="reference" id="27" href="#inline27">[27]</a> Smith, Hogan and Ormerod’s, <em>Texts, Cases and Materials on Criminal Law</em> (12th edn, OUP 2017).</p>
+
+<p><a class="reference" id="28" href="#inline28">[28]</a> Findlay Stark, ‘The Demise Of ‘Parasitic Accessorial Liability’: Substantive Judicial Law Reform, Not Common Law Housekeeping’ [2016] The Cambridge Law Journal, Volume 75, Issue 3, 550-579.</p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a> Findlay Stark, ‘The Taming of Jogee?’ [2017] The Cambridge Law Journal, Volume 76, Issue 1, 4-7.</p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a> <em>Chan Kam Shing</em> [2016] HKCFA 87.</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a> <em>R v Anwar (Umar) and others</em> [2016] EWCA Crim 551, [2016] 4 WLR 127.</p>
+
+<p><a class="reference" id="32" href="#inline32">[32]</a> Ormerod and Laird (n 23).</p>
+
+<p><a class="reference" id="33" href="#inline33">[33]</a> Matthew Dyson, ‘Case Comment – Shorn-off complicity’ [2016] Cambridge Law Journal 196.</p>
+
+<p><a class="reference" id="34" href="#inline34">[34]</a> Andrew Ashworth, Principles, Pragmatism and the Law Commission’s Recommendations on Homicide Law Reform [2007] Crim. L.R. 333.</p>
+
+<p><a class="reference" id="35" href="#inline35">[35]</a> <em>R v Moloney</em> [1985] AC 905, 907D.</p>
+
+<p><a class="reference" id="36" href="#inline36">[36]</a> Ormerod and Laird (n 23).</p>
+
+<p><a class="reference" id="37" href="#inline37">[37]</a> <em>R v Woollin</em> [1999] 1 AC 82</p>
+
+<p><a class="reference" id="38" href="#inline38">[38]</a> Jeremy Horder, ‘Intention in the Criminal Law- A Rejoinder’ [1995] Modern Law Review 678-691</p>
+
+<p><a class="reference" id="39" href="#inline39">[39]</a> Ormerod and Laird (n 23).</p>
+
+<p><a class="reference" id="40" href="#inline40">[40]</a> Dyson (n 34).</p>
+
+<p><a class="reference" id="41" href="#inline41">[41]</a> <em>R v Johnson and Others</em> [2017] 1 Cr App R 12; [2016] EWCA Crim 1613.</p>
+
+<p><a class="reference" id="42" href="#inline42">[42]</a> ibid [82].</p>
+
+<p><a class="reference" id="43" href="#inline43">[43]</a> ibid [15].</p>
+
+<p><a class="reference" id="44" href="#inline44">[44]</a> ibid [16]-[17].</p>
+
+<p><a class="reference" id="45" href="#inline45">[45]</a> ibid [20].</p>
+
+<p><a class="reference" id="46" href="#inline46">[46]</a> <em>R v Crilly (John Anthony)</em> [2018] EWCA Crim 168, [2018] 4 WLR 114.</p>
+
+<p><a class="reference" id="47" href="#inline47">[47]</a> Charlotte Hughes, ‘John Crilly: First Successful Joint Enterprise Appeal Post-Jogee – The Justice Gap’ (Thejusticegap.com, 2018) <a href="https://www.thejusticegap.com/john-crilly-first-successful-joint-enterprise-appeal-post-jogee/#:~:text=John%20Crilly%2C%20understood%20to%20be,had%20his%20murder%20conviction%20overturned.&amp;text=They%20were%20both%20convicted%20in%202005%20of%20murder%20and%20robbery">https://www.thejusticegap.com/john-crilly-first-successful-joint-enterprise-appeal-post-jogee/#:~:text=John%20Crilly%2C%20understood%20to%20be,had%20his%20murder%20conviction%20overturned.&amp;text=They%20were%20both%20convicted%20in%202005%20of%20murder%20and%20robbery</a> accessed 24 January 2021.</p>
+
+<p><a class="reference" id="48" href="#inline48">[48]</a> Beatrice Krebs, ‘Joint Enterprise, Murder and Substantial Injustice: The First Successful Appeal Post-Jogee: R v Crilly [2018] EWCA Crim 168’ (2018), The Journal of Criminal Law 2018, Vol. 82(3) 209-211</p>
+
+<p><a class="reference" id="49" href="#inline49">[49]</a> <em>R v Crilly (John Anthony)</em> [2018] EWCA Crim 168, [2018] 4 WLR 114, [42]</p>
+
+<p><a class="reference" id="50" href="#inline50">[50]</a> Harry Stopes, ‘How do 11 people Go to jail for one murder?’ (The Guardian, 2018) <a href="https://www.theguardian.com/news/2018/mar/09/joint-enterprise-law-uk-how-do-11-people-go-to-jail-for-one-murder">https://www.theguardian.com/news/2018/mar/09/joint-enterprise-law-uk-how-do-11-people-go-to-jail-for-one-murder</a> accessed 24 January 2021.</p>
+
+<p><a class="reference" id="51" href="#inline51">[51]</a> ibid.</p>
+
+<p><a class="reference" id="52" href="#inline52">[52]</a> Patrick Williams and Becky Clarke, ‘Dangerous Associations: Joint Enterprise, Gangs and Racism’ (Centre for Crime and Justice Studies 2016).</p>
+
+<p><a class="reference" id="53" href="#inline53">[53]</a> Mohamed Elewa Badar, ‘‘Just Convict Everyone!’ – Joint Perpetration: From Tadić To Stakić And Back Again’ (2006) 6 International Criminal Law Review.</p>
+
+<p><a class="reference" id="54" href="#inline54">[54]</a> Will McMahon and Rebecca Roberts,’Truth And Lies About ‘Race’ And ‘Crime’(Centre for Crime and Justice Studies, 8 March 2011) <a href="https://www.crimeandjustice.org.uk/publications/cjm/article/truth-and-lies-about-race-and-crime">https://www.crimeandjustice.org.uk/publications/cjm/article/truth-and-lies-about-race-and-crime</a> accessed 24 January 2021.</p>
+
+<p><a class="reference" id="55" href="#inline55">[55]</a> Crime Prosecution Service, ‘Secondary Liability: Charging Decisions On Principals And Accessories (<em>CPS</em>, 4 February 2019) <a href="https://www.cps.gov.uk/legal-guidance/secondary-liability-charging-decisions-principals-and-accessories">https://www.cps.gov.uk/legal-guidance/secondary-liability-charging-decisions-principals-and-accessories</a> accessed 24 January 2021.</p>
+
+<p><a class="reference" id="56" href="#inline56">[56]</a> ibid.</p>
+
+<p><a class="reference" id="57" href="#inline57">[57]</a> Henry Moore, ‘Does the Criminal Law of Joint Enterprise Cause Injustice?’ (2016) 3 Gray’s Inn Student Law Journal.</p>
+
+<p><a class="reference" id="58" href="#inline58">[58]</a> Williams and Clarke (n 53).</p>
+
+<p><a class="reference" id="59" href="#inline59">[59]</a> Crime Prosecution Service (n 56).</p>
+
+<p><a class="reference" id="60" href="#inline60">[60]</a> <em>R v Goodall (Durrell)</em> [2019] EWCA Crim 1109 (Sentencing judgement only) Substantive arguments obtained from: Guardian</p>
+
+<p><a class="reference" id="61" href="#inline61">[61]</a> Stopes (n 51).</p>
+
+<p><a class="reference" id="62" href="#inline62">[62]</a> ibid.</p>
+
+<p><a class="reference" id="63" href="#inline63">[63]</a> ibid.</p>
+
+<p><a class="reference" id="64" href="#inline64">[64]</a> ibid.</p>
+
+<p><a class="reference" id="65" href="#inline65">[65]</a> Simon Hallsworth, <em>The Gang and Beyond: Interpreting Violent Street Worlds</em> (Houndmills, Basingstoke, Hampshire: Palgrave Macmillan 2013) 119.</p>
+
+<p><a class="reference" id="66" href="#inline66">[66]</a> Joel Feinberg, ‘Collective Responsibility’ [1968] 65 The Journal of Philosophy 681</p>
+
+<p><a class="reference" id="67" href="#inline67">[67]</a> ‘Met Police Using ‘Racially Discriminatory’ Gangs Matrix Database’ (Amnesty International UK, 9 May 2018) <a href="https://www.amnesty.org.uk/press-releases/met-police-using-racially-discriminatory-gangs-matrix-database">https://www.amnesty.org.uk/press-releases/met-police-using-racially-discriminatory-gangs-matrix-database</a> accessed 24 February 2021.</p>
+
+<p><a class="reference" id="68" href="#inline68">[68]</a> McMahon and Roberts (n 55).</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>The Grossly Undefined Threshold for Establishing Medical Manslaughter</title>
+	  <link>/blog-v2//2019/12/grossly-undefined-threshold-establishing-medical-manslaughter/</link>
+	  <author></author>
+	  <pubDate>2019-12-14T00:00:00+00:00</pubDate>
+	  <guid>/blog-v2//2019/12/grossly-undefined-threshold-establishing-medical-manslaughter/</guid>
+	  <description><![CDATA[
+	     <h5 id="abstract1">Abstract:<a class="inline-reference" id="inline1" href="#1">1</a></h5>
+
+<p>The English Law on “medical manslaughter”, manifested through the common law offence of gross negligence manslaughter, may be broadly defined as the defendant’s grossly negligent act  or omission, when acting within the terms of their duty of care, which results in the victim’s death. With the current crisis facing the NHS, prosecution of medical practitioners for medical negligence is growing in prominence as a controversial issue, one of which commentators and medical professionals alike are critical of. In the recent case of <em>R v Bawa-Garba (‘Bawa-Garba’)</em>, these criticisms of the current regime concerning gross medical negligence have reached the breaking point. Following a controversial High Court conviction of an NHS junior doctor of gross negligence manslaughter, the Court of Appeal’s refusal the doctor’s leave to appeal sparked a public debate on both legal and political grounds. This case note will begin by providing an account of the <em>Bawa-Garba</em> case. Furthermore, it will consider the problems with the arbitrary standard of gross negligence in the offence of gross negligence manslaughter, and potential incompatibilities with Article 7 of the Human Rights Act (1998). Following that, the legal issues in establishing causation will be examined in light of complications created by existing systemic issues of the NHS, eliciting concern for the “blame culture”<a class="inline-reference" id="inline2" href="#2">2</a> in the medical profession. Lastly, the argument that the legal uncertainty in this area warrants the re-assessment of the case and the law will be advanced.</p>
+
+<h5 id="part-i-case-digest">Part I: Case Digest</h5>
+
+<h6 id="key-facts3"><u>Key facts<a class="inline-reference" id="inline3" href="#3">3</a></u></h6>
+
+<p>A junior doctor, Dr Bawa-Garba applied for permission to appeal against her jury conviction for gross negligence manslaughter for the death of Jack Adcock, a six-year-old boy with Down’s syndrome. In the Crown Court, the jury found Dr Bawa-Garba guilty by a majority of 10 to 2. She was initially sentenced to 24 months imprisonment and suspended for 24 months. Her application for leave to appeal against the conviction was dismissed by the Court of Appeal in December 2016.</p>
+
+<p>Dr Bawa-Garba was the most senior junior doctor on duty at the time when the victim was admitted to the hospital. Jack Adcock was initially treated for acute gastro-enteritis and dehydration and subsequently pneumonia after an x-ray had been taken. The reality was that upon admission to the hospital, the victim’s pneumonia had caused him to go into septic shock, resulting in heart failure. Efforts to resuscitate him were to no avail.</p>
+
+<p>The prosecution’s case was that Dr Bawa-Garba’s serious neglect “had contributed to or caused the boy’s death”, includingfailing to recognise the significance of the victim’s blood test results and to detect sepsis; failing to ask her consultant to review the victim’s condition, and failing to notify Jack’s mother not to administer enalapril (one of the victim’s long-term medications) to Jack, which would precipitously drop blood pressure. The Crown contended that Dr Bawa-Garba’s repeated mistakes over a protracted period amounted to conduct and fell so far below the standard of care expected of a competent professional that it amounted to gross negligence, warranting a criminal conviction.<a class="inline-reference" id="inline4" href="#4">4</a></p>
+
+<h6 id="issues"><u>Issues</u></h6>
+
+<p>On appeal, the defendant contended that there had been a misdirection of the jury in determining the question of causation. The trial judge (Nicol J) had directed the jury to consider whether the victim had “died significantly sooner”<a class="inline-reference" id="inline5" href="#5">5</a> due to the defendant’s negligence for the prosecution to prove their case. The defendant averred that the right test would have been for the jury to “be sure that there would have been significant prolongation of Jack’s life”<a class="inline-reference" id="inline6" href="#6">6</a> had the right treatment been given.</p>
+
+<h5 id="part-ii-case-debate">Part II: Case Debate</h5>
+
+<h6 id="a-the-ambiguities-of-gross-negligence"><u>(a) The ambiguities of gross negligence</u></h6>
+
+<p><em>R v Adomako (‘Adomako’)</em>,<a class="inline-reference" id="inline7" href="#7">7</a> the leading authority on gross negligence manslaughter, defined a five-step test for the offence. Firstly, there must have been a duty of care; secondly, that duty must have been breached; thirdly, the defendant’s breach must have caused the victim’s death; fourthly, there must have been an obvious risk of death, and fifthly, the defendant’s conduct must have been grossly negligent enough to warrant a criminal conviction. The case of <em>Bawa-Garba</em> subjects the third and fifth limbs of the test to scrutiny.</p>
+
+<p>To begin with, <em>Bawa-Garba</em> highlights the lack of clarity in the law with regards to the threshold requirement for the establishment of gross negligence. Since merely causing or allowing death to occur through negligence will not incur a charge of manslaughter, criminal liability for the offence requires an extreme deviation from a reasonable standard of care. Academics such as Kazarian, Griffifths and Brazier have identified the main issue with English Law on gross negligence manslaughter as the “elusive concept of grossness”.<a class="inline-reference" id="inline8" href="#8">8</a> Such elusiveness can be seen in the differing legal tests that have been developed following <em>Adomako</em>. The threshold for establishing gross negligence was prescribed in <em>Adomako</em> as a “breach of duty (that was) so bad, so obviously wrong, that, having regard to the risk of death involved in it, it can properly be condemned as criminal”.<a class="inline-reference" id="inline9" href="#9">9</a> The tone of certitude masks the reality of an ill-defined threshold for gross negligence that fails to adequately distinguish between flagrant negligence and fleeting error.<a class="inline-reference" id="inline10" href="#10">10</a></p>
+
+<p>On principle, the Adomako test has often been criticised to be circular,<a class="inline-reference" id="inline11" href="#11">11</a> with the level of negligence required to hold the defendant culpable being defined as sufficiently negligent to deserve a criminal conviction for manslaughter.<a class="inline-reference" id="inline12" href="#12">12</a> Furthermore, the inability of the <em>Adomako</em> test to meet the test of certainty required by Article 7 of the Human Rights Act 1998 was challenged in <em>R v</em> <em>Misra (‘Misra’).</em> Article 7 stipulates that one should not be held guilty for an action that was not a criminal offence when it was committed,<a class="inline-reference" id="inline13" href="#13">13</a> meaning that clarity on the law is required for doctors to know if their actions are grossly negligent and liable to criminalisation. However, this was quashed in <em>Misra</em> by Lord Justice Judge’s assertion that the question was “not whether the defendant’s negligence was gross, and whether, additionally, it was a crime, but whether his behaviour was grossly negligent and consequently criminal”.<a class="inline-reference" id="inline14" href="#14">14</a> This clarification, unsatisfactory at best, has been characterised by Horder as a “distinction without difference”,<a class="inline-reference" id="inline15" href="#15">15</a> exposing just how manifestly undefined the threshold for “gross” conduct remains today. Given that the medical profession is already fraught with unpredictability and precariousness, such added uncertainty evokes great unease with the current state of law.</p>
+
+<p>In practice, subsequent case law has departed slightly from this definition. More significantly, differing court interpretations have created a degree of legal uncertainty across different cases, demonstrating the elusive aspect of Kazarian’s observation. While the requirement for negligent conduct to be “gross” was “truly exceptionally bad” in <em>Bawa-Garba</em>, it was defined as “reprehensible conduct” in <em>Misra</em>. The use of judicial epithets for gross negligence reflects what Quick terms the “definitional difficulty” of gross negligence manslaughter in the medical context, with no standardised and objective method of categorising episodes as “gross” or “not gross”.<a class="inline-reference" id="inline16" href="#16">16</a> Empirical evidence has shown the lack of a clear distinction to create an ambivalent definition, generating “inconsistencies in the verdicts”.<a class="inline-reference" id="inline17" href="#17">17</a> For Dr Bawa-Garba, the repercussions of this meant that her impeccable track record was instantly invalidated by a momentary blunder made after a twelve-hour understaffed shift. Moreover, the fact that there is no statutory footing for gross negligence manslaughter means that the parameters of the crime are defined through case law developments only, despite the severity of the crime. This is further complicated by the fact that <em>Adomako</em> leaves the jury with a wide discretion to decide whether the accused should be convicted.<a class="inline-reference" id="inline18" href="#18">18</a> As Lord Mackay’s statement essentially asserts that the jury is deliberating a question of law when deciding whether to convict a defendant.<a class="inline-reference" id="inline19" href="#19">19</a> Such discretion produces difficulty in predicting jury decisions by creating a margin to make moral decisions. Despite generating a criminal label upon conviction, gross negligence manslaughter remains an issue in flux.</p>
+
+<h6 id="b-systemic-v-individual-failures"><u>(b) Systemic v Individual failures</u></h6>
+
+<p>However, the legal uncertainty created by the ambiguous threshold for establishing grossly negligent conduct is but a preface to the wider debate concerning individual failure in relation to systemic failures within the NHS.</p>
+
+<p>The defendant’s innocence found rapport in the medical profession’s strong dissent against the court’s judgement. Many felt the charge for gross negligence manslaughter was unjustified in light of the wider systemic failings of the NHS, contending that Dr Bawa-Garba had been scapegoated for the system’s shortcomings, such as chronic understaffing, a faulty IT system, and poor rotational shift planning.<a class="inline-reference" id="inline20" href="#20">20</a> Dr Bawa-Garba’s personal mistakes were to an extent induced by her pressured situation, and, therefore, should not be separated in assessing her overall culpability.</p>
+
+<p>Moreover, failure to factor system problems into the trial process has led to a narrowed scope of understanding causation. By failing to couch individual failures in wider systemic issues, the law on causation has fostered a “blame culture”.<a class="inline-reference" id="inline21" href="#21">21</a> Such a public reaction can be reasonably construed as reflective of how the law of causation falls short of accounting for the complexities of healthcare. The courtroom dissection of hospital tragedies can and may unfairly attribute the blame to the defendant, failing to consider the unpredictable reality of medical practice particularly within the context of NHS burgeoning problem of overstretched resources.<a class="inline-reference" id="inline22" href="#22">22</a></p>
+
+<p>As Anthony Harvey contends, individual acts of negligence are often identifiable as the product of some larger collective process.<a class="inline-reference" id="inline23" href="#23">23</a> If it is accepted that criminal responsibility should not start and end with the doctor on trial, then perhaps a widening of the individualistic paradigm currently adopted by the judiciary should follow.</p>
+
+<h6 id="c-causation-and-culpability"><u>(c) Causation and culpability</u></h6>
+
+<p>To what extent, if any, should context be factored into the legal issue of establishing causation remains contentious and unclear. In <em>Bawa-Garba</em>, it was sufficient for the prosecution to prove causation by showing that death “occurred significantly sooner”<a class="inline-reference" id="inline24" href="#24">24</a> when the necessary treatment was not administered, despite it being unclear if the right treatment would have saved the victim’s life. The fact that the victim died significantly sooner due to the defendant’s negligence was held to be an “inescapable corollary”<a class="inline-reference" id="inline25" href="#25">25</a> of certainty that “competent treatment would have saved or significantly prolonged life”,<a class="inline-reference" id="inline26" href="#26">26</a> effectively quashing the defendant’s leave to appeal.</p>
+
+<p>There has been difficulty in the law in definitively apportioning the extent to which causation is a question of law rather than a question of fact. Theorists such as Brudner<a class="inline-reference" id="inline27" href="#27">27</a> consider the fairness of imputing the consequence on the defendant, whereas others such as Moore<a class="inline-reference" id="inline28" href="#28">28</a> would argue that causation should be decided independently of culpability. Such a polarised opinion on whether causation is ultimately a question of fact or law has compromised on the coherence of the law’s approach to causation. Given the complex factual matrix of <em>Bawa-Garba</em> and the nuances typical of the medical environment, it lends credence to Herring’s argument that it is simply impossible for any guiding rules on causation to be established.<a class="inline-reference" id="inline29" href="#29">29</a> Rather, the judge simply considers the common-sense answer to the question of causation and declares that to be the legal position.<a class="inline-reference" id="inline30" href="#30">30</a></p>
+
+<p>Another key issue with this approach is that it focusses on causal attribution of individual blame, arguably failing to adequately consider the contextual concerns of the case. At the time of the tragedy, Dr Bawa-Garba’s circumstances were clearly fraught with system pressures, including a twelve-hour double-shift during which she was the only junior doctor present, and an IT failure that delayed the victim’s blood test results for six hours.<a class="inline-reference" id="inline31" href="#31">31</a> These circumstantial factors, having caused Dr Bawa-Garba’s mistakes, were not sufficiently considered. Given that the offence of gross negligence manslaughter seeks to assess individual culpability, such systemic failings were only considered to be “of peripheral relevance”<a class="inline-reference" id="inline32" href="#32">32</a> to the trial, and only taken as mitigating factors during the sentencing stage.</p>
+
+<p>Donaldson postulates that “avoidable harm is at its most contentious when the focus is on accountability”.<a class="inline-reference" id="inline33" href="#33">33</a> By demanding individual accountability, the judicial approach taken to causation seeks to apportion blame to the prosecuted individual in a vulnerable position. The scope for determining causation is narrowed down to the actions of the individual being judged in the courtroom, rather than a holistic consideration of systemic failures. Unfortunately, this seemed to be the case in <em>Bawa-Garba</em>. In response to the case, the Minister of Health ordered an official review of medical manslaughter prosecutions attempting to ensure that “systemic issues and human factors” are taken into account, suggesting that the frame for identifying causation has to be reworked.</p>
+
+<h5 id="concluding-thoughts">Concluding thoughts</h5>
+
+<p>In conclusion, this case highlights the incompatibility of criminal justice system with the complex nature of healthcare, illustrating the limits of criminal law in administering justice in the field of medical error. <em>Bawa-Garba</em> evidences that the problem with the law on gross negligence manslaughter lies in its inherent state of unclarity in the areas of causation establishment and the threshold for grossly negligent treatment. Inaccuracies remain both in principle and in practice given the systemic failings of the NHS. As such, this case should have been successfully appealed, and the conviction for manslaughter quashed. The defendant was a victim in her own right, having been ensnared by the ambiguity in the present law on gross negligence manslaughter. Reforms are much needed to rectify the implications of such uncertainty on personal accountability. In determining the issue of gross negligence and causation, failure to consider the realities of practice and systemic failings has created a highly unfair situation, where the weight of one systemic disaster has fallen onto the shoulders of a single doctor as a personal catastrophe.</p>
+
+<hr />
+<p><br /></p>
+
+<p><a class="reference" id="1" href="#inline1">[1]</a>
+My sincere thanks to the LSE Law Review editorial board and Mr Mattia Pinto for their comments on an earlier draft. All errors remain my own.</p>
+
+<p><a class="reference" id="2" href="#inline2">[2]</a>
+Hannah Quirk, ‘Sentencing white coat crime: the need for guidance in medical manslaughter cases’ [2013] CLR, 2.</p>
+
+<p><a class="reference" id="3" href="#inline3">[3]</a>
+<em>R v Bawa-Garba (Hadiza)</em> [2016] EWCA Crim 1841.</p>
+
+<p><a class="reference" id="4" href="#inline4">[4]</a>
+Ibid 9.</p>
+
+<p><a class="reference" id="5" href="#inline5">[5]</a>
+Ibid 19.</p>
+
+<p><a class="reference" id="6" href="#inline6">[6]</a>
+Ibid 23.</p>
+
+<p><a class="reference" id="7" href="#inline7">[7]</a>
+<em>R v Adomako (John Asare)</em> [1995] 1 AC 171, [1994] 99 Cr App R [362].</p>
+
+<p><a class="reference" id="8" href="#inline8">[8]</a>
+M. Kazarian, D. Griffiths and M. Brazier ‘Criminal responsibility for medical malpractice in France’ (2011) 27 Professional Negligence 185.</p>
+
+<p><a class="reference" id="9" href="#inline9">[9]</a>
+<em>R v Sellu</em> [2016] EWCA Crim 1716 [151].</p>
+
+<p><a class="reference" id="10" href="#inline10">[10]</a>
+<a href="https://www.barcouncil.org.uk/media/627460/_35__law_reform_essay.pdf">https://www.barcouncil.org.uk/media/627460/_35__law_reform_essay.pdf</a> accessed 24 November 2019.</p>
+
+<p><a class="reference" id="11" href="#inline11">[11]</a>
+Jeremy Horder, <em>Ashworth’s Principles of Criminal Law</em> (9th edn, OUP 2019) 305.</p>
+
+<p><a class="reference" id="12" href="#inline12">[12]</a>
+Ibid.</p>
+
+<p><a class="reference" id="13" href="#inline13">[13]</a>
+Human Rights Act 1998, Article 7.</p>
+
+<p><a class="reference" id="14" href="#inline14">[14]</a>
+<em>R v Misra (Amit)</em> [2004] EWCA Crim 2375, [2005] 1 Cr App R 21 [62].</p>
+
+<p><a class="reference" id="15" href="#inline15">[15]</a>
+Jeremy Horder, <em>Ashworth’s Principles of Criminal Law</em> (9th edn, OUP 2019) 305.</p>
+
+<p><a class="reference" id="16" href="#inline16">[16]</a>
+Oliver Quick, ‘Medicine, mistakes and manslaughter: a criminal combination?’ [2010] CLJ 69(1).</p>
+
+<p><a class="reference" id="17" href="#inline17">[17]</a>
+B. Mitchell and R.D. MacKay, “Investigating Involuntary Manslaughter: An Empirical Study of 127 Cases” (2011) 165.</p>
+
+<p><a class="reference" id="18" href="#inline18">[18]</a>
+Jonathan Herring, <em>Criminal Law: Text, Cases, and Materials</em> (8th edn, OUP 2018) 273.</p>
+
+<p><a class="reference" id="19" href="#inline19">[19]</a>
+Jeremy Horder, <em>Ashworth’s Principles of Criminal Law</em> (9th edn, OUP 2019) 305.</p>
+
+<p><a class="reference" id="20" href="#inline20">[20]</a>
+Harriet Agerholm, “Dr Bawa-Garba : Doctors threaten to boycott their appraisals over treatment of trainee paediatrician” (The Independent, 1 February 2018) <a href="https://www.independent.co.uk/news/health/dr-bawa-garba-gmc-doctor-boycott-appraisals-trainee-paediatrician-jack-adcock-death-junior-a8189196.html">https://www.independent.co.uk/news/health/dr-bawa-garba-gmc-doctor-boycott-appraisals-trainee-paediatrician-jack-adcock-death-junior-a8189196.html</a> accessed 13 December 2019.</p>
+
+<p><a class="reference" id="21" href="#inline21">[21]</a>
+Hannah Quirk, ‘Sentencing white coat crime: the need for guidance in medical manslaughter cases’ [2013] CLR 2.</p>
+
+<p><a class="reference" id="22" href="#inline22">[22]</a>
+Ed Nicol WC ‘Targeting Limited NHS Resources to Affect Optimal Care’ [2017] CME RCP Journal 17(3) 195-96.</p>
+
+<p><a class="reference" id="23" href="#inline23">[23]</a>
+Anthony Harvey, ‘Doctors in the Dock: Criminal Liability for Negligent Treatment Resulting in the Death of a Patient’ [1994] LLR 16(2).</p>
+
+<p><a class="reference" id="24" href="#inline24">[24]</a>
+<em>R v Bawa-Garba (Hadiza)</em> [2016] EWCA Crim 1841 [19].</p>
+
+<p><a class="reference" id="25" href="#inline25">[25]</a>
+Ibid.</p>
+
+<p><a class="reference" id="26" href="#inline26">[26]</a>
+Ibid.</p>
+
+<p><a class="reference" id="27" href="#inline27">[27]</a>
+Jonathan Herring, <em>Criminal Law: Text, Cases, and Materials</em> (8th edn, OUP 2018) 114.</p>
+
+<p><a class="reference" id="28" href="#inline28">[28]</a>
+Ibid.</p>
+
+<p><a class="reference" id="29" href="#inline29">[29]</a>
+Jonathan Herring, <em>Criminal Law: Text, Cases, and Materials</em> (8th edn, OUP 2018) 115.</p>
+
+<p><a class="reference" id="30" href="#inline30">[30]</a>
+Ibid.</p>
+
+<p><a class="reference" id="31" href="#inline31">[31]</a>
+Although Dr Bawa-Garba had ordered the blood test results at about 10:45pm, she did not receive them until about 4:15pm.</p>
+
+<p><a class="reference" id="32" href="#inline32">[32]</a>
+<em>Bawa-Garba v General Medical Council</em> [2018] EWCA Civ 1879, [2018] Med LR 561 [74].</p>
+
+<p><a class="reference" id="33" href="#inline33">[33]</a>
+Donaldson Liam J, Lemer Claire and Titcombe James, ‘In harm’s way’ (2019) BMJ.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
