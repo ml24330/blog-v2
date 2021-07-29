@@ -18,6 +18,10 @@
   margin: 5px 0 10px 0;
 }
 
+.post-content {
+  text-align: justify;
+}
+
 .cambridge {
   width: 800px;
 }
