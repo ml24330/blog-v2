@@ -129,7 +129,7 @@
   width: 50px;
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: red; /* Set a background color */
+  background-color: hsla(280, 50%, 80%, 1); /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 10px 5px; /* Some padding */
@@ -144,10 +144,18 @@
 
 .search {
   color: black;
+  background-color: inherit;
   right: 140px;
   top: 35px;
   width: 230px;
   margin-bottom: 0;
+  margin-left: 10px;
+}
+
+@media (max-width: 992px) {
+  .search {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 500px) {
@@ -167,26 +175,9 @@
 .widgets button {
   width: 95%;
   margin: 4px 0;
-  background-color: rgb(249, 192, 139);
+  background-color: hsla(280, 50%, 80%, 1);
   color: black;
   font-size: 1.4rem;
-}
-
-@font-face {
-  font-family: Libre Baskerville;
-  src: url(../fonts/LibreBaskerville-Regular.ttf);
-}
-
-@font-face {
-  font-family: Libre Baskerville;
-  src: url(../fonts/LibreBaskerville-Italic.ttf);
-  font-style: italic;
-}
-
-@font-face {
-  font-family: Libre Baskerville;
-  src: url(../fonts/LibreBaskerville-Bold.ttf);
-  font-weight: bold;
 }
 
 /*!
@@ -234,7 +225,7 @@
 
 html {
   scroll-behavior: smooth;
-  font-family: Libre Baskerville, Arial, sans-serif;
+  font-family: 'Merriweather', Arial, sans-serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -3440,7 +3431,7 @@ input[type="button"].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #007bff;
+  background-color: hsla(280, 50%, 50%, 1);
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {

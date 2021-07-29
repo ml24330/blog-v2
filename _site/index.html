@@ -92,62 +92,6 @@
     <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v11.0&appId=404002344270641&autoLogAppEvents=1" nonce="E56q8z3w"></script>
     
     <!-- The blog navigation links -->
-    <div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-        <div class="nav-parent">
-            <li class="nav-home  nav-current" role="presentation"><a href="/"><strong>Home</strong></a></li>
-        </div>
-        <div class="nav-parent">
-            <li class="nav-about " role="presentation"><a href="#"><strong>About</strong></a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/about">About Us</a></li>
-            <li class="nav-child nav-about" role="presentation"><a href="https://lawreview.lse.ac.uk/about/editorialteam/" target="_blank" rel="noopener">Editorial Team</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/sponsors">Sponsors</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/partners">Partners</a></li>
-        </div>
-        <div class="nav-parent">
-            <li class="nav-about " role="presentation"><a href="#"><strong>Authors</strong></a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/author">All Authors</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/prizewinners">Prize Winners</a></li>
-        </div>
-        <div class="nav-parent">
-            <li class="nav-about " role="presentation"><a href="#"><strong>Article by Categories</strong></a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/category/Criminal Law">Criminal Law</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/category/International Law">International Law</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/category/Private Law">Private Law</a></li>
-            <li class="nav-child nav-about " role="presentation"><a href="/category/Public Law">Public Law</a></li>
-        </div>
-        <div class="nav-parent">
-            <li class="nav-about " role="presentation"><a href="/submission"><strong>Submission Guideline</strong></a></li>
-        </div>
-        <div class="nav-parent">
-            <li class="nav-about" role="presentation"><a href="https://lselawreview.com" target="_blank" rel="noopener"><strong>Main Journal Site</strong></a></li>
-        </div>
-    </ul>
-    <a class="subscribe-button icon-feed" href="/#subscribe">Subscribe</a>
-</div>
-<span class="nav-cover"></span>
-<script>
-    const elements = document.getElementsByClassName('nav-parent')
-    const handler = (idx) => {
-        return () => {
-            if(elements[idx].classList.contains('nav-show')) {
-                elements[idx].classList.remove('nav-show')
-                elements[idx].classList.add('nav-hidden')
-            } else {
-                elements[idx].classList.add('nav-show')
-                elements[idx].classList.remove('nav-hidden')
-            }
-        }
-    }
-    for(let i=0;i<elements.length;i++) {
-        elements[i].addEventListener('click', handler(i))
-    }
-</script>
-
 
     <div class="site-wrapper">
 
@@ -232,7 +176,7 @@
 </style>
 
 <a class="header-title"><img style="height: 50px;margin-right: 20px;margin-top: -5px;" src="/assets/images/logo.png" />LSE Law Review Blog</a>
-<nav style="position: sticky; top: 0; z-index: 99; background-color:white;" class="navbar navbar-expand-lg navbar-light">
+<nav style="position: sticky; top: 0; background-color: white; z-index: 99;" class="navbar navbar-expand-lg navbar-light">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -690,8 +634,7 @@ function lunr_search(term) {
         <div class="post-title" style="    text-align: center;
         font-size: 3rem;
         margin-bottom: 40px;
-        font-weight: bold;
-        font-family: 'Libre Baskerville';">Recent Posts</div>
+        font-weight: bold;">Recent Posts</div>
         
         <div class="extra-pagination inner">
             
@@ -2212,8 +2155,8 @@ function lunr_search(term) {
         <button class="btn-hide"><a href="/#subscribe">Subscribe</a></button>
         <button style="margin-bottom: 20px"><a href="/privacy-policy">Privacy Policy</a></button>
         <div style="width: 340px; height: 500px;" class="fb-page" data-href="https://www.facebook.com/lselawreview" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/lselawreview" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lselawreview">LSE Law Review</a></blockquote></div>
-        <img class="home-img" alt="Launch Night" src="/assets/images/Launch.jpg"/>
-        <img class="home-img" alt="Launch Night" src="/assets/images/Launch2.jpg"/>
+        <img style="margin-top: 20px" class="home-img" alt="Launch Night" src="/assets/images/Launch.jpg"/>
+        <img style="margin-top: 20px" class="home-img" alt="Launch Night" src="/assets/images/Launch2.jpg"/>
     </div>  
     
     </div>
@@ -2247,7 +2190,7 @@ function lunr_search(term) {
                         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1c43ace496ccffe53f6755bf0_f0850829d5" tabindex="-1" value=""></div>
                     </div>
                     <div class="col-auto">
-                        <input class="form-control btn btn-info" style="margin-top: 5px; font-size: 1.8rem; text-align:center;" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+                        <input class="form-control btn btn-info" style="margin-top: 5px; font-size: 1.8rem; text-align:center;background-color: hsla(280, 50%, 50%, 1);border:none;" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
                     </div>
                 </div>    
             </form>
@@ -2290,7 +2233,7 @@ function lunr_search(term) {
             <!--Grid column-->
             <div class="col-auto">
               <!-- Submit button -->
-              <input class="btn btn-brand-color btn-primary" style="font-size: 1.8rem;" type="submit" value="Send">
+              <input class="btn btn-brand-color btn-primary" style="font-size: 1.8rem;background-color: hsla(280, 50%, 50%, 1);border:none;" type="submit" value="Send">
             </div>
             <!--Grid column-->
           <!--Grid row-->
